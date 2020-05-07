@@ -1,7 +1,9 @@
+---
+title: "Migration Pathways"
+weight: 5
+---
 <!--- (c) Tom Fifield, licensed under a
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. -->
-
-# Migration Pathways
 
 ## Should I switch from an APRC to a Gold Card?
 According to NIA officials, no. They stress that this card is nonrenewable and you must go through

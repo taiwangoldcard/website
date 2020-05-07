@@ -1,7 +1,9 @@
+---
+title: "Tax"
+weight: 6
+---
 <!--- (c) Tom Fifield, licensed under a
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. -->
-
-# Tax
 
 > Note: please consult your accountant before relying on content from this section.
 

@@ -1,6 +1,6 @@
 ---
 title: "Shortcodes Applied"
-weight: 7
+weight: 12
 description: >
   This is how the shortcodes would look like in action
 ---
