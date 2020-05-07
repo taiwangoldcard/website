@@ -1,4 +1,4 @@
-baseURL = "https://compose-docs.netlify.com/"
+baseURL = "https://taiwangoldcard.github.io/goldcard.tw/"
 title = "GoldCard.tw"
 enableRobotsTXT = true
 theme = "compose"
