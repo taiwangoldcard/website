@@ -18,7 +18,7 @@ by `GoldCard holders`.
 
 {{< /column >}}
 {{< column >}}
-![diy](/images/diy.jpeg)
+![diy](./images/taiwan-unsplash.jpeg)
 
 <!-- Photo by [Jasmin Schreiber](https://unsplash.com/@lavievagabonde?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash -->
 
