@@ -1,0 +1,33 @@
+<nav class="wrap nav">
+	<a href="{{ .Site.BaseURL }}">
+		<picture>
+			{{- $logos := .Site.Params.logo }}
+			{{- $normalPath := absURL (printf "images/%s" $logos.lightMode) }}
+			{{- $darkPath := absURL (printf "images/%s" $logos.darkMode) }}
+			
+			<source srcset = '{{ $darkPath }}' media="(prefers-color-scheme: dark)">
+			<img srcset = '{{ $normalPath }}' alt = '{{ .Site.Title }} Logo'>
+		</picture>
+	</a>
+	{{ if .Site.Params.enableSearch | default true }}
+	{{- partial "search.html" . }}
+	{{ end }}
+	<ul class="nav_body">
+		{{- $p := . }}
+		{{- range .Site.Menus.main }}
+		<li class="nav-item">
+			{{- $active := or ($p.IsMenuCurrent "main" .) ($p.HasMenuCurrent "main" .) }}
+			{{- with .Page }}
+			{{- $active = or $active ( $.IsDescendant .)  }}
+			{{- end }}
+			{{- $url := urls.Parse .URL }}
+			{{- $baseurl := $.Site.BaseURL }}
+			<a class="nav-link{{if $active }} active{{end}}" href="{{ with .Page }}{{ $baseurl }}{{ .Permalink }}{{ else }}{{ $baseurl }}{{ .URL }}{{ end }}"><span{{if $active }} class="active"{{end}}>{{ .Name }}</span></a>
+		</li>
+		{{- end }}
+		{{ $repo := .Site.Params.source }}
+		<li class="nav-item">
+			<a class="nav-link" href="{{ $repo.url }}" target="_blank">{{ $repo.name }}</a>
+		</li>
+	</ul>
+</nav>

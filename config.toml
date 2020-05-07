@@ -1,0 +1,47 @@
+baseURL = "https://compose-docs.netlify.com/"
+title = "GoldCard.tw"
+enableRobotsTXT = true
+theme = "compose"
+enableGitInfo = false
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+#  menu items
+[[menu.main]]
+    name = "Frequented Asked Questions"
+    weight = 2
+    url = "docs/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = false
+    style = "monokai"
+    tabWidth = 2
+
+# Everything below this are Site Params
+
+[params]
+  author = "GoldCard.tw"
+  enableSearch = true
+  searchPlaceholder = "Search ..."
+  repo = "https://github.com/onweru/compose"
+
+  time_format_blog = "Monday, January 02, 2006"
+  time_format_default = "January 2, 2006"
+  [params.logo]
+    lightMode = "gc.svg"
+    darkMode = "gc-light.svg"
+
+  [params.source]
+    name = "Apply for Gold Card"
+    icon = "github.svg"
+    url = "https://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/golden-card"
