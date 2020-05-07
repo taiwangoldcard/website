@@ -1,6 +1,6 @@
 ---
 title: "Shortcodes"
-weight: 5
+weight: 11
 description: >
   Use hugo shortcodes to quickly compose site pages.
 ---

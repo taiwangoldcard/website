@@ -1,8 +1,9 @@
+---
+title: "At Work"
+weight: 2
+---
 <!--- (c) Tom Fifield, licensed under a
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. -->
-
-
-# At Work
 
 ## What do I need to tell my employer about the Gold Card?
 Your Gold Card is a four-in-one document that contains your work permit, residence visa, reentry

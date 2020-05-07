@@ -1,8 +1,9 @@
+---
+title: "Renewal & Validity"
+weight: 7
+---
 <!--- (c) Tom Fifield, licensed under a
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. -->
-
-
-# Renewal & Validity
 
 ## How long is a gold card valid?
 By default, between one and three years. If you are concerned your card (or underlying visa/work

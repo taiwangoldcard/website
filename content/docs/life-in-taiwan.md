@@ -1,7 +1,10 @@
+---
+title: "Life in Taiwan"
+weight: 4
+---
 <!--- (c) Tom Fifield, licensed under a
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. -->
 
-# Life in Taiwan
 
 ## Can I purchase real-estate?
 In general, yes, if your country allows Taiwanese nationals to purchase real estate in your
