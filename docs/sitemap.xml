@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://compose-docs.netlify.com/docs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://compose-docs.netlify.com/docs/getting-started/overview/</loc>
+  </url>
+  
+  <url>
+    <loc>https://compose-docs.netlify.com/docs/getting-started/shortcodes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://compose-docs.netlify.com/docs/getting-started/shortcodes-example/</loc>
+  </url>
+  
+  <url>
+    <loc>https://compose-docs.netlify.com/docs/application/</loc>
+  </url>
+  
+  <url>
+    <loc>https://compose-docs.netlify.com/docs/at-work/</loc>
+  </url>
+  
+  <url>
+    <loc>https://compose-docs.netlify.com/docs/health-insurance/</loc>
+  </url>
+  
+  <url>
+    <loc>https://compose-docs.netlify.com/docs/life-in-taiwan/</loc>
+  </url>
+  
+  <url>
+    <loc>https://compose-docs.netlify.com/docs/migration-pathways/</loc>
+  </url>
+  
+  <url>
+    <loc>https://compose-docs.netlify.com/docs/tax/</loc>
+  </url>
+  
+  <url>
+    <loc>https://compose-docs.netlify.com/docs/validity/</loc>
+  </url>
+  
+  <url>
+    <loc>https://compose-docs.netlify.com/</loc>
+  </url>
+  
+</urlset>
