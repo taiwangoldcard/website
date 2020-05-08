@@ -9,7 +9,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 #  menu items
 [[menu.main]]
-    name = "Frequented Asked Questions"
+    name = "FAQ"
     weight = 2
     url = "faq/"
 
@@ -32,7 +32,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
   author = "GoldCard.tw"
-  enableSearch = false
+  enableSearch = true
   searchPlaceholder = "Search ..."
   repo = "https://github.com/onweru/compose"
 
@@ -43,6 +43,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     darkMode = "gc-light.svg"
 
   [params.source]
-    name = "Apply for Gold Card"
+    name = "Apply"
     icon = "github.svg"
     url = "https://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/golden-card"
