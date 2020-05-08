@@ -72,8 +72,7 @@ Generally you should apply personally. Employers can help with the process, but 
 
 ## How do I decide the duration to apply for (1-3 years)?
 You select this during the application process. You could go for a shorter duration if you have
- concrete plans. Otherwise, it’s probably better to go for a longer duration - this costs more,
- but delays the hassle of finding the next visa (or going through the gold card application process again).
+ concrete plans. Otherwise, it’s probably better to go for a longer duration. There is no justification needed on how long you'd like to stay. This costs more, but delays the hassle of finding the next visa (or going through the gold card application process again). 
 
 ## I currently live in Taiwan. Does my professional services/sole proprietor/dividend income count towards the salary requirement for Gold Card application?
 TBA
@@ -84,6 +83,8 @@ TBA
 ## What fees are involved in a Gold Card application?
 There is only one fee, which is paid through the Gold Card application portal. There are no
  separate visa or work permit fees.
+
+The fees varies if you apply from Taiwan or oversea, and the duration of the visa. You can check [Article 7 of this page](https://www.immigration.gov.tw/5475/5478/141465/141808/168969/). 
 
 ## I'm worried that my application will be rejected because I didn't attach enough documents.
 Don't stress. The authorities will ask for more documents if the ones you provided were not
