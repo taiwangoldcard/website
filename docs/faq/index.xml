@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Compose on GoldCard.tw</title>
-    <link>https://taiwangoldcard.github.io/goldcard.tw/</link>
-    <description>Recent content in Compose on GoldCard.tw</description>
+    <title>Gold Card FAQ on GoldCard.tw</title>
+    <link>https://taiwangoldcard.github.io/goldcard.tw/faq/</link>
+    <description>Recent content in Gold Card FAQ on GoldCard.tw</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://taiwangoldcard.github.io/goldcard.tw/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://taiwangoldcard.github.io/goldcard.tw/faq/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
