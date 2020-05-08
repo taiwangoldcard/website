@@ -7,7 +7,7 @@ title = "Compose"
 
 # Welcome to __GoldCard.tw__, 
 
-by `GoldCard holders`. 
+by `GoldCard holders` for (future) `GoldCard holders`
 
 1. Increase the number of Gold Card Holders
 2. Increase the profile of the Gold Card, cementing its position as a 'special' accomplishment
@@ -17,8 +17,9 @@ by `GoldCard holders`.
 {{< button "faq/" "Taiwan Gold Card FAQ" >}} 
 
 {{< /column >}}
+
 {{< column >}}
-![diy](./images/taiwan-unsplash.jpeg)
+![Taiwan](./images/taiwan-unsplash.jpeg)
 
 <!-- Photo by [Jasmin Schreiber](https://unsplash.com/@lavievagabonde?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash -->
 
