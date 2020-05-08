@@ -14,7 +14,7 @@ by `GoldCard holders`.
 3. Rally the pool of Gold Card Holders to improve the life of all foreign residents in Taiwan
 4. Raise the profile of Taiwan as a great place to live and work
 
-{{< button "docs/" "I'm a Gold card holder" >}} {{< button "https://github.com/onweru/compose" "I want the Gold Card" >}}
+{{< button "faq/" "Taiwan Gold Card FAQ" >}} 
 
 {{< /column >}}
 {{< column >}}

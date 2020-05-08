@@ -11,7 +11,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [[menu.main]]
     name = "Frequented Asked Questions"
     weight = 2
-    url = "docs/"
+    url = "faq/"
 
 [markup]
   [markup.goldmark]

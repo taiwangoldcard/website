@@ -1,6 +1,6 @@
 ---
 title: "Gold Card Application"
-weight: 9
+weight: 1
 ---
 <!--- (c) Tom Fifield, licensed under a
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. -->
