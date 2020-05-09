@@ -81,10 +81,9 @@ TBA
 TBA
 
 ## What fees are involved in a Gold Card application?
-There is only one fee, which is paid through the Gold Card application portal. There are no
- separate visa or work permit fees.
+There is only one fee, which is paid through the Gold Card application portal. There are no separate visa or work permit fees.
 
-The fees varies if you apply from Taiwan or oversea, and the duration of the visa. You can check [Article 7 of this page](https://www.immigration.gov.tw/5475/5478/141465/141808/168969/). 
+The fees varies if you apply from Taiwan or oversea,  duration of the visa, and your nationality. You can check [this page, on the  "Fees for Employment Gold Card" section](https://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/golden-card).
 
 ## I'm worried that my application will be rejected because I didn't attach enough documents.
 Don't stress. The authorities will ask for more documents if the ones you provided were not
