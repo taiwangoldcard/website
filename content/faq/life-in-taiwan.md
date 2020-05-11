@@ -21,7 +21,7 @@ Visit your local NIA service center or the immigration counter at an internation
 officials there will guide you through the steps.
 
 ## What unofficial benefits does holding a Gold Card bestow?
-- Because the Taiwan government see us as  "professional worthy" to get the  Gold Card, it could give you some leverage on the eyes of certain persons. Some people might pau more attention on your profile, what you say or would like to do.
+- Because the Taiwan government see us as  "professional worthy" to get the  Gold Card, it could give you some leverage on the eyes of certain persons. Some people might pay more attention on your profile, what you say or would like to do.
 - Sometimes the National Development Council or other government agencies invite us to parties or askour opinions on certain matters.
 
 ## What happens if I change my address?
