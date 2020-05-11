@@ -5,12 +5,11 @@ title = "Compose"
 {{< block "grid-2 mt-2" >}}
 {{< column >}}
 
-# Welcome to __GoldCard.tw__, 
+
 by `GoldCard holders` for `GoldCard holders`
 
 
-
-## Gold Card Holder?
+## Already a Gold Card Holder?
 
 By joining us you'll have access to:
 
@@ -21,7 +20,9 @@ By joining us you'll have access to:
 {{< button "faq/" "Access to the Gold Card Network" >}}
 
 
-## Applicant?
+
+
+## Applying for the Gold Card?
 All the answers to the reccurent questions about the Gold Cards are here.
 
 {{< button "faq/" "Access to the FAQ" >}} 
