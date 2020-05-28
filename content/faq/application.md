@@ -5,7 +5,7 @@ weight: 1
 <!--- (c) Tom Fifield, licensed under a
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. -->
 
-### Do I qualify?
+## Do I qualify?
 See [How to apply for Taiwan's Employment Gold Card](http://blog.tomfifield.net/2018/05/how-to-apply-for-taiwans-immigration.html)
 
 ## Who can I talk to about this?
