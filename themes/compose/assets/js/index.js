@@ -411,7 +411,7 @@ $(function() {
           } else {
               // Scroll Up
               if(st + $(window).height() < $(document).height()) {
-                if (has_clicked != true) {
+                if (hasClicked != true) {
                   $('.nav_header').removeClass('nav-up').addClass('nav-down');
                 }
               }
