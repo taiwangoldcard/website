@@ -49,6 +49,8 @@ You are not eligible under this interpretation if:
 * you had multiple contracts between 2015 and 2018.
 * you became a gold card holder in 2019
 
-
 ## When do I file tax in Taiwan?
-The financial year is January 1st to December 31st. Tax is filed each year in May. 
+The financial year is January 1st to December 31st. Tax is filed each year from May 1st to the end of the month. 
+
+## How do I calculate my tax?
+A useful [tax calculator is available here](https://docs.google.com/spreadsheets/d/1_UNRjnQXEdcUYLkw-Hqo1K22RE1QAjIFelvtp0nD0mY/edit#gid=1372091174)
