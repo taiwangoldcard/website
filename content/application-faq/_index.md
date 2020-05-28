@@ -1,6 +1,6 @@
 
 ---
-title: "Gold Card FAQ"
+title: "The Gold Card Application FAQ"
 weight: 1
 ---
 

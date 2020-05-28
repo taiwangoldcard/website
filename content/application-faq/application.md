@@ -1,12 +1,9 @@
 ---
-title: "Gold Card Application"
-weight: 1
+title: "The Gold Card Application"
+weight: 2
 ---
 <!--- (c) Tom Fifield, licensed under a
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. -->
-
-## Do I qualify?
-See [How to apply for Taiwan's Employment Gold Card](http://blog.tomfifield.net/2018/05/how-to-apply-for-taiwans-immigration.html)
 
 ## Who can I talk to about this?
 See [How to apply for Taiwan's Employment Gold Card](http://blog.tomfifield.net/2018/05/how-to-apply-for-taiwans-immigration.html)
@@ -18,32 +15,10 @@ See [How to apply for Taiwan's Employment Gold Card](http://blog.tomfifield.net/
 There is no "general" application category. You must select a ministry to assess your skills.
 See [How to apply for Taiwan's Employment Gold Card](http://blog.tomfifield.net/2018/05/how-to-apply-for-taiwans-immigration.html)
 
-## Is there an age restriction? 
-Not really. However it is expected that gold card holders will have at least five years of work
- experience.
-
-## I'm a digital nomad, is this card suitable for me? Can I be self-employed?
-Yes, this card is perfect for you, since it contains an open work permit that allows you to work
- for any employer. However, if you don't have a Taiwanese employer please see the answer to: I'm a
- freelancer/I don't have an employer, how do I register with the NHI?.
-
-## Do I need to have a high salary to apply for a Gold Card?
-No. Most industries have a category where applicants with a salary greater than NT$160,000 qualify.
- However, this is only one category. To date, none of the categories other than the dedicated
- salary category have financial requirements. If you have skills, please consider applying
- regardless of salary!
-
 ## How long does the application take?
 A perfect application takes 30 days, if your supporting documents are accepted the first time
  around. If you are asked for tweaks to your supporting documents, expect 50-60 days.
 
-## How do you get your physical card?
-Either at the National Immigration Agency service centres (in Taiwan) or at your local Taiwanese
- diplomatic post overseas. You selected where during your application.
-
-## What documents do you need to provide to prove your income?
-TBA
-  
 ## Do I need to list an address in Taiwan on the application?
 It’s entirely normal and accepted to apply with no local address. Once you get a place to stay,
  you can (must) update the details on your card, free of charge.
@@ -74,8 +49,6 @@ Generally you should apply personally. Employers can help with the process, but 
 You select this during the application process. You could go for a shorter duration if you have
  concrete plans. Otherwise, it’s probably better to go for a longer duration. There is no justification needed on how long you'd like to stay. This costs more, but delays the hassle of finding the next visa (or going through the gold card application process again). 
 
-## I currently live in Taiwan. Does my professional services/sole proprietor/dividend income count towards the salary requirement for Gold Card application?
-TBA
 
 ## Do you need to undergo a health check to apply for the Gold Card?
 TBA
@@ -90,11 +63,9 @@ Don't stress. The authorities will ask for more documents if the ones you provid
  sufficient. It’ll just extend the processing time by a couple of weeks to a month.
 
 ## Do I need anything certified by the administration of my own country?
-In general, no. However, there have been a very small number of cases (eg credentials from mainland
- China) where some action was required by a government other than Taiwan.
+In general, no. However, there have been a very small number of cases (eg credentials from mainland China) where some action was required by a government other than Taiwan.
 
 ## How is the application process different if I apply from overseas?
-
 Applying from overseas or from within Taiwan is the same process. It differs only in which unit
  verifies your passport (TECO or BOCA), and overseas applicants have the option of picking up
  their card from TECO.
