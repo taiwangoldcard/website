@@ -17,7 +17,7 @@ By joining us you'll have access to:
     - Access to a Line group where we help each other
     - Visibility if you are looking for changes
 
-{{< button "faq/" "Access to the Gold Card Network" >}}
+{{< button "https://forms.gle/K88uVy2jMW61DpT2A" "Access to the Gold Card Network" >}}
 
 
 
@@ -25,7 +25,7 @@ By joining us you'll have access to:
 ## Applying for the Gold Card?
 All the answers to the reccurent questions about the Gold Cards are here.
 
-{{< button "faq/" "Access to the FAQ" >}} 
+{{< button "application-faq/" "Access to the FAQ" >}} 
 
 
 {{< /column >}}
