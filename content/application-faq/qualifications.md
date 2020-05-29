@@ -21,7 +21,11 @@ No. Most industries have a category where applicants with a salary greater than 
 The last tax return from your last employers. Freelancing income doesn't count. 
 
 ## I currently live in Taiwan. Does my professional services/sole proprietor/dividend income count towards the salary requirement for Gold Card application?
-TBA
+Generally not, but it depends. The document requirements to prove an Article 1 ("salary") application
+ all talk about "...verifying salary or income tax payment related to employment...". The most commonly
+ accepted documents appear to be withholding tax statements from employers and income tax returns from
+ a tax authority. If you don't have salary-based compensation for your employment, we recommend
+ calling ahead.
 
 ## I'm a digital nomad / remote worker, is this card suitable for me? Can I be self-employed?
 Yes, this card is perfect for you, since it contains an open work permit that allows you to work for any employer. However, if you don't have a Taiwanese employer please see the answer to: I'm a freelancer/I don't have an employer, how do I register with the NHI?.
