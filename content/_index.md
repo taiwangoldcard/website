@@ -37,6 +37,7 @@ by `GoldCard holders` for `GoldCard holders`
 ## Latest News of the GoldCard Network
 
 - [2020-05-27] [GoldCard Holder: Starting an Eye Yoga Career](https://meet.bnext.com.tw/intl/articles/view/46488)
+- [2020-04-30] [More than 700 Gold Cards Issued!](https://foreigntalentact.ndc.gov.tw/en/News_Content.aspx?n=F0746484B877D582&s=91B121FE3FA7C24D)
 - [2020-04-13] [Tax payment has been extended to June 30th 2020](https://home.kpmg/us/en/home/insights/2020/04/tnf-taiwan-tax-return-tax-payment-deadlines-extended-covid-19.html)
 
 
