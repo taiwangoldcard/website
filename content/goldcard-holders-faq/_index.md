@@ -8,5 +8,4 @@ Congratulations on getting the precious Gold Card! Now join (the super VIP club 
 
 {{< button "https://forms.gle/K88uVy2jMW61DpT2A" "Access to the Gold Card Network" >}}
 
-
-You'll find in this section some useful resources once you get the Gold Card. Those informations are shared by our community on the left sidebar menu.
+In this section, you'll find some useful resources for once you get the Gold Card. This information is complied by our community, who have real experience living in Taiwan.

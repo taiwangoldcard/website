@@ -30,7 +30,7 @@ _When does the gold card's validity begin?_ to determine whether that affects yo
 
 ## If I apply in Taiwan, where do I go to prove my identity?
 You must go to your local Bureau of Consular Affairs (BOCA) If you’re getting your passport
- vetted at Taipei’s BOCA/MOFA office, here’s a quick howto. (Don’t worry, the ‘pinball’
+ vetted at Taipei’s BOCA/MOFA office, here’s a quick how-to. (Don’t worry, the ‘pinball’
  method - shuffling between volunteers - works well too).
 
 1. BOCA is open between 08:30 to 17:00 [here](https://goo.gl/maps/mFt8PBMCGnD2) (a few blocks from Shandao Temple Station, Exit 2)
