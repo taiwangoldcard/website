@@ -15,10 +15,10 @@ by `GoldCard holders` for `GoldCard holders`
 
 ## <i class="uil uil-question-circle"></i> Applying for the Gold Card?
 <div class="list-q">
-All the answers about the Emplyment Gold Card<br>
-How long does the process take?<br>
-What documents do I need to provide?<br>
-Do I qualify for the Gold card?<br>
+- All the answers about the Gold Card<br>
+- How long does the process take?<br>
+- What documents do I need to provide?<br>
+- Do I qualify for the Gold card?<br>
 
 </div>
 
@@ -30,10 +30,10 @@ Do I qualify for the Gold card?<br>
 
 ## <i class="uil uil-trophy"></i> Already a Gold Card Holder?
 <div class="list-q">
-Access to our chat group where we help each other<br>
-Jobs opportunities that require our expertise<br>
-Visibility if you are looking for changes<br>
-A bi-weekly newsletter with the latest GoldCard news<br>
+- Access to our chat group where we help each other<br>
+- Jobs opportunities that require our expertise<br>
+- Visibility if you are looking for new opportunities<br>
+- Receive a regular newsletter with the latest GoldCard News<br>
 
 {{< button "https://forms.gle/K88uVy2jMW61DpT2A" "Access to the Gold Card Network" >}}
 
