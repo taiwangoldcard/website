@@ -42,14 +42,14 @@ A perfect application takes 30 days, if your supporting documents are accepted t
 Predominantly, you will find the status of your application by either logging in to the Gold Card
  Application Portal, or receiving email updates from the portal. However, if the status hasn't updated in
  a long time here's what you need to know:
-    - Who to contact changes depending on the status of your application.
-    - The mostly lengthy status you will see is "Professional Review by Workforce Development Agency".
-      In this case, first, try the WDA, under the _Ministry of Labor for Employment Gold Card Permits
-      for Foreign Special Professionals_ on the master contact list. They will probably tell you that
-      the application is with the relevant ministry for your skill set and provide contact details. If not,
-      try to contact the appropriate ministry under _Qualification of Foreign Special Professionals_ on the master list
-    - If your application is stuck on "Under inspection" after you already collected your passport,
-      contact the NIA - your card may already be printed.
+*  Who to contact changes depending on the status of your application.
+* The mostly lengthy status you will see is "Professional Review by Workforce Development Agency".
+    In this case, first, try the WDA, under the _Ministry of Labor for Employment Gold Card Permits
+    for Foreign Special Professionals_ on the master contact list. They will probably tell you that
+    the application is with the relevant ministry for your skill set and provide contact details. If not,
+    try to contact the appropriate ministry under _Qualification of Foreign Special Professionals_ on the master list
+* If your application is stuck on "Under inspection" after you already collected your passport,
+    contact the NIA - your card may already be printed.
 
 ## Do I need to list an address in Taiwan on the application?
 It’s entirely normal and accepted to apply with no local address. Once you get a place to stay,
@@ -61,7 +61,7 @@ _When does the gold card's validity begin?_ to determine whether that affects yo
 <!-- TODO: need to link to this answer. -->
 
 ## If I apply in Taiwan, where do I go to prove my identity?
-You must go to your local Bureau of Consular Affairs (BOCA) If you’re getting your passport
+You must go to your local Bureau of Consular Affairs (BOCA). If you’re getting your passport
  vetted at Taipei’s BOCA/MOFA office, here’s a quick how-to. (Don’t worry, the ‘pinball’
  method - shuffling between volunteers - works well too).
 
@@ -75,11 +75,14 @@ You must go to your local Bureau of Consular Affairs (BOCA) If you’re getting 
 ## Do I apply for the Gold Card personally, or should I ask my employer to do that?
 Generally you should apply personally. Employers can help with the process, but you do not need
  their sponsorship or support to apply for the card. Additionally, the card once issued contains
- an open work permit that allows you to work for any company.
+ an open work permit that allows you to work for any company. If someone is asking you for large sums
+of money to help with your gold card application, it could be a scam.
 
 ## How do I decide the duration to apply for (1-3 years)?
-You select this during the application process. You could go for a shorter duration if you have
- concrete plans. Otherwise, it’s probably better to go for a longer duration. There is no justification needed on how long you'd like to stay. This costs more, but delays the hassle of finding the next visa (or going through the gold card application process again). 
+You select this during the application process. You could opto for a shorter duration if you have
+ concrete plans. Otherwise, it’s probably better to select the longest duration. There is no
+ justification needed on how long you'd like to stay. This costs more, but delays the hassle of
+ finding the next visa (or going through the gold card application process again).
 
 
 ## Do you need to undergo a health check to apply for the Gold Card?
@@ -89,14 +92,16 @@ We haven't heard of anyone to date who required a health check, so it's not a no
 ## What fees are involved in a Gold Card application?
 There is only one fee, which is paid through the Gold Card application portal. There are no separate visa or work permit fees.
 
-The fees varies if you apply from Taiwan or oversea,  duration of the visa, and your nationality. You can check [this page, on the  "Fees for Employment Gold Card" section](https://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/golden-card).
+The fees varies if you apply from Taiwan or overseas, the duration of the visa, and your nationality.
+You can check [the "Fees for Employment Gold Card" section of the application portal](https://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/golden-card).
 
 ## I'm worried that my application will be rejected because I didn't attach enough documents.
 Don't stress. The authorities will ask for more documents if the ones you provided were not
  sufficient. It’ll just extend the processing time by a couple of weeks to a month.
 
 ## Do I need anything certified by the administration of my own country?
-In general, no. However, there have been a very small number of cases (eg credentials from mainland China) where some action was required by a government other than Taiwan.
+In general, no. However, there have been a very small number of cases (eg credentials from
+ China) where some action was required by a government other than Taiwan.
 
 ## How is the application process different if I apply from overseas?
 Applying from overseas or from within Taiwan is the same process. It differs only in which unit
