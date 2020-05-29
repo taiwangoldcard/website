@@ -24,7 +24,7 @@ Either at the National Immigration Agency service centres (in Taiwan) or at your
 ## How long does the application take?
 A perfect application takes 30 days, if your supporting documents are accepted the first time around. If you are asked for tweaks to your supporting documents, expect 50-60 days.
 
-During the coronavirus, an application can take up to 80 days. The reason is the Immigration might be overwhelmed with applications. 
+During the coronavirus, the full application process can take up to 80 days. The reason is the Immigration Bureau might be overwhelmed with applications.
 
 ## What is a "Resident Authorization Letter"?
 If you applied for your Gold Card from outside Taiwan but elected to collect your card
