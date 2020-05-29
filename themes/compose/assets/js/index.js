@@ -376,7 +376,9 @@ $(function() {
     // hide bar when clicking on a menu item
     $(".toc_item a").on('click', function(event) {
       hasClicked = true;
-      $('.nav_header').removeClass('nav-down').addClass('nav-up');
+      if ($(window).scrollTop() !== 0) {
+        $('.nav_header').removeClass('nav-down').addClass('nav-up');
+      }
     });
 
       // Hide Header on on scroll down
