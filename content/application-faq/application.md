@@ -51,7 +51,8 @@ You select this during the application process. You could go for a shorter durat
 
 
 ## Do you need to undergo a health check to apply for the Gold Card?
-TBA
+We haven't heard of anyone to date who required a health check, so it's not a normal part of the
+ process at least.
 
 ## What fees are involved in a Gold Card application?
 There is only one fee, which is paid through the Gold Card application portal. There are no separate visa or work permit fees.
