@@ -7,12 +7,21 @@ title = "Gold Card Network"
 
 
 by `GoldCard holders` for `GoldCard holders`
+<br>
+
+## Applying for the Gold Card?
+    - All the answers about the Emplyment Gold Card
+    - How long does the process takes?
+    - What documents do I need to provide?
+    - Do I qualify for the Gold card?
+
+
+{{< button "application-faq/" "Access to the FAQ" >}} 
+
+<br>
 
 
 ## Already a Gold Card Holder?
-
-By joining us you'll have access to:
-
     - Access to our chat group where we help each other
     - Jobs opportunities that require our expertise
     - Visibility if you are looking for changes
@@ -20,12 +29,9 @@ By joining us you'll have access to:
 
 {{< button "https://forms.gle/K88uVy2jMW61DpT2A" "Access to the Gold Card Network" >}}
 
+<br>
+<br>
 
-
-## Applying for the Gold Card?
-All the answers to the recurrent questions about the Gold Cards are here.
-
-{{< button "application-faq/" "Access to the FAQ" >}} 
 
 
 ## Latest News of the GoldCard Network
