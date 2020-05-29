@@ -9,7 +9,11 @@ by `GoldCard holders` for `GoldCard holders`
 
 <br>
 
-## Applying for the Gold Card?
+
+
+
+
+## <i class="uil uil-question-circle"></i> Applying for the Gold Card?
 <div class="list-q">
 All the answers about the Emplyment Gold Card<br>
 How long does the process take?<br>
@@ -24,7 +28,7 @@ Do I qualify for the Gold card?<br>
 <br>
 
 
-## Already a Gold Card Holder?
+## <i class="uil uil-trophy"></i> Already a Gold Card Holder?
 <div class="list-q">
 Access to our chat group where we help each other<br>
 Jobs opportunities that require our expertise<br>
@@ -40,7 +44,7 @@ A bi-weekly newsletter with the latest GoldCard news<br>
 
 
 
-## Latest News of the GoldCard Network
+## <i class="uil uil-newspaper"></i> Latest News of the Gold Card Network
 
 - [2020-05-27] [GoldCard Holder: Starting an Eye Yoga Career](https://meet.bnext.com.tw/intl/articles/view/46488)
 - [2020-04-30] [More than 700 Gold Cards Issued!](https://foreigntalentact.ndc.gov.tw/en/News_Content.aspx?n=F0746484B877D582&s=91B121FE3FA7C24D)
