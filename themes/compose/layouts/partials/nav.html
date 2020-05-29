@@ -1,3 +1,19 @@
+<style>
+	.nav-link {
+		display: inline-flex;
+		text-align: center;
+		padding: 0.5rem 1rem;
+		border: 1px solid #DDD;
+		border-radius: 5%;
+		margin: 2px;
+	}
+
+	.nav-link:hover {
+		background-color: #DDD;
+		color: black;
+	}
+	
+</style>
 <nav class="wrap nav">
 	<a href="{{ .Site.BaseURL }}">
 		<picture>
@@ -26,8 +42,9 @@
 		</li>
 		{{- end }}
 		{{ $repo := .Site.Params.source }}
-		<li class="nav-item">
+
+		<!-- <li class="nav-item">
 			<a class="nav-link" href="{{ $repo.url }}" target="_blank">{{ $repo.name }}</a>
-		</li>
+		</li> -->
 	</ul>
 </nav>

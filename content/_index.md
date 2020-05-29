@@ -5,22 +5,41 @@ title = "Compose"
 {{< block "grid-2 mt-2" >}}
 {{< column >}}
 
-# Welcome to __GoldCard.tw__, 
 
-by `GoldCard holders`. 
+by `GoldCard holders` for `GoldCard holders`
 
-1. Increase the number of Gold Card Holders
-2. Increase the profile of the Gold Card, cementing its position as a 'special' accomplishment
-3. Rally the pool of Gold Card Holders to improve the life of all foreign residents in Taiwan
-4. Raise the profile of Taiwan as a great place to live and work
 
-{{< button "docs/" "I'm a Gold card holder" >}} {{< button "https://github.com/onweru/compose" "I want the Gold Card" >}}
+## Already a Gold Card Holder?
+
+By joining us you'll have access to:
+
+    - Access to our chat group where we help each other
+    - Jobs opportunities that require our expertise
+    - Visibility if you are looking for changes
+    - A bi-weekly newsletter with the latest GoldCard news
+
+{{< button "https://forms.gle/K88uVy2jMW61DpT2A" "Access to the Gold Card Network" >}}
+
+
+
+## Applying for the Gold Card?
+All the answers to the reccurent questions about the Gold Cards are here.
+
+{{< button "application-faq/" "Access to the FAQ" >}} 
+
+
+## Latest News of the GoldCard Network
+
+- [2020-05-27] [GoldCard Holder: Starting an Eye Yoga Career](https://meet.bnext.com.tw/intl/articles/view/46488)
+- [2020-04-13] [Tax payment has been extended to June 30th 2020](https://home.kpmg/us/en/home/insights/2020/04/tnf-taiwan-tax-return-tax-payment-deadlines-extended-covid-19.html)
+
+
+
 
 {{< /column >}}
-{{< column >}}
-![diy](/images/diy.jpeg)
 
-<!-- Photo by [Jasmin Schreiber](https://unsplash.com/@lavievagabonde?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash -->
+{{< column >}}
+![Taiwan](./images/taiwan-unsplash.jpeg)
 
 {{< /column >}}
 {{< /block >}}

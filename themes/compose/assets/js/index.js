@@ -94,7 +94,7 @@ function closestInt(goal, collection) {
   const closest = collection.reduce(function(prev, curr) {
     return (Math.abs(curr - goal) < Math.abs(prev - goal) ? curr : prev);
   });
-  return closest
+  return closest;
 }
 
 function hasClasses(el) {
@@ -103,6 +103,14 @@ function hasClasses(el) {
     return classes.length
   }
 }
+
+(function calcNavHeight(){
+  const nav = elem('.nav_header');
+  const navHeight = nav.offsetHeight;
+  const docContent = elem('main');
+  docContent.style.paddingTop = `${navHeight + 20}px`;
+  return navHeight + 20;
+})();
 
 (function markInlineCodeTags(){
   const codeBlocks = elems('code');
@@ -193,7 +201,8 @@ function loadActions() {
           let active = closestInt(position, linkPositions);
           activeHeading(active, pageInternalLinks);
           // }, 1500)
-        });
+        }
+        );
       }
     }
   })();
@@ -359,5 +368,63 @@ function loadActions() {
     }
   })();
 }
+
+$(function() {
+
+    var hasClicked = false;
+
+    // hide bar when clicking on a menu item
+    $(".toc_item a").on('click', function(event) {
+      hasClicked = true;
+      if ($(window).scrollTop() !== 0) {
+        $('.nav_header').removeClass('nav-down').addClass('nav-up');
+      }
+    });
+
+      // Hide Header on on scroll down
+      var didScroll;
+      var lastScrollTop = 0;
+      var delta = 100;
+      var navbarHeight = $('.nav_header').outerHeight();
+      $(window).scroll(function(event){
+          didScroll = true;
+      });
+
+      setInterval(function() {
+          if (didScroll) {
+              hasScrolled();
+              didScroll = false;
+              hasClicked = false;
+          }
+      }, 500);
+
+      function hasScrolled() {
+          var st = $(this).scrollTop();
+
+          // Make sure they scroll more than delta
+          if(Math.abs(lastScrollTop - st) <= delta)
+              return;
+
+          // If they scrolled down and are past the navbar, add class .nav-up.
+          // This is necessary so you never see what is "behind" the navbar.
+          if (st > lastScrollTop && st > navbarHeight){
+              // Scroll Down
+              $('.nav_header').removeClass('nav-down').addClass('nav-up');
+          } else {
+              // Scroll Up
+              if(st + $(window).height() < $(document).height()) {
+                if (hasClicked != true) {
+                  $('.nav_header').removeClass('nav-up').addClass('nav-down');
+                }
+              }
+          }
+          lastScrollTop = st;
+      }
+
+
+
+
+});
+
 
 window.addEventListener('load', loadActions());

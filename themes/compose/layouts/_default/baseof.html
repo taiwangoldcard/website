@@ -8,7 +8,7 @@
     {{- partial "nav" . }}
   </header>
   <main class="main wrap pt-4">
-    {{- if eq .Section "docs" }}
+    {{- if or (eq .Section "application-faq")  (eq .Section "goldcard-holders-faq") }}
     {{- partial "document" . }}
     {{- else }}
     {{- block "main" . }}{{ end }}
