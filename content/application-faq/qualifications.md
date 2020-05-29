@@ -11,7 +11,7 @@ See [How to apply for Taiwan's Employment Gold Card](http://blog.tomfifield.net/
 ## Is there an age restriction? 
 Not really. However it is expected that gold card holders will have at least five years of work experience.
 
- ## Do I need to have a high salary to apply for a Gold Card?
+## Do I need to have a high salary to apply for a Gold Card?
 No. Most industries have a category where applicants with a salary greater than NT$160,000 qualify.
  However, this is only one category. To date, none of the categories other than the dedicated
  salary category have financial requirements. If you have skills, please consider applying

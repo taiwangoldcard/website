@@ -28,6 +28,14 @@ officials there will guide you through the steps.
 You must log in to the Gold Card Application portal and update your details there within 14 days of
  moving.
 
+## How do I change my address?
+You must change your address online. Go to the [Gold Card Portal](https://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/golden-card).
+ Click "I want to apply" and login using the username and password you used when applying for your
+ gold card. select "Application" then "Information change of Employment Gold Card". Follow the steps
+ including uploading proof of your address such as a copy of your lease. You will be charged 500NT,
+ however for changes of address you may apply for a full refund of this amount. The refund may require
+ several steps and take more than a month.
+
 ## How many days per year do I have to stay in Taiwan?
 There are no requirements. However, you must stay for more than 183 days per year in order to be
  eligible for many benefits such as: tax resident treatment and a pathway to permanent residence.
