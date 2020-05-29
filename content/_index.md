@@ -23,7 +23,7 @@ By joining us you'll have access to:
 
 
 ## Applying for the Gold Card?
-All the answers to the reccurent questions about the Gold Cards are here.
+All the answers to the recurrent questions about the Gold Cards are here.
 
 {{< button "application-faq/" "Access to the FAQ" >}} 
 

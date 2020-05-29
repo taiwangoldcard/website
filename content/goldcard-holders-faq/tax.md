@@ -57,7 +57,7 @@ A useful [tax calculator is available here](https://docs.google.com/spreadsheets
 website](https://www.etax.nat.gov.tw/etwmain/front/ETW158W13?site=en).
 
 ## Where can I go for help with my taxes?
-The National Taxation Bureau provides free professional taxation consultaiton sessions [in English and Japanese](https://www.ntbt.gov.tw/English/multiplehtml/51c544ce868347fa85b4d63bcaee4559).
+The National Taxation Bureau provides free professional taxation consultation sessions [in English and Japanese](https://www.ntbt.gov.tw/English/multiplehtml/51c544ce868347fa85b4d63bcaee4559).
 During "tax season" there are dedicated English language counters for tax filing at
 National Taxation Bureau offices in major cities.
 
