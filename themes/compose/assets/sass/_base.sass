@@ -142,9 +142,11 @@ table
 
 .main
   flex: 1
+
   li
     a
-      color: var(--theme)
+      &:hover
+        color: var(--theme) 
 
 .page
   &-home
@@ -162,8 +164,10 @@ table
     list-style: initial
   ol
     list-style: decimal
-  a
-    color: var(--theme)
 
 ::placeholder
   font-size: 1rem
+
+button
+  a 
+    color: var(--light)
