@@ -36,6 +36,7 @@ by `GoldCard holders` for `GoldCard holders`
 - Receive a regular newsletter with the latest GoldCard News<br>
 
 {{< button "https://forms.gle/K88uVy2jMW61DpT2A" "Access to the Gold Card Network" >}}
+{{< button "goldcard-holders-faq/" "Resources for GoldCard holders" >}}
 
 </div>
 
@@ -44,7 +45,7 @@ by `GoldCard holders` for `GoldCard holders`
 
 
 
-## <i class="uil uil-newspaper"></i> Latest News of the Gold Card Network
+## <i class="uil uil-newspaper"></i> News of the Gold Card Network
 
 - [2020-05-27] [GoldCard Holder: Starting an Eye Yoga Career](https://meet.bnext.com.tw/intl/articles/view/46488)
 - [2020-04-30] [More than 700 Gold Cards Issued!](https://foreigntalentact.ndc.gov.tw/en/News_Content.aspx?n=F0746484B877D582&s=91B121FE3FA7C24D)
