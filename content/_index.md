@@ -2,7 +2,7 @@
 title = "Taiwan Gold Card - Everything about Taiwan Gold Card Visa"
 +++
 
-{{< block "grid-2 mt-2" >}}
+{{< block "grid-2 mt-2 homepage-div" >}}
 {{< column >}}
 
 by `GoldCard holders` for `GoldCard holders`
