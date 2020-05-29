@@ -12,13 +12,13 @@ See [How to apply for Taiwan's Employment Gold Card](http://blog.tomfifield.net/
 Not really. However it is expected that gold card holders will have at least five years of work experience.
 
 ## Do I need to have a high salary to apply for a Gold Card?
-No. Most industries have a category where applicants with a salary greater than NT$160,000 qualify.
- However, this is only one category. To date, none of the categories other than the dedicated
- salary category have financial requirements. If you have skills, please consider applying
- regardless of salary!
+If you have your last salary greater than NT$160,000 (around USD5,400), you qualify under the "economy" category.
+We insist on the word salary. Freelancing or your business revenue doesn't count as "salary.
+
+If you have skills, please consider applying regardless of salary!
 
 ## What documents do you need to provide to prove your salary?
-The last tax return from your last employers. Freelancing income doesn't count. 
+The last tax return from your last employers. Freelancing income, or your company income doesn't count.
 
 ## I currently live in Taiwan. Does my professional services/sole proprietor/dividend income count towards the salary requirement for Gold Card application?
 Generally not, but it depends. The document requirements to prove an Article 1 ("salary") application
