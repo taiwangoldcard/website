@@ -5,8 +5,8 @@ title = "Gold Card Network"
 {{< block "grid-2 mt-2" >}}
 {{< column >}}
 
-
 by `GoldCard holders` for `GoldCard holders`
+
 <br>
 
 ## Applying for the Gold Card?
