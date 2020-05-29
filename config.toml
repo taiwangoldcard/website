@@ -1,4 +1,4 @@
-baseURL = "https://taiwangoldcard.github.io/goldcard.tw/"
+baseURL = "https://taiwangoldcard.com"
 title = "GoldCard.tw"
 enableRobotsTXT = true
 theme = "compose"
@@ -38,9 +38,12 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
   author = "GoldCard.tw"
-  enableSearch = false
+  enableSearch = true
   searchPlaceholder = "Search ..."
   repo = "https://github.com/onweru/compose"
+
+  description = "Taiwan Gold Card Network"
+  title = "Taiwan Gold Card"  
 
   time_format_blog = "Monday, January 02, 2006"
   time_format_default = "January 2, 2006"
