@@ -17,21 +17,21 @@ The master list of contacts is [found here](https://foreigntalentact.ndc.gov.tw/
 
 If you'd like to discuss:
 * whether you should apply eg benefits of the program, vague/early questions
-** Read the [Foreign Talent Act website](https://foreigntalentact.ndc.gov.tw/en/Default.aspx)
-** Ask [Contact Taiwan](https://www.contacttaiwan.tw/main/index.aspx?lang=2#), particularly look out for their events with invited speakers from NIA. They are a Government-funded organisation whose mission is to help you find a job. They'll direct you to the right place
+    - Read the [Foreign Talent Act website](https://foreigntalentact.ndc.gov.tw/en/Default.aspx)
+    - Ask [Contact Taiwan](https://www.contacttaiwan.tw/main/index.aspx?lang=2#), particularly look out for their events with invited speakers from NIA. They are a Government-funded organisation whose mission is to help you find a job. They'll direct you to the right place
 * the online application portal, eg errors, ambiguous fields
-** Contact NIA, under the _Ministry of Interior for Employment Gold Card Permits for Foreign Special Professionals_ on the master list
+    - Contact NIA, under the _Ministry of Interior for Employment Gold Card Permits for Foreign Special Professionals_ on the master list
 * skill qualification, eg required documents, why your initial set of documents was rejected
-** Contact the appropriate ministry under _Qualification of Foreign Special Professionals_ on the master list
+    - Contact the appropriate ministry under _Qualification of Foreign Special Professionals_ on the master list
 * status of your application eg where it is now, why it's taking so long
-** There is no specific department. In this case, most likely you will see the status as "Professional Review by Workforce Development Agency".
-** First, try the WDA, under the _Ministry of Labor for Employment Gold Card Permits for Foreign Special Professionals_ on the master list
-** They will probably tell you that the application is with the relevant ministry for your skill set and provide contact details
-** If not, try to contact the appropriate ministry under _Qualification of Foreign Special Professionals_ on the master list
+    - There is no specific department. In this case, most likely you will see the status as "Professional Review by Workforce Development Agency".
+    - First, try the WDA, under the _Ministry of Labor for Employment Gold Card Permits for Foreign Special Professionals_ on the master list
+    - They will probably tell you that the application is with the relevant ministry for your skill set and provide contact details
+    - If not, try to contact the appropriate ministry under _Qualification of Foreign Special Professionals_ on the master list
 * visas for your spouse/family
-** Contact NIA, under the _Ministry of Interior for Employment Gold Card Permits for Foreign Special Professionals_ on the master list
+    - Contact NIA, under the _Ministry of Interior for Employment Gold Card Permits for Foreign Special Professionals_ on the master list
 * income tax reduction eg whether you qualify, how it works
-**  The NIA can sometimes provide some basic information about this, otherwise contact the Ministry of Finance under _Reduction or Exemption of Income Tax of Foreign Special Professionals_ on the master list
+    -  The NIA can sometimes provide some basic information about this, otherwise contact the Ministry of Finance under _Reduction or Exemption of Income Tax of Foreign Special Professionals_ on the master list
 * A particular agency's implementation of the program eg make an appeal or complaint, talk to "whoever's in charge"
 ** Contact the National Development Council.
 
