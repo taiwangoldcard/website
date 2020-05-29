@@ -1,4 +1,4 @@
-baseURL = "https://taiwangoldcard.com"
+baseURL = "https://taiwangoldcard.com/"
 title = "GoldCard.tw"
 enableRobotsTXT = true
 theme = "compose"
