@@ -19,21 +19,12 @@ If you'd like to discuss:
 * whether you should apply eg benefits of the program, vague/early questions
     - Read the [Foreign Talent Act website](https://foreigntalentact.ndc.gov.tw/en/Default.aspx)
     - Ask [Contact Taiwan](https://www.contacttaiwan.tw/main/index.aspx?lang=2#), particularly look out for their events with invited speakers from NIA. They are a Government-funded organisation whose mission is to help you find a job. They'll direct you to the right place
-* the online application portal, eg errors, ambiguous fields
-    - Contact NIA, under the _Ministry of Interior for Employment Gold Card Permits for Foreign Special Professionals_ on the master list
-* skill qualification, eg required documents, why your initial set of documents was rejected
-    - Contact the appropriate ministry under _Qualification of Foreign Special Professionals_ on the master list
-* status of your application eg where it is now, why it's taking so long
-    - There is no specific department. In this case, most likely you will see the status as "Professional Review by Workforce Development Agency".
-    - First, try the WDA, under the _Ministry of Labor for Employment Gold Card Permits for Foreign Special Professionals_ on the master list
-    - They will probably tell you that the application is with the relevant ministry for your skill set and provide contact details
-    - If not, try to contact the appropriate ministry under _Qualification of Foreign Special Professionals_ on the master list
-* visas for your spouse/family
-    - Contact NIA, under the _Ministry of Interior for Employment Gold Card Permits for Foreign Special Professionals_ on the master list
-* income tax reduction eg whether you qualify, how it works
-    -  The NIA can sometimes provide some basic information about this, otherwise contact the Ministry of Finance under _Reduction or Exemption of Income Tax of Foreign Special Professionals_ on the master list
-* A particular agency's implementation of the program eg make an appeal or complaint, talk to "whoever's in charge"
-** Contact the National Development Council.
+* the online application portal, eg errors, ambiguous fields: Contact NIA, under the _Ministry of Interior for Employment Gold Card Permits for Foreign Special Professionals_ on the master list
+* skill qualification, eg required documents, why your initial set of documents was rejected: Contact the appropriate ministry under _Qualification of Foreign Special Professionals_ on the master list
+* status of your application eg where it is now, why it's taking so long: See "How do I find out the status of my application?"
+* visas for your spouse/family: Contact NIA, under the _Ministry of Interior for Employment Gold Card Permits for Foreign Special Professionals_ on the master list
+* income tax reduction eg whether you qualify, how it works: the NIA can sometimes provide some basic information about this, otherwise contact the Ministry of Finance under _Reduction or Exemption of Income Tax of Foreign Special Professionals_ on the master list
+* A particular agency's implementation of the program eg make an appeal or complaint, talk to "whoever's in charge": Contact the National Development Council.
 
 
 ## How to apply?
@@ -46,6 +37,19 @@ See [How to apply for Taiwan's Employment Gold Card](http://blog.tomfifield.net/
 ## How long does the application take?
 A perfect application takes 30 days, if your supporting documents are accepted the first time
  around. If you are asked for tweaks to your supporting documents, expect 50-60 days.
+
+## How do I find out the status of my application?
+Predominantly, you will find the status of your application by either logging in to the Gold Card
+ Application Portal, or receiving email updates from the portal. However, if the status hasn't updated in
+ a long time here's what you need to know:
+    - Who to contact changes depending on the status of your application.
+    - The mostly lengthy status you will see is "Professional Review by Workforce Development Agency".
+      In this case, first, try the WDA, under the _Ministry of Labor for Employment Gold Card Permits
+      for Foreign Special Professionals_ on the master contact list. They will probably tell you that
+      the application is with the relevant ministry for your skill set and provide contact details. If not,
+      try to contact the appropriate ministry under _Qualification of Foreign Special Professionals_ on the master list
+    - If your application is stuck on "Under inspection" after you already collected your passport,
+      contact the NIA - your card may already be printed.
 
 ## Do I need to list an address in Taiwan on the application?
 It’s entirely normal and accepted to apply with no local address. Once you get a place to stay,
