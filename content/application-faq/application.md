@@ -42,14 +42,14 @@ A perfect application takes 30 days, if your supporting documents are accepted t
 Predominantly, you will find the status of your application by either logging in to the Gold Card
  Application Portal, or receiving email updates from the portal. However, if the status hasn't updated in
  a long time here's what you need to know:
-    - Who to contact changes depending on the status of your application.
-    - The mostly lengthy status you will see is "Professional Review by Workforce Development Agency".
-      In this case, first, try the WDA, under the _Ministry of Labor for Employment Gold Card Permits
-      for Foreign Special Professionals_ on the master contact list. They will probably tell you that
-      the application is with the relevant ministry for your skill set and provide contact details. If not,
-      try to contact the appropriate ministry under _Qualification of Foreign Special Professionals_ on the master list
-    - If your application is stuck on "Under inspection" after you already collected your passport,
-      contact the NIA - your card may already be printed.
+*  Who to contact changes depending on the status of your application.
+* The mostly lengthy status you will see is "Professional Review by Workforce Development Agency".
+    In this case, first, try the WDA, under the _Ministry of Labor for Employment Gold Card Permits
+    for Foreign Special Professionals_ on the master contact list. They will probably tell you that
+    the application is with the relevant ministry for your skill set and provide contact details. If not,
+    try to contact the appropriate ministry under _Qualification of Foreign Special Professionals_ on the master list
+* If your application is stuck on "Under inspection" after you already collected your passport,
+    contact the NIA - your card may already be printed.
 
 ## Do I need to list an address in Taiwan on the application?
 It’s entirely normal and accepted to apply with no local address. Once you get a place to stay,
