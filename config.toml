@@ -1,5 +1,5 @@
-baseURL = "https://taiwangoldcard.github.io/goldcard.tw/"
-title = "GoldCard.tw"
+baseURL = "https://taiwangoldcard.com/"
+title = "Taiwan Gold Card"
 enableRobotsTXT = true
 theme = "compose"
 enableGitInfo = false
@@ -37,10 +37,13 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 # Everything below this are Site Params
 
 [params]
-  author = "GoldCard.tw"
+  author = "Taiwan Gold Card"
   enableSearch = false
   searchPlaceholder = "Search ..."
   repo = "https://github.com/onweru/compose"
+
+  description = "Taiwan Gold Card Network"
+  title = "Taiwan Gold Card"  
 
   time_format_blog = "Monday, January 02, 2006"
   time_format_default = "January 2, 2006"
