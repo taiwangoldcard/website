@@ -11,7 +11,7 @@ by `GoldCard holders` for `GoldCard holders`
 
 ## Applying for the Gold Card?
     - All the answers about the Emplyment Gold Card
-    - How long does the process takes?
+    - How long does the process take?
     - What documents do I need to provide?
     - Do I qualify for the Gold card?
 
