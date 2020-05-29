@@ -15,3 +15,7 @@ At present, you must reside in Taiwan for a consecutive six-month period (or lea
  less than 30 days) and apply directly with the NHI. There is currently a
  [legislative push](https://www.ndc.gov.tw/en/Content_List.aspx?n=999F9864EFDB5F6F&upn=6CE244D6E7DAF831)
  to improve this, lead by the National Development Council.
+
+## Where can I see a list of NHI clinics close to me?
+The NHI mobile app has a map-based search of all NHI facilities.
+You can download it from the [Google Play store](https://play.google.com/store/apps/details?id=com.nhiApp.v1) and the [Apple App Store](https://apps.apple.com/tw/app/%E5%85%A8%E6%B0%91%E5%81%A5%E4%BF%9D%E8%A1%8C%E5%8B%95%E5%BF%AB%E6%98%93%E9%80%9A-%E5%81%A5%E5%BA%B7%E5%AD%98%E6%91%BA/id578186283)

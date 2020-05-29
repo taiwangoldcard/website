@@ -35,3 +35,6 @@ Despite many applicants qualifying for a gold card on the basis of previous empl
  under this category will have their financial data reviewed by the Ministry of Labor. The
  regulations allow the Ministry of Labor to revoke a work permit if they are not satisfied with
  the results of this review.
+
+## Can I work for multiple companies at the same time?
+Yes.

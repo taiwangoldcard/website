@@ -53,4 +53,11 @@ You are not eligible under this interpretation if:
 The financial year is January 1st to December 31st. Tax is filed each year from May 1st to the end of the month. 
 
 ## How do I calculate my tax?
-A useful [tax calculator is available here](https://docs.google.com/spreadsheets/d/1_UNRjnQXEdcUYLkw-Hqo1K22RE1QAjIFelvtp0nD0mY/edit#gid=1372091174)
+A useful [tax calculator is available here](https://docs.google.com/spreadsheets/d/1_UNRjnQXEdcUYLkw-Hqo1K22RE1QAjIFelvtp0nD0mY/edit#gid=1372091174), if you need a rough estimate and can't work the [official
+website](https://www.etax.nat.gov.tw/etwmain/front/ETW158W13?site=en).
+
+## Where can I go for help with my taxes?
+The National Taxation Bureau provides free professional taxation consultaiton sessions [in English and Japanese](https://www.ntbt.gov.tw/English/multiplehtml/51c544ce868347fa85b4d63bcaee4559).
+During "tax season" there are dedicated English language counters for tax filing at
+National Taxation Bureau offices in major cities.
+

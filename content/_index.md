@@ -1,5 +1,5 @@
 +++
-title = "Compose"
+title = "Gold Card Network"
 +++
 
 {{< block "grid-2 mt-2" >}}
