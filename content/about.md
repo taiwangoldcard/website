@@ -18,7 +18,10 @@ went through the process. We welcome your questions and
 This site was designed by by Gold card holders for Gold card holders, inspired by and brainstormed
 with the unofficial Gold Card holder LINE group. The original site design
 and technical implementation was created by [Eric Khun](https://erickhun.com/) and the original
-content was written by [Tom Fifield](https://twitter.com/tomfifield).
+content was written by [Tom Fifield](https://twitter.com/tomfifield). Credit is also due to
+ [Forumosa](https://tw.forumosa.com/t/employment-gold-card-for-some-foreigners). Without the
+ community there, many people would never have discovered the Gold Card or made it through their
+applications.
 
 
 
