@@ -17,6 +17,6 @@ A list of phone numbers and emails are available [here](https://foreigntalentact
 <link rel="stylesheet" href="https://unpkg.com/driver.js/dist/driver.min.css">
 
 <script>
-    const driver = new Driver();
-    driver.highlight('#docs-the-gold-card-application-faq');
+    // const driver = new Driver();
+    // driver.highlight('#docs-the-gold-card-application-faq');
 </script>
