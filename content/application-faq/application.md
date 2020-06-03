@@ -28,7 +28,7 @@ If you'd like to discuss:
 
 
 ## How to apply?
-First, gather the required documents:
+Once you have determined how you are qualified, gather the required documents:
 
 * digital copy of your passport
 * digital copy of your passport photo
