@@ -15,7 +15,7 @@ This website is a compilation of answers to actual questions asked by Gold Card 
 went through the process. We welcome your questions and
  [contributions](https://github.com/taiwangoldcard/goldcard.tw)!
 
-This site was designed by by Gold card holders for Gold card holders, inspired by and brainstormed
+This site was designed by Gold card holders for Gold card holders, inspired by and brainstormed
 with the unofficial Gold Card holder LINE group. The original site design
 and technical implementation was created by [Eric Khun](https://twitter.com/eric_khun) and the original
 content was written by [Tom Fifield](https://twitter.com/tomfifield). Credit is also due to
