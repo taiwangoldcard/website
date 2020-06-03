@@ -71,18 +71,6 @@ A perfect application takes 30 days, if your supporting documents are accepted t
 It’s entirely normal and accepted to apply with no local address. Once you get a place to stay,
  you can (must) update the details on your card, free of charge.
 
-## If I apply in Taiwan, where do I go to prove my identity?
-You must go to your local Bureau of Consular Affairs (BOCA). If you’re getting your passport
- vetted at Taipei’s BOCA/MOFA office, here’s a quick how-to. (Don’t worry, the ‘pinball’
- method - shuffling between volunteers - works well too).
-
-1. BOCA is open between 08:30 to 17:00 [here](https://goo.gl/maps/mFt8PBMCGnD2) (a few blocks from Shandao Temple Station, Exit 2)
-1. Enter the big pink building and go directly up the escalators to level 3
-1. On 3F, ignore the ticket machine immediately in front of you and turn right and right again to be at the “Authentication” area
-1. In the middle of the area, around counter 30, grab a ticket (if there is a problem, ask for help at the end counter - counter 28)
-1. Go to the designated counter when your number is up, surrender your passport and online
- application document, provide any details on upcoming travel, and receive your receipt.
-
 ## Do I apply for the Gold Card personally, or should I ask my employer to do that?
 Generally you should apply personally. Employers can help with the process, but you do not need
  their sponsorship or support to apply for the card. Additionally, the card once issued contains

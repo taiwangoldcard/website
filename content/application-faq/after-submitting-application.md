@@ -79,6 +79,18 @@ Gather up some documents that demonstrate you work in the industry and you’re 
  the mindset of the reviewer and aim to make it as easy as possible to understand why you are a
  talent. If you feel the need, write a cover letter for your application explaining your skills.
 
+## If I apply in Taiwan, where do I go to prove my identity?
+You must go to your local Bureau of Consular Affairs (BOCA). If you’re getting your passport
+ vetted at Taipei’s BOCA/MOFA office, here’s a quick how-to. (Don’t worry, the ‘pinball’
+ method - shuffling between volunteers - works well too).
+
+1. BOCA is open between 08:30 to 17:00 [here](https://goo.gl/maps/mFt8PBMCGnD2) (a few blocks from Shandao Temple Station, Exit 2)
+1. Enter the big pink building and go directly up the escalators to level 3
+1. On 3F, ignore the ticket machine immediately in front of you and turn right and right again to be at the “Authentication” area
+1. In the middle of the area, around counter 30, grab a ticket (if there is a problem, ask for help at the end counter - counter 28)
+1. Go to the designated counter when your number is up, surrender your passport and online
+ application document, provide any details on upcoming travel, and receive your receipt.
+
 
 ## What is a "Resident Authorization Letter"?
 If you applied for your Gold Card from outside Taiwan but elected to collect your card
