@@ -59,10 +59,6 @@ You must then go through the payment steps in order for your application to be c
 
 _Note: you will receive an email at this point telling you to get your receipt. Follow the steps to download it, and print it out - you will need it to collect your card._
 
-## Is there a "general" application category or must I select a specific industry? 
-There is no "general" application category. You must select a ministry to assess your skills.
-See [How to apply for Taiwan's Employment Gold Card](http://blog.tomfifield.net/2018/05/how-to-apply-for-taiwans-immigration.html)
-
 ## How long does the application take?
 A perfect application takes 30 days, if your supporting documents are accepted the first time
  around. If you are asked for tweaks to your supporting documents, expect 50-60 days.
