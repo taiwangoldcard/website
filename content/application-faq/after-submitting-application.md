@@ -17,18 +17,75 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
     1. Claim it in Taiwan at the National Immigration Agency
     1. Claim it at your nearest diplomatic post
 
-## How do you get your physical card?
-Either at the National Immigration Agency service centres (in Taiwan) or at your local Taiwanese
- diplomatic post overseas. You selected where during your application.
-
 ## How long does the application take?
-A perfect application takes 30 days, if your supporting documents are accepted the first time around. If you are asked for tweaks to your supporting documents, expect 50-60 days.
+A perfect application takes 30 days, if your supporting documents are accepted the first time around.
+ If you are asked for tweaks to your supporting documents, expect 50-60 days.
 
 During the pandemic, we have seen 'normal' applications take as long as 80 days. Applicants who
 elected to pick their card up overseas are severely affected by the pandemic's impact on the postal
 network.
 
+## How do I find out the status of my application?
+Predominantly, you will find the status of your application by either logging in to the Gold Card
+ Application Portal, or receiving email updates from the portal. However, if the status hasn't updated in
+ a long time here's what you need to know:
+*  Who to contact changes depending on the status of your application.
+* The mostly lengthy status you will see is "Professional Review by Workforce Development Agency".
+    In this case, first, try the WDA, under the _Ministry of Labor for Employment Gold Card Permits
+    for Foreign Special Professionals_ on the master contact list. They will probably tell you that
+    the application is with the relevant ministry for your skill set and provide contact details. If not,
+    try to contact the appropriate ministry under _Qualification of Foreign Special Professionals_ on the master list
+* If your application is stuck on "Under inspection" after you already collected your passport,
+    contact the NIA - your card may already be printed.
+
+
+## How do you get your physical card?
+Either at the National Immigration Agency service centres (in Taiwan) or at your local Taiwanese
+ diplomatic post overseas. You selected where during your application.
+
+
+## What do I do if I'm asked to provide additional documents?
+After a few weeks of tense wait, you may receive an email from niasys@immigration.gov.tw that says
+"After the examination by the department and the enterprise competent authority, the relevant information shall be made up.".
+
+Log in to the portal at:
+[https://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/golden-card](https://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/golden-card)
+
+Your application will be listed under "Application cases of which data to be supplemented", click View.
+
+Up the top of the application will be a block of red text in Chinese and English. It will attempt
+ to explain what additional documents are required. If it doesn't make sense, call the appropriate
+ministry contact under Qualification of Foreign Special Professionals on the master list. They'll be
+ able to look up your application and provide more colour.
+
+
+Once you know which documents to upload, prepare to upload them as with your previous application.
+ Additionally, prepare a short statement addressing how you have rectified the "Opinion
+ on the Application". Select the documents for upload and paste the response in the "Reply Comments"
+ box at the bottom of the final page.
+
+_Important: Sometimes using English in the "Reply Comments" box will cause your application to fail
+ to be submitted with a cryptic error._
+
+## I applied under a salary provision, but am being asked for additional documents unrelated to this. Why?
+Don’t stress. This is normal. You’re applying under a financial requirement, but the relevant
+ ministry still wants to vet your skills. Under some interpretations of the regulations, they
+ are not supposed to do this, but here we are.
+
+Gather up some documents that demonstrate you work in the industry and you’re good at it. Maybe a
+ letter from your boss talking about that time you created that innovative thing, a supporting
+ statement from a professor about how they’re proud of you, a piece of easily digestible work
+ product that has your name on it. It’ll depend on what you’ve got or can create - but get into
+ the mindset of the reviewer and aim to make it as easy as possible to understand why you are a
+ talent. If you feel the need, write a cover letter for your application explaining your skills.
+
+
 ## What is a "Resident Authorization Letter"?
 If you applied for your Gold Card from outside Taiwan but elected to collect your card
 on arrival, you may use the "Resident Authorization Letter" to enter Taiwan. After arriving,
  you may visit the National Immigration Agency to collect your card.
+
+## Do you need to fly to Taiwan immediately after approval?
+No. Some people took several months to prepare for their arrival. However, see the answer for
+_When does the gold card's validity begin?_ to determine whether that affects you.
+<!-- TODO: need to link to this answer. -->

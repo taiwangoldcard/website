@@ -67,27 +67,9 @@ See [How to apply for Taiwan's Employment Gold Card](http://blog.tomfifield.net/
 A perfect application takes 30 days, if your supporting documents are accepted the first time
  around. If you are asked for tweaks to your supporting documents, expect 50-60 days.
 
-## How do I find out the status of my application?
-Predominantly, you will find the status of your application by either logging in to the Gold Card
- Application Portal, or receiving email updates from the portal. However, if the status hasn't updated in
- a long time here's what you need to know:
-*  Who to contact changes depending on the status of your application.
-* The mostly lengthy status you will see is "Professional Review by Workforce Development Agency".
-    In this case, first, try the WDA, under the _Ministry of Labor for Employment Gold Card Permits
-    for Foreign Special Professionals_ on the master contact list. They will probably tell you that
-    the application is with the relevant ministry for your skill set and provide contact details. If not,
-    try to contact the appropriate ministry under _Qualification of Foreign Special Professionals_ on the master list
-* If your application is stuck on "Under inspection" after you already collected your passport,
-    contact the NIA - your card may already be printed.
-
 ## Do I need to list an address in Taiwan on the application?
 It’s entirely normal and accepted to apply with no local address. Once you get a place to stay,
  you can (must) update the details on your card, free of charge.
-
-## Do you need to fly to Taiwan immediately after approval?
-No. Some people took several months to prepare for their arrival. However, see the answer for
-_When does the gold card's validity begin?_ to determine whether that affects you.
-<!-- TODO: need to link to this answer. -->
 
 ## If I apply in Taiwan, where do I go to prove my identity?
 You must go to your local Bureau of Consular Affairs (BOCA). If you’re getting your passport
@@ -140,39 +122,3 @@ If you live far from your local Taiwanese diplomatic post, it is recommended to 
  to give them a heads up. It’s highly likely that you’re the first person ever to go through this
  process in a particular office and giving them a day or two head start to let them call back to
  Taiwan and work out what to do when you arrive could be useful.
-
-## What do I do if I'm asked to provide additional documents?
-
-After a few weeks of tense wait, you may receive an email from niasys@immigration.gov.tw that says
-"After the examination by the department and the enterprise competent authority, the relevant information shall be made up.".
-
-Log in to the portal at:
-[https://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/golden-card](https://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/golden-card)
-
-Your application will be listed under "Application cases of which data to be supplemented", click View.
-
-Up the top of the application will be a block of red text in Chinese and English. It will attempt
- to explain what additional documents are required. If it doesn't make sense, call the appropriate
-ministry contact under Qualification of Foreign Special Professionals on the master list. They'll be
- able to look up your application and provide more colour.
-
-
-Once you know which documents to upload, prepare to upload them as with your previous application.
- Additionally, prepare a short statement addressing how you have rectified the "Opinion
- on the Application". Select the documents for upload and paste the response in the "Reply Comments"
- box at the bottom of the final page.
-
-_Important: Sometimes using English in the "Reply Comments" box will cause your application to fail
- to be submitted with a cryptic error._
-
-## I applied under a salary provision, but am being asked for additional documents unrelated to this. Why?
-Don’t stress. This is normal. You’re applying under a financial requirement, but the relevant
- ministry still wants to vet your skills. Under some interpretations of the regulations, they
- are not supposed to do this, but here we are.
-
-Gather up some documents that demonstrate you work in the industry and you’re good at it. Maybe a
- letter from your boss talking about that time you created that innovative thing, a supporting
- statement from a professor about how they’re proud of you, a piece of easily digestible work
- product that has your name on it. It’ll depend on what you’ve got or can create - but get into
- the mindset of the reviewer and aim to make it as easy as possible to understand why you are a
- talent. If you feel the need, write a cover letter for your application explaining your skills.
