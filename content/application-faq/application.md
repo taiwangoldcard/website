@@ -28,7 +28,36 @@ If you'd like to discuss:
 
 
 ## How to apply?
-See [How to apply for Taiwan's Employment Gold Card](http://blog.tomfifield.net/2018/05/how-to-apply-for-taiwans-immigration.html)
+First, gather the required documents:
+
+* digital copy of your passport
+* digital copy of your passport photo
+* locate your previous Taiwanese visa and residence permit (if any)
+* dates of any times you worked in Taiwan
+* digital copies of all documents needed to support your application
+
+_Note: all digital copies need to be <1MB in size in image or PDF format. You may need to use an image resizing tool._
+
+Second, go to the portal:
+
+ [https://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/golden-card](https://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/golden-card)
+
+and click "I want to apply". Select "self application", click consent and create an account.
+
+To make a new application, click Application-->Application for Employment Gold Card --> New Application.
+
+Step through each of the sections, making sure you fill out each section before the ~5 minute timeout logs you out.
+Click save on each page to see if there are any errors detected.
+
+_Note: the length of time you select for the card (eg 3 years) will determine its cost._
+
+Eventually, view the preview and then hit submit!
+
+_Note: you will receive an email at this point telling you to pay. If you didn't get it, check your email address was correct._
+
+You must then go through the payment steps in order for your application to be considered.
+
+_Note: you will receive an email at this point telling you to get your receipt. Follow the steps to download it, and print it out - you will need it to collect your card._
 
 ## Is there a "general" application category or must I select a specific industry? 
 There is no "general" application category. You must select a ministry to assess your skills.
