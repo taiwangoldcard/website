@@ -1,4 +1,4 @@
-# taiwangoldcard.com
+# [Taiwan Gold Card](https://taiwangoldcard.com/)
 
 We are built with an open and transparency spirit. Everyone can contribute, and suggest/implement ideas 
 
@@ -30,7 +30,7 @@ hugo server #this launch a server and serve it at http://localhost:1313/
 - `themes/compose/layout` is where you want to. modify the layout 
 - `themes/compose/assets/js` is where you want to. modify the layout 
 - `themes/compose/assets/sass` is where is the styles. `hugo` will automatically translates it to css 
-- `docs` is the "build" folder, where github look at to show the taiwangoldcard.com website
+- `docs` is the "build" folder, where github look at to show the [Taiwan Gold Card](https://taiwangoldcard.com/) website
 
 ### Deploy changes
 `sh ./deploy.sh` 
