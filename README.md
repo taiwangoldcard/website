@@ -1,10 +1,11 @@
 # taiwangoldcard.com
 
+We are built with an open and transparency spirit. Everyone can contribute, and suggest/implement ideas 
+
 Our goal is to:
-1. Increase the number of Gold Card Holders
-2. Increase the profile of the Gold Card, cementing its position as a 'special' accomplishment
-3. Rally the pool of Gold Card Holders to improve the life of all foreign residents in Taiwan
-4. Raise the profile of Taiwan as a great place to live and work
+1. Increase the profile of the Gold Card, cementing its position as a 'special' accomplishment
+2. Rally the pool of Gold Card Holders to improve the life of all foreign residents in Taiwan
+3. Raise the profile of Taiwan as a great place to live and work, so new talents are attracted in Taiwan
 
 ## Website architecture
 
