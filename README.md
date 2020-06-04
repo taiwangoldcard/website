@@ -12,11 +12,24 @@ Our goal is to:
 - Hosted on github
 - We use Cloudflare
 
-## setup the project
-```
+## Working with the repo
+
+### Setup the project
+```bash
 brew install hugo # check https://gohugo.io/getting-started/installing/ for alternative method 
 git clone https://github.com/taiwangoldcard/goldcard.tw.git
 cd goldcard.tw
 hugo server #this launch a server and serve it at http://localhost:1313/
-
 ```
+
+### Editing the content
+`content` is where you should usually edit the content
+
+### Editing the layout 
+`themes/compose/layout` is where you want to. modify the layout 
+`themes/compose/assets/js` is where you want to. modify the layout 
+`themes/compose/assets/sass` is where is the styles. `hugo` will automatically translates it to css 
+`docs` is the "build" folder, where github look at to show the taiwangoldcard.com website
+
+### Deploy changes
+`sh ./deploy.sh` 
