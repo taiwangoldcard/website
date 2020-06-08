@@ -1,5 +1,9 @@
-* Code contributions are licensed under the Apache 2.0 License.
-* Documentation contributions are licensed under the CC-BY-SA-NC license.
+* Code contributions are licensed under the Apache 2.0 License
+* Documentation contributions, which include the markdown files under /content and
+  their reformatted, compiled or rendered versions in any form in this repository
+  (including but not limited to html under /docs) and/or displayed in browser,
+  are licensed under the CC-BY-SA-NC license.
+* Anything unspecified in the above two clauses is licensed under the Apache 2.0 license
 
 
                                  Apache License
