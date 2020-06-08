@@ -1,0 +1,16 @@
+{{/* 
+     Can be used like that: 
+     {{% faq  
+        question = "My question?"
+        answer = "This is the answer to my question" 
+    %}} 
+*/}}
+
+<div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+    <h2 itemprop="name">{{ .Get "question" }}</h2>
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+        <div itemprop="text">
+            {{ .Get "answer" }}
+        </div>
+    </div>
+</div>

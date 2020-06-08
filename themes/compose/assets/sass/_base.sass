@@ -142,10 +142,11 @@ table
 
 .main
   flex: 1
+
   li
     a
-      color: var(--theme)
-
+      &:hover
+        color: var(--theme) 
 
 .page
   &-home
@@ -166,5 +167,24 @@ table
   a
     color: var(--theme)
 
+
 ::placeholder
   font-size: 1rem
+
+button
+  a
+    color: var(--light)
+
+.list-q
+  // color: orange
+  font-family: monospace;
+  line-height: 1.5;
+
+.homepage-div
+  li
+    a
+      color: var(--theme)
+      &:hover
+        color: var(--light)
+
+      

@@ -12,6 +12,8 @@
 <meta name="msapplication-config" content='{{ absURL (printf "%sbrowserconfig.xml" $iconsPath) }}'>
 <meta name="theme-color" content="#ffffff">
 
+<!-- <link rel="stylesheet" href="https://unicons.iconscout.com/release/v2.1.9/css/unicons.css"> -->
+
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
 
 <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
@@ -20,4 +22,15 @@
 
 {{- $options := (dict "targetPath" "css/styles.css" "outputStyle" "compressed" "enableSourceMap" "true") -}}
 {{- $styles := resources.Get "sass/main.sass" | resources.ExecuteAsTemplate "main.sass" . | resources.ToCSS $options | resources.Fingerprint "sha512" }}
-<link rel = 'stylesheet' href = '{{ $styles.Permalink }}' integrity = '{{ $styles.Data.Integrity }}'>
+<!-- <link rel = 'stylesheet' href = '{{ $styles.Permalink }}' integrity = '{{ $styles.Data.Integrity }}'> -->
+<link rel = 'stylesheet' href = '{{ $styles.Permalink }}'>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-167970561-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-167970561-1');
+</script>

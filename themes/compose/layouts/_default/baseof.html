@@ -1,4 +1,13 @@
 <!doctype html>
+
+{{/*
+{{- if or (eq .Section "application-faq")  (eq .Section "goldcard-holders-faq") }}
+<html itemscope itemtype="https://schema.org/FAQPage" lang="{{ .Site.Language.Lang }}">
+{{- else }}
+<html lang="{{ .Site.Language.Lang }}">
+{{- end }}
+*/}}
+
 <html lang="{{ .Site.Language.Lang }}">
 <head>
   {{- partial "head" . }}

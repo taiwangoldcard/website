@@ -32,6 +32,7 @@
 		{{- $p := . }}
 		{{- range .Site.Menus.main }}
 		<li class="nav-item">
+			
 			{{- $active := or ($p.IsMenuCurrent "main" .) ($p.HasMenuCurrent "main" .) }}
 			{{- with .Page }}
 			{{- $active = or $active ( $.IsDescendant .)  }}

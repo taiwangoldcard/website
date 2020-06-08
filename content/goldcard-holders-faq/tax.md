@@ -52,5 +52,14 @@ You are not eligible under this interpretation if:
 ## When do I file tax in Taiwan?
 The financial year is January 1st to December 31st. Tax is filed each year from May 1st to the end of the month. 
 
+2020 benefits from an [extended deadline due to the COVID-19](https://home.kpmg/us/en/home/insights/2020/04/tnf-taiwan-tax-return-tax-payment-deadlines-extended-covid-19.html). You are allowed to fill tax until the 30rd June 2020.
+
 ## How do I calculate my tax?
-A useful [tax calculator is available here](https://docs.google.com/spreadsheets/d/1_UNRjnQXEdcUYLkw-Hqo1K22RE1QAjIFelvtp0nD0mY/edit#gid=1372091174)
+A useful [tax calculator is available here](https://docs.google.com/spreadsheets/d/1_UNRjnQXEdcUYLkw-Hqo1K22RE1QAjIFelvtp0nD0mY/edit#gid=1372091174), if you need a rough estimate and can't work the [official
+website](https://www.etax.nat.gov.tw/etwmain/front/ETW158W13?site=en).
+
+## Where can I go for help with my taxes?
+The National Taxation Bureau provides free professional taxation consultation sessions [in English and Japanese](https://www.ntbt.gov.tw/English/multiplehtml/51c544ce868347fa85b4d63bcaee4559).
+During "tax season" there are dedicated English language counters for tax filing at
+National Taxation Bureau offices in major cities.
+
