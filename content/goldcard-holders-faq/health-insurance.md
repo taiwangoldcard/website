@@ -8,8 +8,20 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 ## What health insurance is available in Taiwan?
 All who are eligible for National Health Insurance must enrol in the program (your employer will do this for you), which provides comprehensive and inexpensive coverage. There are also a range of private health insurance options.
 
-## I'm a freelancer/I don't have an employer, how do I register with the NHI?
-At present, you must reside in Taiwan for a consecutive six-month period (or leave only once for less than 30 days) and apply directly with the NHI. This period starts from when you enter Taiwan. There is currently a [legislative push](https://www.ndc.gov.tw/en/Content_List.aspx?n=999F9864EFDB5F6F&upn=6CE244D6E7DAF831) to improve this, lead by the National Development Council. Check other [known limitations](/goldcard-holders-faq/known-limitations/#health-insurance-a-6-month-wait-if-you-are-unemployed) and the solutions.
+##  I don't have an employer / I'm a freelancer, how do I register with the NHI?
+At present, you must reside in Taiwan for a consecutive six-month period (or leave only once for less than 30 days) and apply directly with the NHI. This period starts from when you enter Taiwan. There is currently a [legislative push](https://www.ndc.gov.tw/en/Content_List.aspx?n=999F9864EFDB5F6F&upn=6CE244D6E7DAF831) to improve this, lead by the National Development Council.
+
+## I need a health insurance during the six-month period wait - What are the solutions?
+We know it's not ideal, but here some ways our community solved this problem: 
+
+- Find an employer, that will enroll you right after the start of the contract
+- Get a private healthcare from your native country. Other gold card holders might have some recommendations. [You can ask the community](https://forms.gle/K88uVy2jMW61DpT2A) and mention your nationality.
+
+ There is currently a [legislative push to improve this](https://www.ndc.gov.tw/en/Content_List.aspx?n=999F9864EFDB5F6F&upn=6CE244D6E7DAF831), lead by the National Development Council.
+
+## Am I allowed to leave the country during the six-month period wait?
+You are only allowed to [leave only once for less than 30 days](https://www.nhi.gov.tw/english/Content_List.aspx?n=C88B41A4EAB5E692&topn=778856C209BCE527). The period you were outside Taiwan doesn't count for the six-month period.
+Please not that the six-month period starts from the date you entered Taiwan. If you already are in Taiwan when you receive the Gold Card, the starting period is the "issue date" written on the card. 
 
 ## Where can I see a list of NHI clinics close to me?
 The NHI mobile app has a map-based search of all NHI facilities.
