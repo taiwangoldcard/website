@@ -14,6 +14,12 @@ At present, you must reside in Taiwan for a consecutive six-month period (or lea
  There is currently a
  [legislative push](https://www.ndc.gov.tw/en/Content_List.aspx?n=999F9864EFDB5F6F&upn=6CE244D6E7DAF831)
  to improve this, lead by the National Development Council.
+ 
+ ## If I'm employed by a local company, do I still need to wait for the six-month period for a health insurance card?
+ You do not.  Once the company registers your employment, you will be issued a health insurance card. 
+ 
+ ## Are my children and family eligible for a health insurance card?
+ Yes. Once your spouse and/or any minor children receive their residence cards, they can register for their health insurance card as dependents of you.
 
 ## Where can I see a list of NHI clinics close to me?
 The NHI mobile app has a map-based search of all NHI facilities.
