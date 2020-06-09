@@ -38,3 +38,23 @@ Despite many applicants qualifying for a gold card on the basis of previous empl
 
 ## Can I work for multiple companies at the same time?
 Yes.
+
+## What is salary withholding tax? At what rate should my salary be withheld?
+In May each year you pay income tax on your earnings from the previous year. To smooth out your
+ payments (and when the government receives money) a little, the Taiwanese tax system is designed
+ so that your employer effectively pre-pays a little bit of your tax. To do that, they
+ "withhold" a percentage of your salary payment each time you get paid and remit it to
+ the government a few times a year. The tax you pay in May will be reduced by this amount.
+
+There are two common amounts you will see for salary withholding tax: 18% and 5%. For
+ tax residents of Taiwan, employers should withhold 5% and non-tax-residents 18%.
+ However, some companies work on the assumption that all foreign residents have a danger of
+ leaving Taiwan each year before they achieve tax residency (i.e. less than 183 days).
+ These types of companies typically withold 18% from January to June, and 5% for the rest of
+ the year, which protects the company from owing additional tax to the government if the
+ employee leaves.
+
+Which withholding rate you are charged is not a large issue, as it directly contributes to your
+ income tax payment. If you've been charged too much, you will receive a refund from the
+ government once you file your income tax. However, it is always worth talking with your
+ employer to explain your circumstances and that you plan to reside in Taiwan long-term.
