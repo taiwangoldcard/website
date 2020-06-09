@@ -8,7 +8,7 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 ## Do I qualify?
 In order to qualify for an Employment Gold Card your skills must be related to one of eight areas:
  Science and Technology, Economics, Education, Culture and Art, Sport, Finance, Law and Architecture.
- You must select which of these is most relevant, and in most cases also select a specific entry in
+ You must select which single ministry is most relevant, and in most cases also select a specific entry in
  the list of that qualifications in that particular area for your application.
 See [How to apply for Taiwan's Employment Gold Card](http://blog.tomfifield.net/2018/05/how-to-apply-for-taiwans-immigration.html)
 

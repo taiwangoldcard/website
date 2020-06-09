@@ -2,7 +2,7 @@ baseURL = "https://taiwangoldcard.com/"
 title = "Taiwan Gold Card"
 enableRobotsTXT = true
 theme = "compose"
-enableGitInfo = false
+enableGitInfo = true
 publishDir = "docs"
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
