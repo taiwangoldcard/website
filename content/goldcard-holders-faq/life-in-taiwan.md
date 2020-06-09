@@ -62,3 +62,14 @@ If you are not from an eligible state or country and need to drive long-term, yo
  sit the local license test. For the short term, you may use an International Driving Permit from
  your home country, but after 30 days in Taiwan this must be extended by the local Motor Vehicles
  Office to remain valid.
+
+## I am being asked to see an entry stamp in my passport, but I always use the eGate. What do I do?
+These days, most foreign residents of Taiwan use the eGate exclusively to enter and exit the
+ country. It's fast and convenient, but it has the side effect that your passport is no longer
+ stamped to mark your entry or exit. You may be met with confusion when explaining this to a
+ bureaucrat in some situations. To solve this, you can visit your local National Immigration
+ Agency service center  and ask for a
+ [Certificate of Entry/Exit](https://www.immigration.gov.tw/5475/5478/141465/141808/180164/).
+ It costs 100NT and takes only a few minutes to produce. You can also
+ [apply for one online](https://ncp.immigration.gov.tw/niaweb/entryExitForeignQuery) if
+ you have a digital citizen certificate.
