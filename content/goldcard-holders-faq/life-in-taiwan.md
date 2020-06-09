@@ -48,4 +48,17 @@ No problem. If your passport number changes you must update it online. Go to the
  Click "I want to apply" and login using the username and password you used when applying for your
  gold card. select "Application" then "Information change of Employment Gold Card". Follow the steps
  including uploading a copy of your new passport. Within two weeks, you will be able to pick up a new
-Gold Card from the National Immigration Agency that has your latest information.
+ Gold Card from the National Immigration Agency that has your latest information.
+
+## How do I convert my overseas driving license?
+Taiwan has international agreements with many countries that allow you to convert your driver's license
+ from your home country into a Taiwanese license without taking a driving test. This is done on the
+ basis of 'reciprocity' - basically if it is possible for a Taiwanese national to convert their license
+ in your country you should be able to do the same in Taiwan. The Taipei City Motor Vehicles Office
+ maintains a list of eligible countries (and states within countries), and instructions
+ [on their website](https://tpcmv.thb.gov.tw/English/ServicesEng/LicenseEng/ManagementEng/ManagementEng02.htm).
+
+If you are not from an eligible state or country and need to drive long-term, you will need to
+ sit the local license test. For the short term, you may use an International Driving Permit from
+ your home country, but after 30 days in Taiwan this must be extended by the local Motor Vehicles
+ Office to remain valid.
