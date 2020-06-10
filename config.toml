@@ -9,13 +9,13 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 #  menu items
 [[menu.main]]
-    name = "GoldCard Application FAQ"
-    weight = 2
+    name = "Application FAQ"
+    weight = 1
     url = "application-faq/"
 
 [[menu.main]]
-    name = "GoldCard Holders Resources"
-    weight = 1
+    name = "Life in Taiwan"
+    weight = 2
     url = "goldcard-holders-faq/"
 
 [markup]
