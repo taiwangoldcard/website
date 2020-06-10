@@ -9,7 +9,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 #  menu items
 [[menu.main]]
-    name = "Application FAQ"
+    name = "Application Process"
     weight = 1
     url = "application-faq/"
 
