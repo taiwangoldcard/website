@@ -1,8 +1,8 @@
 baseURL = "https://taiwangoldcard.com/"
-title = "Taiwan Gold Card"
+title = "Taiwan Gold Card - Taiwan Foreign Talent Community"
 enableRobotsTXT = true
 theme = "compose"
-enableGitInfo = false
+enableGitInfo = true
 publishDir = "docs"
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
@@ -36,13 +36,13 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 # Everything below this are Site Params
 
 [params]
-  author = "Taiwan Gold Card"
+  author = "Taiwan Gold Card Community"
   enableSearch = false
   searchPlaceholder = "Search ..."
   repo = "https://github.com/onweru/compose"
 
-  description = "Taiwan Gold Card Network"
-  title = "Taiwan Gold Card"  
+  description = "We are a strong community of professionals with Taiwan Gold Card visa. We happily help newcomers and support each other within the Gold Card community"
+  title = "Taiwan Gold Card | Taiwan Foreign Talent Community"
 
   time_format_blog = "Monday, January 02, 2006"
   time_format_default = "January 2, 2006"

@@ -12,8 +12,8 @@ As a Gold Card holder working in Taiwan for the first time, for the portion of y
  NT $3 million, half of it can be excluded from your effective income for your first three years
  of residence. eg if your salary was NT $6 million, you only pay tax on NT $4.5 million.
 
-There is a special form accessible from both the Alien e-Filing system and the paper-based tax
- return application.
+There is a special form accessible from both the [Alien e-Filing system](https://tax.nat.gov.tw/alltax.html?id=9)
+ and the [paper-based tax return application](https://www.ntbt.gov.tw/multiplehtml/e4591ae68b83403eb8282d746614311f).
 
 ## If I have worked in Taiwan before, can I apply for the tax break?
 

@@ -1,5 +1,5 @@
 +++
-title = "Taiwan Gold Card - Everything about Taiwan Gold Card Visa"
+title = "Taiwan Gold Card"
 +++
 
 {{< block "grid-2 mt-2 homepage-div" >}}
