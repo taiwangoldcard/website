@@ -1,5 +1,5 @@
 +++
-title = "Taiwan Gold Card - Everything about Taiwan Gold Card Visa"
+title = "Taiwan Gold Card"
 +++
 
 {{< block "grid-2 mt-2 homepage-div" >}}
@@ -22,7 +22,7 @@ by `GoldCard holders` for `GoldCard holders`
 
 </div>
 
-{{< button "application-faq/" "Access to the FAQ" >}} 
+{{< button "application-faq/" "Access the FAQ" >}} 
 
 <br>
 <br>
@@ -35,7 +35,7 @@ by `GoldCard holders` for `GoldCard holders`
 - Visibility if you are looking for new opportunities<br>
 - Receive a regular newsletter with the latest GoldCard News<br>
 
-{{< button "https://forms.gle/K88uVy2jMW61DpT2A" "Access to the Gold Card Network" >}}
+{{< button "https://forms.gle/K88uVy2jMW61DpT2A" "Join the Gold Card Network" >}}
 {{< button "goldcard-holders-faq/" "Resources for GoldCard holders" >}}
 
 </div>

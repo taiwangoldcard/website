@@ -1,6 +1,6 @@
 
 ---
-title: "The Gold Card Application FAQ"
+title: "Gold Card Application FAQ"
 weight: 1
 ---
 The Taiwan Employment Gold Card is a combined open work permit, residence permit and visa for
