@@ -37,7 +37,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
   author = "Taiwan Gold Card Community"
-  enableSearch = false
+  enableSearch = true
   searchPlaceholder = "Search ..."
   repo = "https://github.com/onweru/compose"
 
