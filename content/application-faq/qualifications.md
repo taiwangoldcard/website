@@ -10,7 +10,8 @@ In order to qualify for an Employment Gold Card your skills must be related to o
  Science and Technology, Economics, Education, Culture and Art, Sport, Finance, Law and Architecture.
  You must select which single ministry is most relevant, and in most cases also select a specific entry in
  the list of that qualifications in that particular area for your application.
-See [How to apply for Taiwan's Employment Gold Card](http://blog.tomfifield.net/2018/05/how-to-apply-for-taiwans-immigration.html)
+Use the [Gold Card Qualification Wizard](https://visafinder.tw/gold-card-qualification/) to find the relevant
+ choices for you.
 
 ## Is there an age restriction? 
 Not really. However it is expected that gold card holders will have at least five years of work experience.
@@ -33,8 +34,8 @@ Yes.
 Yes, this card is perfect for you, since it contains an open work permit that allows you to work for any employer. However, if you don't have a Taiwanese employer please see the answer to: I'm a freelancer/I don't have an employer, how do I register with the NHI?.
 
 ## Is there a "general" application category or must I select a specific industry? 
-There is no "general" application category. You must select a ministry to assess your skills.
-See [How to apply for Taiwan's Employment Gold Card](http://blog.tomfifield.net/2018/05/how-to-apply-for-taiwans-immigration.html)
+There is no "general" application category. You must select a single ministry to assess your skills.
+Use the [Gold Card Qualification Wizard](https://visafinder.tw/gold-card-qualification/) to find suggestions.
 
 ## Does my professional services/sole proprietor/dividend income count towards the salary requirement for Gold Card application?
 Generally not, but it depends. The document requirements to prove an Article 1 ("salary")
