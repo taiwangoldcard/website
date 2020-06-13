@@ -104,21 +104,13 @@ function hasClasses(el) {
   }
 }
 
-(function calcNavHeight(){
-  const nav = elem('.nav_header');
-  const navHeight = nav.offsetHeight;
-  const docContent = elem('main');
-  docContent.style.paddingTop = `${navHeight + 20}px`;
-  return navHeight + 20;
-})();
-
 (function markInlineCodeTags(){
   const codeBlocks = elems('code');
   if(codeBlocks) {
     codeBlocks.forEach(function(codeBlock){
       if(!hasClasses(codeBlock)) {
         codeBlock.children.length ? false : pushClass(codeBlock, 'noClass');
-      } 
+      }
     });
   }
 })();
@@ -165,10 +157,10 @@ function loadActions() {
         pushClass(toc, 'toc');
         if(toc.children.length >= 1) {
           const tocItems = Array.from(toc.children[0].children);
-  
+
           const previousHeading = toc.previousElementSibling;
           previousHeading.matches('.active') ? pushClass(toc, tocActive) : false;
-    
+
           tocItems.forEach(function(item){
             pushClass(item, 'toc_item');
             pushClass(item.firstElementChild, 'toc_link');
@@ -184,13 +176,13 @@ function loadActions() {
         const pageIds = pageInternalLinks.map(function(link){
           return link.hash;
         });
-        
+
         const linkPositions = pageIds.map(function(id){
           const heading = elem(id);
           const position = heading.offsetTop;
           return position;
         });
-        
+
         pageInternalLinks.forEach(function(link, index){
           link.dataset.position = linkPositions[index]
         });
@@ -221,13 +213,13 @@ function loadActions() {
       resultsFragment.appendChild(item);
       index += 1
     });
-    
+
     showResults.appendChild(resultsFragment);
   }
-  
+
   (function search(){
     const searchField = elem('.search_field');
-    
+
     if (searchField) {
       searchField.addEventListener('input', function() {
         let rawResults = idx.search(`${ this.value }`).slice(0,6);
@@ -235,27 +227,27 @@ function loadActions() {
           // return id and score in a single string
           return `${ref.ref}:${ref.score}`;
         });
-        
+
         let ids = refs.map(function(id){
           let positionOfSeparator = id.indexOf(":");
           id = id.substring(0,positionOfSeparator)
           return Number(id);
         });
-        
+
         let scores = refs.map(function(score){
           let positionOfSeparator = score.indexOf(":");
           score = score.substring((positionOfSeparator + 1), (score.length - 1));
           return (parseFloat(score) * 50).toFixed(0);
         });
-        
+
         let matchedDocuments = simpleIndex.filter(function(doc){
           return ids.includes(doc.id);
         });
-        
+
         matchedDocuments.length >= 1 ? searchResults(matchedDocuments, scores) : false;
       });
     }
-    
+
   })();
 
   (function makeExternalLinks(){
@@ -289,7 +281,7 @@ function loadActions() {
     results = document.getElementsByTagName(tag);
     Array.prototype.push.apply(headingNodes, results);
   });
-  
+
   function sanitizeURL(url) {
     // removes any existing id on url
     const hash = '#';
@@ -343,7 +335,7 @@ function loadActions() {
     copyText.innerText = 'Link Copied';
     if(!elem(`.${yanked}`, parent)) {
       parent.appendChild(copyText);
-      setTimeout(function() { 
+      setTimeout(function() {
         // parent.removeChild(copyText)
       }, 3000);
     }
