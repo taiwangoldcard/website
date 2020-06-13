@@ -145,10 +145,12 @@ function matchChildTextContent(el, query) {
 
   // search recursively
   if(el.hasChildNodes()){
-    el.childNodes.forEach(c => {
+    let nodes = el.childNodes;
+    
+    for (const c of nodes) {
       let found = matchChildTextContent(c, query);
       if(found) return found;
-    })
+    }
   }
 }
 
@@ -157,21 +159,29 @@ function setUrlAnchor (el) {
 }
 
 function searchTextInFAQ (query) {
+  const h2s = document.querySelectorAll('.content h2');
   let found;
-  document.querySelectorAll('.content h2').forEach((el) => {
-    found = matchChildTextContent(el, query);
-    if(found) setUrlAnchor(el);
+
+  for (const el of h2s) {
+    const foundInH2 = matchChildTextContent(el, query);
+    if(!found && foundInH2) {
+      setUrlAnchor(el);
+      found = foundInH2;
+    }
 
     let answer = el.nextSibling;
     while(answer && answer.tagName !== 'H2') {
-      found = matchChildTextContent(answer, query)
-      if(found){
+      const foundInSibling = matchChildTextContent(answer, query)
+      if(!found && foundInSibling ){
         setUrlAnchor(el);
+        found = foundInSibling;
         break;
       }
       answer = answer.nextSibling;
     }
-  })
+  }
+
+  console.log('once')
   return found;
 }
 
