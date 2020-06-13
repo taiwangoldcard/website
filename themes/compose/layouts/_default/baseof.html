@@ -16,7 +16,7 @@
   <header class="nav_header">
     {{- partial "nav" . }}
   </header>
-  <main class="main wrap pt-4">
+  <main class="main wrap md">
     {{- if or (eq .Section "application-faq")  (eq .Section "goldcard-holders-faq") }}
     {{- partial "document" . }}
     {{- else }}

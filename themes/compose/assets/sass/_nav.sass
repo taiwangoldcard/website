@@ -6,9 +6,6 @@
   align-items: center
   background-color: var(--bg)
   &_header
-    position: fixed
-    top: 0
-    left: 0
     width: 100%
     background-color: var(--bg)
     z-index: 999999
@@ -18,5 +15,29 @@
     display: inline-flex
     padding: 0.5rem 1rem
 
-.nav-up 
-  top: -200px;
+.logo-link
+  display: block;
+  margin: 0 auto
+  max-width: 320px;
+
+  img
+    width: 100%;
+
+.nav-up
+  top: -200px
+
+
+.nav-link
+  display: inline-flex
+  text-align: center
+  padding: 0.5rem 1rem
+  border: 1px solid #DDD
+  border-radius: 5%
+  margin: 2px
+
+
+.nav-link:hover
+  background-color: #DDD
+  color: black
+
+
