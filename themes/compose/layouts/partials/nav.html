@@ -1,26 +1,10 @@
-<style>
-	.nav-link {
-		display: inline-flex;
-		text-align: center;
-		padding: 0.5rem 1rem;
-		border: 1px solid #DDD;
-		border-radius: 5%;
-		margin: 2px;
-	}
-
-	.nav-link:hover {
-		background-color: #DDD;
-		color: black;
-	}
-	
-</style>
 <nav class="wrap nav">
-	<a href="{{ .Site.BaseURL }}">
+	<a class="logo-link" href="{{ .Site.BaseURL }}">
 		<picture>
 			{{- $logos := .Site.Params.logo }}
 			{{- $normalPath := absURL (printf "images/%s" $logos.lightMode) }}
 			{{- $darkPath := absURL (printf "images/%s" $logos.darkMode) }}
-			
+
 			<source srcset = '{{ $darkPath }}' media="(prefers-color-scheme: dark)">
 			<img srcset = '{{ $normalPath }}' alt = '{{ .Site.Title }} Logo'>
 		</picture>
@@ -32,7 +16,7 @@
 		{{- $p := . }}
 		{{- range .Site.Menus.main }}
 		<li class="nav-item">
-			
+
 			{{- $active := or ($p.IsMenuCurrent "main" .) ($p.HasMenuCurrent "main" .) }}
 			{{- with .Page }}
 			{{- $active = or $active ( $.IsDescendant .)  }}
