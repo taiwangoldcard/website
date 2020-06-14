@@ -135,7 +135,66 @@ function activeHeading(position, listLinks) {
   }
 };
 
+function matchChildTextContent(el, query) {
+  let matches = el.textContent.toLowerCase().match(query.toLowerCase());
+  if(matches) {
+    // blink the text
+    el.classList = [...el.classList, 'blink']
+    return el;
+  }
+
+  // search recursively
+  if(el.hasChildNodes()){
+    let nodes = el.childNodes;
+    
+    for (const c of nodes) {
+      let found = matchChildTextContent(c, query);
+      if(found) return found;
+    }
+  }
+}
+
+function setUrlAnchor (el) {
+  window.location.hash = `#${el.id}`;
+}
+
+function searchTextInFAQ (query) {
+  const h2s = document.querySelectorAll('.content h2');
+  let found;
+
+  for (const el of h2s) {
+    const foundInH2 = matchChildTextContent(el, query);
+    if(!found && foundInH2) {
+      setUrlAnchor(el);
+      found = foundInH2;
+    }
+
+    let answer = el.nextSibling;
+    while(answer && answer.tagName !== 'H2') {
+      const foundInSibling = matchChildTextContent(answer, query)
+      if(!found && foundInSibling ){
+        setUrlAnchor(el);
+        found = foundInSibling;
+        break;
+      }
+      answer = answer.nextSibling;
+    }
+  }
+
+  console.log('once')
+  return found;
+}
+
 function loadActions() {
+
+  (function searchTextInPage(){
+    const urlParams = new URLSearchParams(window.location.search);
+    const q = urlParams.get('q');
+    const queries = q && q.split(' ')
+    if(q) {
+      found = queries.reduce((acc, q) => acc || searchTextInFAQ(q), undefined)
+    }
+  }());
 
   const parentURL = '{{ absURL "" }}';
   const doc = document.documentElement;
@@ -199,14 +258,14 @@ function loadActions() {
     }
   })();
 
-  function searchResults(results=[], order =[]) {
+  function searchResults(results=[], order =[], query) {
     let resultsFragment = new DocumentFragment();
     let showResults = elem('.search_results');
     emptyEl(showResults);
     let index = 0
     results.forEach(function(result){
       let item = createEl('a');
-      item.href = result.link;
+      item.href = result.link+`?q=${encodeURI(query)}`;
       item.className = 'search_result';
       item.textContent = result.title;
       item.style.order = order[index];
@@ -244,7 +303,7 @@ function loadActions() {
           return ids.includes(doc.id);
         });
 
-        matchedDocuments.length >= 1 ? searchResults(matchedDocuments, scores) : false;
+        matchedDocuments.length >= 1 ? searchResults(matchedDocuments, scores, this.value) : false;
       });
     }
 

@@ -52,6 +52,8 @@
 .latestNews
     grid-area: news
     padding: 0px 15px
+    @media (max-width: $tabletBreakPoint)
+        padding: 0px
     h2 
         margin-top: 0px
     ul
@@ -67,3 +69,11 @@
         display: table-cell
         padding-right: 10px
         font-style: italic
+
+.blink
+  animation: blinkAnimation 500ms linear 2;
+
+@keyframes blinkAnimation
+  50%
+    background-color: var(--theme)
+    color: black
