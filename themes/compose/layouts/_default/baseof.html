@@ -13,10 +13,10 @@
   {{- partial "head" . }}
 </head>
 <body class="page-{{ .Kind }}">
-  <header class="nav_header">
+  <header class="mainHeader">
     {{- partial "nav" . }}
   </header>
-  <main class="main wrap pt-4">
+  <main class="main wrap md">
     {{- if or (eq .Section "application-faq")  (eq .Section "goldcard-holders-faq") }}
     {{- partial "document" . }}
     {{- else }}
