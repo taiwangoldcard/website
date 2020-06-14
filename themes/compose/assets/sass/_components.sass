@@ -17,6 +17,19 @@
   overflow: hidden
   &_active
     height: initial
+  ul
+    margin: 0
+    padding: 0
+  li.toc_item
+    list-style: none
+    padding: .25rem 0
+    margin: 0
+  li a
+    color: var(--light)
+    &:hover
+      color: var(--theme)
+      text-decoration: none
+    
 .search
   flex: 1
   display: flex
@@ -66,7 +79,7 @@
   & + &
     background-color: var(--haze)
     color: var(--dark)
-    @media screen and (min-width: 20rem)
+    @media screen and (min-width: $phoneBreakPoint)
       margin-left: 0.5rem
 
 .video

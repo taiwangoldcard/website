@@ -1,31 +1,38 @@
-.nav
-  display: grid
-  grid-template-columns: 10rem 1fr 1fr
-  grid-gap: 1rem
-  padding: 1rem 1.5rem !important
-  align-items: center
-  background-color: var(--bg)
-  &_header
-    width: 100%
-    background-color: var(--bg)
-    z-index: 999999
-  &_body
-    display: flex
-  &-link
-    display: inline-flex
-    padding: 0.5rem 1rem
 
-.logo-link
-  display: block;
+.mainHeader
+  max-width: 1240px
+  width: 100%
+  padding: 25px 25px
   margin: 0 auto
-  max-width: 320px;
+  ul
+    align-self: right
+    margin: 0
+  li
+    margin: 0
 
-  img
-    width: 100%;
+.mainNavigation
+  margin: 0 auto
+  display: flex
+  @media (max-width: $phoneBreakPoint)
+    flex-direction: column
+    text-align: center
+
+.mainNavigation_logoLink
+  font-size: 1.3em
+  font-weight: 500
+  font-style: capitalize
+  flex: 1
+  line-height: 2em;
+  @media (max-width: $phoneBreakPoint)
+    font-size: 24pt
+
+.mainNavigation_menu
+  display: flex
+  align-self: center
+
 
 .nav-up
   top: -200px
-
 
 .nav-link
   display: inline-flex
@@ -44,6 +51,6 @@
   white-space: nowrap;
 
 .wrap.nav
-  @media (max-width: 700px)
+  @media (max-width: $phoneBreakPoint)
     display: flex;
     flex-direction: column;
