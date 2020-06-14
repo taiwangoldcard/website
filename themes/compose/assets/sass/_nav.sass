@@ -29,7 +29,9 @@
 .mainNavigation_menu
   display: flex
   align-self: center
-
+  @media (max-width: $phoneBreakPoint)
+    flex-direction: column
+    width: 100%
 
 .nav-up
   top: -200px
@@ -39,9 +41,12 @@
   text-align: center
   padding: 0.5rem 1rem
   border: 1px solid #DDD
-  border-radius: 5%
-  margin: 2px
-
+  border-radius: 5px
+  margin-left: .4rem
+  @media (max-width: $phoneBreakPoint)
+    width: 100%;
+    margin-top: .4rem
+    margin-left: 0rem;
 
 .nav-link:hover
   background-color: #DDD
