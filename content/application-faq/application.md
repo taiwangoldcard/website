@@ -72,9 +72,15 @@ You can check [the "Fees for Employment Gold Card" section of the application po
 Don't stress. The authorities will ask for more documents if the ones you provided were not
  sufficient. It’ll just extend the processing time by a couple of weeks to a month.
 
-## Do I need anything certified by the administration of my own country?
-In general, no. However, there have been a very small number of cases (eg credentials from
- China) where some action was required by a government other than Taiwan.
+## Do I need to have anything translated?
+If your documents are not in English or Chinese, they probably need to be translated.
+
+## Do I need to have anything certified?
+In general, no. However, if your documents are from the following countries, they probably need to be
+ certified by [the Taiwan diplomatic post](https://www.mofa.gov.tw/en/OverseasOfficeLink.aspx?n=1A4D7D5A68ECF4B9&sms=A76B7230ADF29736)
+ responsible for the country: Afghanistan, Algeria, Bengal,
+ Bhutan, China, Cambodia, Cameroon, Cuba, Ghana, Indonesia, Iran, Iraq, Laos, Malaysia, Myanmar,
+ Nepal, Niger, Nigeria, Pakistan, Senegal,  Somalia, Sri Lanka, Syria, Philippines, Thailand, Vietnam.
 
 ## How is the application process different if I apply from overseas?
 Applying from overseas or from within Taiwan is the same process. It differs only in which unit
