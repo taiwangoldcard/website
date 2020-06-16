@@ -6,7 +6,7 @@ weight: 2
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. -->
 
 ## How to apply?
-Application is done almost entirely online. Once you have determined how you are [qualified](/application-faq/qualifications/),
+Application is done online. Once you have determined how you are [qualified](/application-faq/qualifications/),
  gather the required documents:
 
 * digital copy of your passport
