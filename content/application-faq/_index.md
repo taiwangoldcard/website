@@ -16,7 +16,7 @@ Seek qualified advice directly from government authorities, licensed migration a
 We are neither lawyers, migration agents nor have any relationship with the government.
 
 If you are in Taiwan, you can head over the [National Immigration Agency](https://www.immigration.gov.tw/5475/5478/141386/127061/127076/)
- if you'd like to talk face to face to an agent. There is also [a list of helpful contact information](https://foreigntalentact.ndc.gov.tw/en/cp.aspx?n=D927ED39BDAE7478&s=DA2F7BC919B77E24)
+ if you'd like to talk face to face to an agent. There is also [a list of helpful contact information](/application-faq/application/#who-can-i-talk-to-about-this)
 
 
 <script src="https://unpkg.com/driver.js/dist/driver.min.js"></script>
