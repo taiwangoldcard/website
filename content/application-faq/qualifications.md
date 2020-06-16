@@ -1,6 +1,6 @@
 ---
 title: "Qualifications"
-weight: 1
+weight: 2
 ---
 <!--- (c) Tom Fifield, licensed under a
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. -->
