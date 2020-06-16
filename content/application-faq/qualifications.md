@@ -13,9 +13,6 @@ In order to qualify for an Employment Gold Card your skills must be related to o
 Use the [Gold Card Qualification Wizard](https://visafinder.tw/gold-card-qualification/) to find the relevant
  choices for you.
 
-## Is there an age restriction? 
-Not really. However it is expected that gold card holders will have at least five years of work experience.
-
 ## Do I need to have a high salary to apply for a Gold Card?
 No. Some industries have a category where applicants with a salary greater than NT$160,000 qualify.
  However, this is only one category. To date, none of the categories other than the dedicated
@@ -45,3 +42,6 @@ Generally not, but it depends. The document requirements to prove an Article 1 (
  The most commonly accepted documents appear to be withholding tax statements from employers and
  income tax returns from a tax authority. Bank statements are generally not sufficient. If you
  don't have salary-based compensation for your employment, we recommend [calling ahead](/application-faq/application/#who-can-i-talk-to-about-this).
+
+## Is there an age restriction? 
+Not really. However it is expected that gold card holders will have at least five years of work experience.
