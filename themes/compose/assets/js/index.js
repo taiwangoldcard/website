@@ -180,10 +180,32 @@ function searchTextInFAQ (query) {
       answer = answer.nextSibling;
     }
   }
-
-  console.log('once')
   return found;
 }
+
+
+/*********************************
+ *      Tracking code
+ ********************************/
+function trackButtonEvent(label, link) {
+  ga('send', {
+    hitType: 'event',
+    eventCategory: 'button',
+    eventAction: 'click',
+    eventLabel: label + ' ' + link
+  });
+}
+
+function trackTopMenu(label, link) {
+  ga('send', {
+    hitType: 'event',
+    eventCategory: 'top-menu',
+    eventAction: 'click',
+    eventLabel: label + ' ' + link
+  });
+}
+
+
 
 function loadActions() {
 
