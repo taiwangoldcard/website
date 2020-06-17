@@ -11,7 +11,6 @@ title = "Taiwan Gold Card"
 - Do I qualify for the Gold card?
 
 {{< button "application-faq/" "Access the FAQ" >}}
-{{< button "https://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/golden-card?src=taiwangoldcard.com" "Apply for the Gold Card" >}}
 
 {{< /section >}}
 

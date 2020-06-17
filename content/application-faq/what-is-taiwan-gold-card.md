@@ -1,6 +1,8 @@
 ---
 title: "What is Taiwan Employment Gold Card?"
 weight: 1
+draft: true
+# Let's make sure we agree on this: https://github.com/taiwangoldcard/website/pull/23
 ---
 
 Taiwan Employment Gold Card is a special visa launched in 2018 to attract "special" talents in Taiwan. 
