@@ -10,7 +10,7 @@
   {{- $label = index $details 0 }}
   {{- $modifier = printf "button_%s" (trim (index $details 1) " ") }}
 {{- end -}}
-<a href = '{{ $link }}' class = 'button {{ $modifier }}' onclick="trackButtonEvent({{- $label -}}, {{- $link -}})">
+<a href = '{{ $link }}' class = 'button {{ $modifier }}'>
   {{- with $icon -}}
   <img src="/images/{{ . }}" alt="icon"> 
   {{- end }}
