@@ -36,5 +36,7 @@ Content and the underlying site is contributed by a volunteer community that you
 {{< column >}}
 ![Taiwan](/images/taiwan-unsplash.jpeg)
 
+The following people have contributed to this site: Alvin, Eric Khun, Ian Sinnot, Jonathan Liao, Tom Fifield.
+
 {{< /column >}}
 {{< /block >}}
