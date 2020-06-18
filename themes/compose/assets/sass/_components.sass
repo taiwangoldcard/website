@@ -17,14 +17,30 @@
   overflow: hidden
   &_active
     height: initial
+  ul
+    margin: 0
+    padding: 0
+  li.toc_item
+    list-style: none
+    padding: .25rem 0
+    margin: 0
+  li a
+    color: var(--text)
+    &:hover
+      color: var(--text)
+      text-decoration: underline
+    
 .search
-  flex: 1
-  display: flex
-  justify-content: flex-end
+  order: 1
+  @media (max-width: $phoneBreakPoint)
+    input
+      width: 100%
+    margin: .4rem 0;
   position: relative
+  margin: 5px
   &_field
-    padding: 0.5rem 1.5rem 0.5rem 2.5rem
-    border-radius: 1.5rem
+    padding: 0.6rem 1.5rem 0.6rem 2.5rem
+    border-radius: 5px
     width: 13.5rem
     outline: none
     border: none
@@ -35,9 +51,10 @@
     width: 1.25rem
     height: 1.25rem
     position: absolute
-    right: 11.5rem
+    left: 0.3rem
     top: 0.5rem
     opacity: 0.33
+    margin: 0px 5px
   &_result
     padding: 0.5rem 1rem
     &:hover
@@ -66,7 +83,7 @@
   & + &
     background-color: var(--haze)
     color: var(--dark)
-    @media screen and (min-width: 20rem)
+    @media screen and (min-width: $phoneBreakPoint)
       margin-left: 0.5rem
 
 .video

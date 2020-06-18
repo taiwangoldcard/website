@@ -5,3 +5,75 @@
 @import "utils"
 @import "syntax"
 @import "fonts"
+@import "document"
+@import "sidebar"
+
+
+.home 
+    display: grid;
+    grid-template-columns: 30% 20% 20% 30%
+    grid-template-rows: auto
+    grid-template-areas: "picture picture picture news" "left-question left-question right-question right-question" 
+
+    @media (max-width: $tabletBreakPoint)
+        display: grid;
+        grid-template-columns: auto
+        grid-template-rows: auto
+        grid-template-areas: "news" "picture" "left-question" "right-question" 
+
+
+.newApplicant
+    grid-area: left-question
+    margin-top: 30px;
+    @media (max-width: $phoneBreakPoint)
+        a.button
+            width: 100%
+    h2
+        text-align: center
+
+.existingApplicant
+    grid-area: right-question
+    margin-top: 30px;
+    p
+        display: inline
+    a.button
+        margin-top: 10px
+    @media (max-width: $phoneBreakPoint)
+        a.button
+            width: 100%
+    h2
+        text-align: center
+
+.homePicture
+    grid-area: picture
+    padding: 0
+    margin: 0
+
+.latestNews
+    grid-area: news
+    padding: 0px 15px
+    @media (max-width: $tabletBreakPoint)
+        padding: 0px
+    h2 
+        margin-top: 0px
+    ul
+        display: table
+        padding-left: 0px;
+    li
+        display: table-row
+        padding-bottom: 15px
+        a
+            display: table-cell
+            padding-bottom: 5px;
+    time
+        display: table-cell
+        padding-right: 10px
+        font-style: italic
+
+.blink
+  animation: blinkAnimation 500ms linear 2;
+
+@keyframes blinkAnimation
+  50%
+    background-color: var(--theme)
+    color: black

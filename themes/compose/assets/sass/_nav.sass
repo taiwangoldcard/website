@@ -1,22 +1,61 @@
-.nav
-  display: grid
-  grid-template-columns: 10rem 1fr 1fr
-  grid-gap: 1rem
-  padding: 1rem 1.5rem !important
-  align-items: center
-  background-color: var(--bg)
-  &_header
-    position: fixed
-    top: 0
-    left: 0
-    width: 100%
-    background-color: var(--bg)
-    z-index: 999999
-  &_body
-    display: flex
-  &-link
-    display: inline-flex
-    padding: 0.5rem 1rem
 
-.nav-up 
-  top: -200px;
+.mainHeader
+  max-width: 1240px
+  width: 100%
+  padding: 25px 25px
+  margin: 0 auto
+  ul
+    align-self: right
+    margin: 0
+  li
+    margin: 0
+
+.mainNavigation
+  margin: 0 auto
+  display: flex
+  @media (max-width: $phoneBreakPoint)
+    flex-direction: column
+    text-align: center
+
+.mainNavigation_logoLink
+  font-size: 1.3em
+  font-weight: 500
+  font-style: capitalize
+  flex: 1
+  line-height: 2em;
+  @media (max-width: $phoneBreakPoint)
+    font-size: 24pt
+
+.mainNavigation_menu
+  display: flex
+  align-self: center
+  @media (max-width: $phoneBreakPoint)
+    flex-direction: column
+    width: 100%
+
+.nav-up
+  top: -200px
+
+.nav-link
+  display: inline-flex
+  text-align: center
+  padding: 0.5rem 1rem
+  border: 1px solid #DDD
+  border-radius: 5px
+  margin-left: .4rem
+  @media (max-width: $phoneBreakPoint)
+    width: 100%;
+    margin-top: .4rem
+    margin-left: 0rem;
+
+.nav-link:hover
+  background-color: #DDD
+  color: black
+
+.nav-link
+  white-space: nowrap;
+
+.wrap.nav
+  @media (max-width: $phoneBreakPoint)
+    display: flex;
+    flex-direction: column;

@@ -104,21 +104,13 @@ function hasClasses(el) {
   }
 }
 
-(function calcNavHeight(){
-  const nav = elem('.nav_header');
-  const navHeight = nav.offsetHeight;
-  const docContent = elem('main');
-  docContent.style.paddingTop = `${navHeight + 20}px`;
-  return navHeight + 20;
-})();
-
 (function markInlineCodeTags(){
   const codeBlocks = elems('code');
   if(codeBlocks) {
     codeBlocks.forEach(function(codeBlock){
       if(!hasClasses(codeBlock)) {
         codeBlock.children.length ? false : pushClass(codeBlock, 'noClass');
-      } 
+      }
     });
   }
 })();
@@ -143,7 +135,64 @@ function activeHeading(position, listLinks) {
   }
 };
 
+function matchChildTextContent(el, query) {
+  let matches = el.textContent.toLowerCase().match(query.toLowerCase());
+  if(matches) {
+    // blink the text
+    el.classList = [...el.classList, 'blink']
+    return el;
+  }
+
+  // search recursively
+  if(el.hasChildNodes()){
+    let nodes = el.childNodes;
+    
+    for (const c of nodes) {
+      let found = matchChildTextContent(c, query);
+      if(found) return found;
+    }
+  }
+}
+
+function setUrlAnchor (el) {
+  window.location.hash = `#${el.id}`;
+}
+
+function searchTextInFAQ (query) {
+  const h2s = document.querySelectorAll('.content h2');
+  let found;
+
+  for (const el of h2s) {
+    const foundInH2 = matchChildTextContent(el, query);
+    if(!found && foundInH2) {
+      setUrlAnchor(el);
+      found = foundInH2;
+    }
+
+    let answer = el.nextSibling;
+    while(answer && answer.tagName !== 'H2') {
+      const foundInSibling = matchChildTextContent(answer, query)
+      if(!found && foundInSibling ){
+        setUrlAnchor(el);
+        found = foundInSibling;
+        break;
+      }
+      answer = answer.nextSibling;
+    }
+  }
+  return found;
+}
+
 function loadActions() {
+
+  (function searchTextInPage(){
+    const urlParams = new URLSearchParams(window.location.search);
+    const q = urlParams.get('q');
+    const queries = q && q.split(' ')
+    if(q) {
+      found = queries.reduce((acc, q) => acc || searchTextInFAQ(q), undefined)
+    }
+  }());
 
   const parentURL = '{{ absURL "" }}';
   const doc = document.documentElement;
@@ -165,10 +214,10 @@ function loadActions() {
         pushClass(toc, 'toc');
         if(toc.children.length >= 1) {
           const tocItems = Array.from(toc.children[0].children);
-  
+
           const previousHeading = toc.previousElementSibling;
           previousHeading.matches('.active') ? pushClass(toc, tocActive) : false;
-    
+
           tocItems.forEach(function(item){
             pushClass(item, 'toc_item');
             pushClass(item.firstElementChild, 'toc_link');
@@ -184,13 +233,13 @@ function loadActions() {
         const pageIds = pageInternalLinks.map(function(link){
           return link.hash;
         });
-        
+
         const linkPositions = pageIds.map(function(id){
           const heading = elem(id);
           const position = heading.offsetTop;
           return position;
         });
-        
+
         pageInternalLinks.forEach(function(link, index){
           link.dataset.position = linkPositions[index]
         });
@@ -207,27 +256,27 @@ function loadActions() {
     }
   })();
 
-  function searchResults(results=[], order =[]) {
+  function searchResults(results=[], order =[], query) {
     let resultsFragment = new DocumentFragment();
     let showResults = elem('.search_results');
     emptyEl(showResults);
     let index = 0
     results.forEach(function(result){
       let item = createEl('a');
-      item.href = result.link;
+      item.href = result.link+`?q=${encodeURI(query)}`;
       item.className = 'search_result';
       item.textContent = result.title;
       item.style.order = order[index];
       resultsFragment.appendChild(item);
       index += 1
     });
-    
+
     showResults.appendChild(resultsFragment);
   }
-  
+
   (function search(){
     const searchField = elem('.search_field');
-    
+
     if (searchField) {
       searchField.addEventListener('input', function() {
         let rawResults = idx.search(`${ this.value }`).slice(0,6);
@@ -235,27 +284,27 @@ function loadActions() {
           // return id and score in a single string
           return `${ref.ref}:${ref.score}`;
         });
-        
+
         let ids = refs.map(function(id){
           let positionOfSeparator = id.indexOf(":");
           id = id.substring(0,positionOfSeparator)
           return Number(id);
         });
-        
+
         let scores = refs.map(function(score){
           let positionOfSeparator = score.indexOf(":");
           score = score.substring((positionOfSeparator + 1), (score.length - 1));
           return (parseFloat(score) * 50).toFixed(0);
         });
-        
+
         let matchedDocuments = simpleIndex.filter(function(doc){
           return ids.includes(doc.id);
         });
-        
-        matchedDocuments.length >= 1 ? searchResults(matchedDocuments, scores) : false;
+
+        matchedDocuments.length >= 1 ? searchResults(matchedDocuments, scores, this.value) : false;
       });
     }
-    
+
   })();
 
   (function makeExternalLinks(){
@@ -289,7 +338,7 @@ function loadActions() {
     results = document.getElementsByTagName(tag);
     Array.prototype.push.apply(headingNodes, results);
   });
-  
+
   function sanitizeURL(url) {
     // removes any existing id on url
     const hash = '#';
@@ -343,7 +392,7 @@ function loadActions() {
     copyText.innerText = 'Link Copied';
     if(!elem(`.${yanked}`, parent)) {
       parent.appendChild(copyText);
-      setTimeout(function() { 
+      setTimeout(function() {
         // parent.removeChild(copyText)
       }, 3000);
     }

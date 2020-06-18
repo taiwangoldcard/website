@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Taiwan Gold Card on Taiwan Gold Card - Taiwan Foreign Talents Community</title>
+    <title>Taiwan Gold Card on Taiwan Gold Card - Taiwan Foreign Talent Community</title>
     <link>https://taiwangoldcard.com/</link>
-    <description>Recent content in Taiwan Gold Card on Taiwan Gold Card - Taiwan Foreign Talents Community</description>
+    <description>Recent content in Taiwan Gold Card on Taiwan Gold Card - Taiwan Foreign Talent Community</description>
     <generator>Hugo -- gohugo.io</generator>
     
 	<atom:link href="https://taiwangoldcard.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Qualifications</title>
-      <link>https://taiwangoldcard.com/application-faq/qualifications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://taiwangoldcard.com/application-faq/qualifications/</guid>
-      <description>Do I qualify? In order to qualify for an Employment Gold Card your skills must be related to one of eight areas: Science and Technology, Economics, Education, Culture and Art, Sport, Finance, Law and Architecture. You must select which single ministry is most relevant, and in most cases also select a specific entry in the list of that qualifications in that particular area for your application. See How to apply for Taiwan&amp;rsquo;s Employment Gold Card</description>
-    </item>
     
     <item>
       <title>At Work</title>
@@ -29,21 +20,12 @@ What happens if I lose my job? You may simply find a new job. Your Gold Card is 
     </item>
     
     <item>
-      <title>The Gold Card Application</title>
-      <link>https://taiwangoldcard.com/application-faq/application/</link>
+      <title>Qualifications</title>
+      <link>https://taiwangoldcard.com/application-faq/qualifications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://taiwangoldcard.com/application-faq/application/</guid>
-      <description>Who can I talk to about this? You&amp;rsquo;re in for some serious luck here! The Gold Card comes with some direct contacts who are high level and exceptionally helpful. However, first it is critical to understand that this program is a collaboration of disparate Government departments who aren&amp;rsquo;t necessarily in constant communication with each other. You will need to choose a department to contact depending on the stage of your application.</description>
-    </item>
-    
-    <item>
-      <title>After submitting your application</title>
-      <link>https://taiwangoldcard.com/application-faq/after-submitting-application/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://taiwangoldcard.com/application-faq/after-submitting-application/</guid>
-      <description>What happens after you submit your application?  Your qualifications will be assessed.  First, the Ministry of Labor will attempt to sign off on the work permit. If it can do this itself (eg you apply based on the salary criteria and provide the right documents), your application will be swift (one case took just two days). If the Ministry of Labor can&amp;rsquo;t vet your skills, it will call in the appropriate Ministry (eg &amp;ldquo;Science and Technology) to assist.</description>
+      <guid>https://taiwangoldcard.com/application-faq/qualifications/</guid>
+      <description>Do I qualify? In order to qualify for an Employment Gold Card your skills must be related to one of eight areas: Science and Technology, Economics, Education, Culture and Art, Sport, Finance, Law and Architecture. You must select which single ministry is most relevant, and in most cases also select a specific entry in the list of that qualifications in that particular area for your application. Use the Gold Card Qualification Wizard to find the relevant choices for you.</description>
     </item>
     
     <item>
@@ -54,6 +36,25 @@ What happens if I lose my job? You may simply find a new job. Your Gold Card is 
       <guid>https://taiwangoldcard.com/goldcard-holders-faq/health-insurance/</guid>
       <description>What health insurance is available in Taiwan? All who are eligible for National Health Insurance must enrol in the program (your employer will do this for you), which provides comprehensive and inexpensive coverage. There are also a range of private health insurance options.
 I&amp;rsquo;m a freelancer/I don&amp;rsquo;t have an employer, how do I register with the NHI? At present, you must reside in Taiwan for a consecutive six-month period (or leave only once for less than 30 days) and apply directly with the NHI.</description>
+    </item>
+    
+    <item>
+      <title>The Gold Card Application</title>
+      <link>https://taiwangoldcard.com/application-faq/application/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://taiwangoldcard.com/application-faq/application/</guid>
+      <description>How to apply? Application is done online. Once you have determined how you are qualified, gather the required documents:
+ digital copy of your passport digital copy of your passport photo locate your previous Taiwanese visa and residence permit (if any) dates of any times you worked in Taiwan digital copies of all documents needed to support your application  Note: all digital copies need to be &amp;lt;1MB in size in image or PDF format.</description>
+    </item>
+    
+    <item>
+      <title>After submitting your application</title>
+      <link>https://taiwangoldcard.com/application-faq/after-submitting-application/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://taiwangoldcard.com/application-faq/after-submitting-application/</guid>
+      <description>What happens after you submit your application?  Your qualifications will be assessed.  First, the Ministry of Labor will attempt to sign off on the work permit. If it can do this itself (eg you apply based on the salary criteria and provide the right documents), your application will be swift (one case took just two days). If the Ministry of Labor can&amp;rsquo;t vet your skills, it will call in the appropriate Ministry (eg &amp;ldquo;Science and Technology) to assist.</description>
     </item>
     
     <item>
@@ -92,8 +93,9 @@ Consider also if the program doesn’t change.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://taiwangoldcard.com/goldcard-holders-faq/family/</guid>
-      <description>What happens if I get married to a Taiwanese citizen while on a Gold Card? Congratulations on your marriage. Though you may become eligible for other visas due to this, you may continue to use your Gold Card.
-If I switch from a Gold Card to permanent residence, can my family switch too? When you have been approved for permanent residence, your children (under 20) and your spouse may also apply for permanent residency if they have lived in Taiwan for more than 183 days per year for the past five years.</description>
+      <description>Can my spouse and children come with me if I get a Gold Card? Yes, for children under 20 years old and married spouses this is no problem.
+Can my spouse work, if they join me in Taiwan as a dependant? The Gold Card does not provide for a work permit for dependants of the card holder. Your spouse should get their own work permit.
+What happens if I get married to a Taiwanese citizen while on a Gold Card?</description>
     </item>
     
     <item>

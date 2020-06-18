@@ -1,6 +1,6 @@
 ---
 title: "After submitting your application"
-weight: 3
+weight: 4
 ---
 <!--- (c) Tom Fifield, licensed under a
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. -->
@@ -99,5 +99,4 @@ on arrival, you may use the "Resident Authorization Letter" to enter Taiwan. Aft
 
 ## Do you need to fly to Taiwan immediately after approval?
 No. Some people took several months to prepare for their arrival. However, see the answer for
-_When does the gold card's validity begin?_ to determine whether that affects you.
-<!-- TODO: need to link to this answer. -->
+[When does the gold card's validity begin?](/goldcard-holders-faq/validity/) to determine whether that affects you.

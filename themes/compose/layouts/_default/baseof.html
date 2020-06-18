@@ -13,10 +13,14 @@
   {{- partial "head" . }}
 </head>
 <body class="page-{{ .Kind }}">
-  <header class="nav_header">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K3R2KD7"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+  <header class="mainHeader">
     {{- partial "nav" . }}
   </header>
-  <main class="main wrap pt-4">
+  <main class="main wrap md">
     {{- if or (eq .Section "application-faq")  (eq .Section "goldcard-holders-faq") }}
     {{- partial "document" . }}
     {{- else }}

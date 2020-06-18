@@ -13,7 +13,7 @@ no need to already have a job or a company to sponsor you.
 
 This website is a compilation of answers to actual questions asked by Gold Card holders as they
 went through the process. We welcome your questions and
- [contributions](https://github.com/taiwangoldcard/goldcard.tw)!
+ [contributions](https://github.com/taiwangoldcard/website)!
 
 This site was designed by Gold card holders for Gold card holders, inspired by and brainstormed
 with the unofficial Gold Card holder LINE group. The original site design
@@ -23,6 +23,12 @@ content was written by [Tom Fifield](https://twitter.com/tomfifield). Credit is 
  community there, many people would never have discovered the Gold Card or made it through their
 applications.
 
+
+Content and the underlying site is contributed by a volunteer community that you are
+ [welcome to join](https://github.com/taiwangoldcard/website). Contributions to code are licensed under
+ the Apache 2.0 license, and contributions of content for the FAQ are licensed under the Creative Commons
+ CC-BY-SA-NC license. The license text can be found in
+ [our repository](https://github.com/taiwangoldcard/website/blob/master/LICENSE.md).
 
 
 {{< /column >}}

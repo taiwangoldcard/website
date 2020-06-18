@@ -9,9 +9,11 @@
       {{- with .Next }}
       <a href="{{ .Permalink }}" id="prev"> << {{ .Title }}</a>
       {{ end }}
-      {{ if ne .File.LogicalName "_index.md" }}
-      Last Updated: {{ .Page.Lastmod.Month }} {{ .Page.Lastmod.Day }}, {{ .Page.Lastmod.Year }}
-      {{ end }}
+      <div class="last-updated">
+        {{ if ne .File.LogicalName "_index.md" }}
+        Last Updated: {{ .Page.Lastmod.Month }} {{ .Page.Lastmod.Day }}, {{ .Page.Lastmod.Year }}
+        {{ end }}
+      </div>
       {{- with .Prev }}
       <a href="{{ .Permalink }}" id="next">{{ .Title }} >></a>
       {{- end }}

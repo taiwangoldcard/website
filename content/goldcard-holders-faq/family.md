@@ -5,6 +5,13 @@ weight: 7
 <!--- (c) Tom Fifield, licensed under a
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. -->
 
+## Can my spouse and children come with me if I get a Gold Card?
+Yes, for children under 20 years old and married spouses this is no problem.
+
+## Can my spouse work, if they join me in Taiwan as a dependant?
+The Gold Card does not provide for a work permit for dependants of the card holder. Your spouse
+should get their own work permit.
+
 ## What happens if I get married to a Taiwanese citizen while on a Gold Card?
 Congratulations on your marriage. Though you may become eligible for other visas due to
  this, you may continue to use your Gold Card. 
