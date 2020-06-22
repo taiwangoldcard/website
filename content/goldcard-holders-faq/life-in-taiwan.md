@@ -27,7 +27,7 @@ government agencies invite us to parties or ask our opinions on certain matters.
 
 ## What happens if I change my address?
 You must log in to the Gold Card Application portal and update your details there within 14 days of
- moving.
+ moving. It will cost NTD 500, that can get refunded.
 
 ## How do I change my address?
 You must change your address online. Go to the [Gold Card Portal](https://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/golden-card).
