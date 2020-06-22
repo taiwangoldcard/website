@@ -43,12 +43,11 @@ A perfect application takes 30 days, if your supporting documents are accepted t
  around. If you are asked for tweaks to your supporting documents, expect 50-60 days.
 
 ## Do I need to list an address in Taiwan on the application?
-Yes. It’s entirely normal and accepted to apply with no local address. Once you get a place to stay,
- you can (must) update the details on your card, free of charge.
+It’s entirely normal and accepted to apply with no local address. Once you get a place to stay,
+ you can (must) update the details on your card, [free of charge](/goldcard-holders-faq/life-in-taiwan/#what-happens-if-i-change-my-address).
 
  ## Can I use a temporary address?
-Yes. You'll be able to change the address later when you move to a new place (and should). Check the
-section on [how to change your address once you got the Gold Card](/goldcard-holders-faq/life-in-taiwan/#what-happens-if-i-change-my-address).
+Yes, but we wouldn't recommend it. Important documents could be sent to that address and you might miss them.
 
 ## Do I apply for the Gold Card personally, or should I ask my employer to do that?
 Generally you should apply personally. Employers can help with the process, but you do not need
@@ -97,8 +96,7 @@ If you live far from your local Taiwanese diplomatic post, it is recommended to 
  Taiwan and work out what to do when you arrive could be useful.
 
 ## Should I upload my entire passport?
-You don't need to upload empty pages of your passport. So we recommend you to upload the main page page 
-with your photo and signature,  stamps and visas.
+You don't need to upload your entire passport. Only the bio page is necessary.
 
 ## Who can I talk to about this?
 You're in for some serious luck here! The Gold Card comes with some direct contacts who are
