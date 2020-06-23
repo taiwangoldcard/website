@@ -26,7 +26,7 @@ the eyes of certain people. Additionally, Sometimes the National Development Cou
 government agencies invite us to parties or ask our opinions on certain matters.
 
 ## What happens if I change my address?
-You must log in to the Gold Card Application portal and update your details there within 14 days of
+You must log in to the Gold Card Application portal and update your details there within 30 days of
  moving. Address changes are free, however the system can't support free changes at the moment. You will be initially charged 500NT, but within a few weeks you will receive communication about your refund. 
 
 ## How do I change my address?
