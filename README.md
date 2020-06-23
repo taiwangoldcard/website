@@ -39,4 +39,6 @@ hugo server #this launch a server and serve it at http://localhost:1313/
 
 ### Deploy changes
 
-`sh ./deploy.sh`
+Merge the Pull request in Github and then in your terminal: 
+
+`git checkout master && sh ./deploy.sh`
