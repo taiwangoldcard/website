@@ -26,8 +26,8 @@ the eyes of certain people. Additionally, Sometimes the National Development Cou
 government agencies invite us to parties or ask our opinions on certain matters.
 
 ## What happens if I change my address?
-You must log in to the Gold Card Application portal and update your details there within 14 days of
- moving. Address changes are free, however the system can't support free changes at the moment. You will be initially charged NT$500, but within a few weeks you will receive communication about your refund. 
+You must log in to the Gold Card Application portal and update your details there within 30 days of
+ moving. Address changes are free, however the system can't support free changes at the moment. You will be initially charged 500NT, but within a few weeks you will receive communication about your refund.
 
 ## How do I change my address?
 You must change your address online. Go to the [Gold Card Portal](https://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/golden-card).
@@ -38,6 +38,15 @@ You must change your address online. Go to the [Gold Card Portal](https://coa.im
  several steps and take more than a month. Under the current process, you will receive a phone call
  and be asked for the details of your bank account to return the funds. Your new Gold Card with the 
 latest address will be available for collection within approximately two weeks.
+
+## What if I don't update my address?
+Legally, you are [required to update your address within 30 days starting from the date you move in](https://law.moj.gov.tw/ENG/LawClass/LawSearchContent.aspx?pcode=D0080204&norge=10). Otherwise here is a non-exhaustive list of potential consequences: 
+
+- You could receive a fine.
+- Some government entities, such as the tax office or NHI, won't accept any other address
+than the one mentioned in your Gold Card.
+- Important documents, such as the NHI invoices, will be sent to the address, and you might
+miss them.
 
 ## How many days per year do I have to stay in Taiwan?
 There are no requirements. However, you must stay for more than 183 days per year in order to be
