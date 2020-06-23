@@ -46,7 +46,7 @@ You can download it from the [Google Play store](https://play.google.com/store/a
 
 ## How are NHI premiums managed?
 NHI premiums will be withheld from your salary payment. Standard premiums for professional employees
- are typically 1.41% of your salary, multipled by the number of family members enrolled as your
+ are typically 1.41% of your salary, multiplied by the number of family members enrolled as your
  dependants. Some types of income attract a higher rate of 1.91% (eg bonuses and investment income).
 There are income tax deductions available for NHI premium payments.
 Official information and description of the many 'special' cases can be found on:
