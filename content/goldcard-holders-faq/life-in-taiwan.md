@@ -73,3 +73,9 @@ These days, most foreign residents of Taiwan use the eGate exclusively to enter 
  It costs 100NT and takes only a few minutes to produce. You can also
  [apply for one online](https://ncp.immigration.gov.tw/niaweb/entryExitForeignQuery) if
  you have a digital citizen certificate.
+
+## Can I start a company / employ myself?
+Yes. With a Gold Card you are able to setup a Taiwanese limited liability company as a sole foreign investor
+ without any minimum capital requirement. You are also able to employ yourself since you already have a
+ work permit through the Gold Card. You are also able to setup and employ yourself through a rep-office
+ if you just intend to represent a foreign company
