@@ -42,7 +42,7 @@ latest address will be available for collection within approximately two weeks.
 ## What if I don't update my address?
 Legally, you are [required to update your address within 30 days starting from the date you move in](https://law.moj.gov.tw/ENG/LawClass/LawSearchContent.aspx?pcode=D0080204&norge=10). Otherwise here is a non-exhaustive list of potential consequences: 
 
-- You could be fined 1000NT.
+- You could receive a fine.
 - Some government entities, such as the tax office or NHI, won't accept any other address
 than the one mentioned in your Gold Card.
 - Important documents, such as the NHI invoices, will be sent to the address, and you might
