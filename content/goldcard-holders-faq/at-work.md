@@ -50,7 +50,7 @@ There are two common amounts you will see for salary withholding tax: 18% and 5%
  tax residents of Taiwan, employers should withhold 5% and non-tax-residents 18%.
  However, some companies work on the assumption that all foreign residents have a danger of
  leaving Taiwan each year before they achieve tax residency (i.e. less than 183 days).
- These types of companies typically withold 18% from January to June, and 5% for the rest of
+ These types of companies typically withhold 18% from January to June, and 5% for the rest of
  the year, which protects the company from owing additional tax to the government if the
  employee leaves.
 
