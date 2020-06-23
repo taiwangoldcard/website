@@ -39,6 +39,15 @@ You must change your address online. Go to the [Gold Card Portal](https://coa.im
  and be asked for the details of your bank account to return the funds. Your new Gold Card with the 
 latest address will be available for collection within approximately two weeks.
 
+## What if I don't update my address?
+Legally, you are [required to update your address within 30 days starting from the date you move in](https://law.moj.gov.tw/ENG/LawClass/LawSearchContent.aspx?pcode=D0080204&norge=10). Otherwise here a non-exhaustive list of what could happen : 
+
+- You could be fined 1000 TWD
+- Some government entities, such as the tax office or NHI, won't accept any other address
+than the one mentionned in your Gold Card
+- Important documents, such as the NHI invoices, will be sent to the address, and you might
+miss them
+
 ## How many days per year do I have to stay in Taiwan?
 There are no requirements. However, you must stay for more than 183 days per year in order to be
  eligible for many benefits such as: tax resident treatment and a pathway to permanent residence.
