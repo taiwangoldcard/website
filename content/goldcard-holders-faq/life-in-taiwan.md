@@ -59,9 +59,10 @@ Taiwan has international agreements with many countries that allow you to conver
  [on their website](https://tpcmv.thb.gov.tw/English/ServicesEng/LicenseEng/ManagementEng/ManagementEng02.htm).
 
 If you are not from an eligible state or country and need to drive long-term, you will need to
- sit the local license test. For the short term, you may use an International Driving Permit from
- your home country, but after 30 days in Taiwan this must be extended by the local Motor Vehicles
- Office to remain valid.
+ sit the local license test. For the short term, you may use an International Driving Permit (IDP) from
+ your home country, but after 30 days in Taiwan this must be validated by the local Motor Vehicles
+ Office to remain valid. A validated IDP can typically only be used for a maximum of 1 year, after which you
+ are supposed to apply for a Taiwanese driver's license.
 
 ## I am being asked to see an entry stamp in my passport, but I always use the eGate. What do I do?
 These days, most foreign residents of Taiwan use the eGate exclusively to enter and exit the
