@@ -76,6 +76,6 @@ These days, most foreign residents of Taiwan use the eGate exclusively to enter 
 
 ## Can I start a company / employ myself?
 Yes. With a Gold Card you are able to setup a Taiwanese limited liability company as a sole foreign investor
- without any minimum capital requirement. You are also able to employ yourself since you already have a
+ without any minimum capital requirement, and you can employ yourself since you already have a
  work permit through the Gold Card. You are also able to setup and employ yourself through a rep-office
  if you just intend to represent a foreign company
