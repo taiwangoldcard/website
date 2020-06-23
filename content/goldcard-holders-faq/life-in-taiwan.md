@@ -27,13 +27,13 @@ government agencies invite us to parties or ask our opinions on certain matters.
 
 ## What happens if I change my address?
 You must log in to the Gold Card Application portal and update your details there within 14 days of
- moving. Address changes are free, however the system can't support free changes at the moment. You will be initially charged 500NT, but within a few weeks you will receive communication about your refund. 
+ moving. Address changes are free, however the system can't support free changes at the moment. You will be initially charged NT$500, but within a few weeks you will receive communication about your refund. 
 
 ## How do I change my address?
 You must change your address online. Go to the [Gold Card Portal](https://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/golden-card).
  Click "I want to apply" and login using the username and password you used when applying for your
  gold card. select "Application" then "Information change of Employment Gold Card". Follow the steps
- including uploading proof of your address such as a copy of your lease. You will be charged 500NT,
+ including uploading proof of your address such as a copy of your lease. You will be charged NT$500,
  however for changes of address you may apply for a full refund of this amount. The refund may require
  several steps and take more than a month. Under the current process, you will receive a phone call
  and be asked for the details of your bank account to return the funds. Your new Gold Card with the 
@@ -71,6 +71,6 @@ These days, most foreign residents of Taiwan use the eGate exclusively to enter 
  bureaucrat in some situations. To solve this, you can visit your local National Immigration
  Agency service center  and ask for a
  [Certificate of Entry/Exit](https://www.immigration.gov.tw/5475/5478/141465/141808/180164/).
- It costs 100NT and takes only a few minutes to produce. You can also
+ It costs NT$100 and takes only a few minutes to produce. You can also
  [apply for one online](https://ncp.immigration.gov.tw/niaweb/entryExitForeignQuery) if
  you have a digital citizen certificate.
