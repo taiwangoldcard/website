@@ -14,15 +14,18 @@ Your Gold Card is a four-in-one document that contains your work permit, residen
 You may simply find a new job. Your Gold Card is not sponsored by your employer and will not be
  affected by a change of job.
 
-## Can I start a business with a Gold Card?
-Yes.
+## Can I setup a company and employ myself?
+Yes. With a Gold Card you are able to setup a Taiwanese limited liability company as a sole foreign investor
+ without any minimum capital requirement, and you can employ yourself in that company since you already have a
+ work permit through the Gold Card. You are also able to setup and employ yourself through a representative office
+ if you just intend to represent a foreign company.
+
+## Can I be self-employed?
+Yes. If you don't work for an employer and don't setup a company in Taiwan you can still be self-employed (either abroad or in Taiwan) while you have a Gold Card.
 
 ## Does the Gold Card provide an open work permit?
 Yes. You may work for any organisation (or many organisations at the same time) in any industry,
  in any job, provided it doesn't have licensing requirements that you don't meet.
-
-## Can I be self-employed?
-Yes.
 
 ## Is there a minimum salary requirement for Gold Card holders?
 Yes. It is one of:
