@@ -8,12 +8,12 @@ skilled professionals. Please choose a menu entry to find out more about how you
  or [the steps to apply](/application-faq/application/).
 
 
-Disclaimers:
-This compilation of information is provided on a **best-effort** basis by Gold Card holders.
-It could be outdated or incorrect.
+### Disclaimers:
 
-Seek qualified advice directly from government authorities, licensed migration agents, lawyers and accountants. 
-We are neither lawyers, migration agents nor have any relationship with the government.
+This compilation of information is provided on a **best-effort** basis by Gold Card holders.
+
+We are neither lawyers, migration agents nor have any relationship with the government. As changes and errors may occur, please seek professional advice from the relevant officials where necessary. taiwangoldcard.com, its contributors, and maintainers cannot be held liable for the accuracy of the information or for ensuring that the information is up to date at all times.
+
 
 If you are in Taiwan, you can head over the [National Immigration Agency](https://www.immigration.gov.tw/5475/5478/141386/127061/127076/)
  if you'd like to talk face to face to an agent. There is also [a list of helpful contact information](/application-faq/application/#who-can-i-talk-to-about-this)
