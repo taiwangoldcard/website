@@ -30,6 +30,12 @@ Content and the underlying site is contributed by a volunteer community that you
  CC-BY-SA-NC license. The license text can be found in
  [our repository](https://github.com/taiwangoldcard/website/blob/master/LICENSE.md).
 
+ We are not affiliated with any government departments and information may be inaccurate and/or outdated. As 
+ changes and errors may occur,
+ please seek professional advice from the relevant officials where necessary. Contains content licensed under
+ the Government Website Open Information Announcement. taiwangoldcard.com, its contributors, and maintainers
+  cannot be held liable for the accuracy of the information or for ensuring that the information is up to date
+  at all times.
 
 {{< /column >}}
 
