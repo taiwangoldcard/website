@@ -11,7 +11,6 @@ skilled professionals. Please choose a menu entry to find out more about how you
 ### Disclaimers:
 
 This compilation of information is provided on a **best-effort** basis by Gold Card holders.
-We are not affiliated with any government departments and information may be inaccurate and/or outdated
 
 We are neither lawyers, migration agents nor have any relationship with the government. As changes and errors may occur, please seek professional advice from the relevant officials where necessary. taiwangoldcard.com, its contributors, and maintainers cannot be held liable for the accuracy of the information or for ensuring that the information is up to date at all times.
 
