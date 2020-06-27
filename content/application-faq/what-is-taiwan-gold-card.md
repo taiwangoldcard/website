@@ -19,6 +19,11 @@ Qualification is based on an asssessment of your professional skills, you don't 
 A perfect application takes 30 days, if your supporting documents are accepted the first time
  around. If you are asked for tweaks to your supporting documents, expect 50-60 days.
 
+> During the pandemic, we have seen 'normal' applications take as long as 80 days. Applicants who
+ elected to pick their card up overseas are severely affected by the pandemic's impact on the postal
+network.
+<!---TODO revise in a few months.-->
+
 ## Do I apply for the Gold Card personally, or should I ask my employer to do that?
 Generally you should apply personally. Employers can help with the process, but you do not need
  their sponsorship or support to apply for the card. Additionally, the card once issued contains

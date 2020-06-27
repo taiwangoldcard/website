@@ -79,7 +79,7 @@ You must first upload a passport photo. Note that this has to be a proper passpo
 Next, you must upload a copy of your passport's bio page. You don't need to upload the whole thing,
  or any of the stamp pages - just the page that shows your profile information.
 
-Finally, based on what regulation you are applying under you will need to upload required documents.
+Finally, based on the regulation you are applying under you will need to upload required documents.
  If you need hints on what to upload, use the [Gold Card Qualification Check](https://visafinder.tw/gold-card-qualification/).
 
 Do not stress about your application being rejected because you didn't attach enough documents.
@@ -100,7 +100,7 @@ Eventually, view the preview and then hit submit!
 
 
 ## Who can I talk to about this?
-The master list of contacts is [found here](https://foreigntalentact.ndc.gov.tw/en/cp.aspx?n=D927ED39BDAE7478&s=DA2F7BC919B77E24).
+If you need help, the master list of contacts is [found here](https://foreigntalentact.ndc.gov.tw/en/cp.aspx?n=D927ED39BDAE7478&s=DA2F7BC919B77E24).
 
-- If something is wrong with the online application portal, eg errors, ambiguous fields: Contact NIA, under the _Ministry of Interior for Employment Gold Card Permits for Foreign Special Professionals_ on the master list
+- If something is wrong with the online application portal, eg errors, ambiguous fields: Contact NIA, under the _Ministry of Interior for Employment Gold Card Permits for Foreign Special Professionals_ on the master list or use the number on the bottom of the application portal
 - If you don't know what documents to apply with, or which regulation to choose, contact the appropriate ministry under _Qualification of Foreign Special Professionals_ on the master list

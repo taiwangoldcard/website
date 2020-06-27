@@ -19,12 +19,8 @@ No. Some industries have a category where applicants with a salary greater than 
 
 ## I currently live in Taiwan, can I apply for the Gold Card?
 Yes. You can apply from anywhere, even within Taiwan.
-
-## I have an ARC, can I apply for the Gold Card?
-Yes, it will replace your ARC.
-
-## I have a tourist visa in Taiwan, can I apply for the Gold Card?
-Yes.
+If you have an ARC, you can still apply, the Gold Card will replace you ARC.
+If you have a tourist visa, the Gold Card will replace your tourist visa.
 
 ## I'm a digital nomad / remote worker, is this card suitable for me? Can I be self-employed?
 Yes, this card is perfect for you, since it contains an open work permit that allows you to work for any
