@@ -1,16 +1,15 @@
 ---
-title: "Qualifications"
+title: "Do I qualify?"
 weight: 2
 ---
 <!--- (c) Tom Fifield, licensed under a
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. -->
 
-## Do I qualify?
 In order to qualify for an Employment Gold Card your skills must be related to one of eight areas:
  Science and Technology, Economics, Education, Culture and Art, Sport, Finance, Law and Architecture.
  You must select which single ministry is most relevant, and in most cases also select a specific entry in
  the list of that qualifications in that particular area for your application.
-Use the [Gold Card Qualification Wizard](https://visafinder.tw/gold-card-qualification/) to find the relevant
+Use the [Gold Card Qualification Check](https://visafinder.tw/gold-card-qualification/) to find the relevant
  choices for you.
 
 ## Do I need to have a high salary to apply for a Gold Card?
@@ -34,7 +33,7 @@ Yes, this card is perfect for you, since it contains an open work permit that al
 
 ## Is there a "general" application category or must I select a specific industry? 
 There is no "general" application category. You must select a single ministry to assess your skills.
-Use the [Gold Card Qualification Wizard](https://visafinder.tw/gold-card-qualification/) to find suggestions.
+Use the [Gold Card Qualification Check](https://visafinder.tw/gold-card-qualification/) to find suggestions.
 
 ## Does my professional services/sole proprietor/dividend income count towards the salary requirement for Gold Card application?
 Generally not, but it depends. The document requirements to prove an Article 1 ("salary")

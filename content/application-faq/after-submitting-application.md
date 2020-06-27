@@ -5,6 +5,13 @@ weight: 4
 <!--- (c) Tom Fifield, licensed under a
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. -->
 
+> ⓘ _Note: you will receive an email at this point telling you to pay. If you didn't get it, check your email address was correct._
+
+You must then go through the payment steps in order for your application to be considered.
+
+> ⓘ _Note: you will receive an email at this point telling you to get your receipt. Follow the steps to download it, and print it out - you will need it to collect your card._
+
+
 ## What happens after you submit your application?
 1. Your qualifications will be assessed.
     1. First, the Ministry of Labor will attempt to sign off on the work permit. If it can do this itself (eg you apply based on the salary criteria and provide the right documents), your application will be swift (one case took just two days).
@@ -90,6 +97,15 @@ You must go to your local Bureau of Consular Affairs (BOCA). If you’re getting
 1. In the middle of the area, around counter 30, grab a ticket (if there is a problem, ask for help at the end counter - counter 28)
 1. Go to the designated counter when your number is up, surrender your passport and online
  application document, provide any details on upcoming travel, and receive your receipt.
+
+
+## Is there anything special I should do if I applied from overseas?
+
+If you live far from your local Taiwanese diplomatic post, it is recommended to call before going
+ to give them a heads up. It’s highly likely that you’re the first person ever to go through this
+ process in a particular office and giving them a day or two head start to let them call back to
+ Taiwan and work out what to do when you arrive could be useful.
+
 
 
 ## What is a "Resident Authorization Letter"?
