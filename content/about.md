@@ -23,13 +23,17 @@ content was written by [Tom Fifield](https://twitter.com/tomfifield). Credit is 
  community there, many people would never have discovered the Gold Card or made it through their
 applications.
 
+ We are not affiliated with any government departments and information may be inaccurate and/or outdated. As 
+ changes and errors may occur, please seek professional advice from the relevant officials where necessary. 
+ Contains content licensed under the Government Website Open Information Announcement. 
+ taiwangoldcard.com, its contributors, and maintainers cannot be held liable for the accuracy of the information 
+ or for ensuring that the information is up to date at all times.
 
 Content and the underlying site is contributed by a volunteer community that you are
  [welcome to join](https://github.com/taiwangoldcard/website). Contributions to code are licensed under
  the Apache 2.0 license, and contributions of content for the FAQ are licensed under the Creative Commons
  CC-BY-SA-NC license. The license text can be found in
  [our repository](https://github.com/taiwangoldcard/website/blob/master/LICENSE.md).
-
 
 {{< /column >}}
 
