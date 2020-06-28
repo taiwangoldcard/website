@@ -14,9 +14,15 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     url = "application-faq/"
 
 [[menu.main]]
+    name = "Gold Card Holders profiles"
+    weight = 2
+    url = "goldcard-profiles"
+
+[[menu.main]]
     name = "Life in Taiwan"
     weight = 2
     url = "goldcard-holders-faq/"
+
 
 [markup]
   [markup.goldmark]
