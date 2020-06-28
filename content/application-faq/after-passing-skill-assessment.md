@@ -49,7 +49,7 @@ been approved - congratulations.
 
 It's time to collect your card (you selected where during your application)
     1. in Taiwan at the National Immigration Agency
-    1. at your nearest Taiwanesediplomatic post
+    1. at your nearest Taiwanese diplomatic post
 
 If you applied from overseas but are collecting your card in Taiwan, you will need to download your
  Resident Authorization Letter from the [portal](https://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/golden-card)
