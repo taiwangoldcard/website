@@ -14,9 +14,11 @@ _You must now go through the payment steps in order for your application to be c
 Log in to the portal at:
 [https://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/golden-card](https://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/golden-card)
 
-click "Online Payment" and select "Permit Payment", then follow the steps.
+click "Online Payment" and select "Permit Payment", then follow the steps. Fees are non-refundable,
+ even if your application is unsuccessful. However, you will get chances to revise your application
+ and provide additional documents if needed.
 
-After completing the payment, you will receive an email at this point telling you to get your receipt.
+After completing the payment, you will receive an email telling you to download your receipt.
  You will need to print this out to collect your card, so do it now.
 
 Still in the [portal](https://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/golden-card),

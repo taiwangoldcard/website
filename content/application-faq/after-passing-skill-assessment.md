@@ -17,6 +17,10 @@ Congratulations on passing the skill assessment. It's now time to deliver your p
 1. If you are overseas, you should visit the nearest Taiwanese diplomatic post
 1. If you are in Taiwan, you must visit the Bureau of Consular Affairs
 
+You will also need to take a copy of the "Passport Submission Notice", which is found in the
+ "Download" menu after logging in to the
+ [portal](https://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/golden-card).
+
 
 ### If I apply in Taiwan, where do I go to prove my identity?
 You must go to your [local Bureau of Consular Affairs (BOCA)](https://www.boca.gov.tw/lp-191-2.html).
