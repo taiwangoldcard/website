@@ -41,8 +41,8 @@ If you live far from your local Taiwanese diplomatic post, it is recommended to 
  process in a particular office and giving them a day or two head start to let them call back to
  Taiwan and work out what to do when you arrive could be useful.
 
-> If your application is stuck on "Under inspection" after you already collected your passport,
-    contact the NIA - your card may already be printed.
+> ⓘ  If your application is stuck on "Under inspection" or "Passport Submission" after you already
+>  collected your passport, contact the NIA - your card may already be printed.
 
 ## Card Collection
 🕑 1-2 weeks

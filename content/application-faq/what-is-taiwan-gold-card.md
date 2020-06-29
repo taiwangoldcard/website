@@ -1,7 +1,6 @@
 ---
 title: "What is the Gold Card?"
 weight: 1
-# Let's make sure we agree on this: https://github.com/taiwangoldcard/website/pull/23
 ---
 
 The Taiwan Employment Gold Card is a combined visa, work permit and residence permit launched in 2018

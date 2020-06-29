@@ -4,7 +4,7 @@ title: "Gold Card Application FAQ"
 weight: 1
 ---
 The Taiwan Employment Gold Card is a combined open work permit, residence permit and visa for
-skilled professionals. Please choose a menu entry to find out more about how you can [qualify](/application-faq/qualifications/)
+skilled professionals. Please choose a menu entry to find out more [about the card](/application-faq/what-is-the-gold-card/), how you can [qualify](/application-faq/qualifications/)
  or [the steps to apply](/application-faq/application/).
 
 
