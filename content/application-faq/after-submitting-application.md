@@ -6,7 +6,7 @@ weight: 4
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. -->
 Congratulations on getting the application in.
 
-At this point you will receive an email at this point telling you to pay.
+At this point you will receive an email telling you to pay.
 If you didn't get it, check your email address was correct.
 
 _You must now go through the payment steps in order for your application to be considered._
