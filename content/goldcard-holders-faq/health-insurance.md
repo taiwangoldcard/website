@@ -17,12 +17,14 @@ Yes. Once your spouse and/or any minor children receive their residence cards, t
  dependants so they can update your enrolment information.
 
 ## I'm a freelancer/I don't have an employer, how do I register with the NHI?
-At present, you must reside in Taiwan for a consecutive six-month period (or leave only once for
- less than 30 days) and apply directly with the NHI. This period starts from when you enter Taiwan.
- There is currently a
- [legislative push](https://www.ndc.gov.tw/en/Content_List.aspx?n=999F9864EFDB5F6F&upn=6CE244D6E7DAF831)
- to improve this, lead by the National Development Council.
+At present, you must reside in Taiwan for a consecutive six-month period (or leave only once for less than 30 days) and apply directly with the NHI.
  
+## When does the six-month waiting period start
+If you applied for the Gold Card from abroad then the period starts when you enter Taiwan.
+ If you applied for the Gold Card in Taiwan (e.g. on a tourist visa or visa-exempt) then the starting period is the "issue date" written on the card.
+ There is currently a [legislative push](https://www.ndc.gov.tw/en/Content_List.aspx?n=999F9864EFDB5F6F&upn=6CE244D6E7DAF831)
+ to improve this, lead by the National Development Council.
+
 ## If I'm employed by a local company, do I still need to wait for the six-month period for a health insurance card?
 You do not.  Once the company registers your employment, you will be issued a health insurance card. 
  
@@ -36,9 +38,6 @@ We know it's not ideal, but here some ways our community has solved this problem
 
 ## Am I allowed to leave the country during the six-month period wait?
 You are only allowed to [leave only once for less than 30 days](https://www.nhi.gov.tw/english/Content_List.aspx?n=C88B41A4EAB5E692&topn=778856C209BCE527).
-The period you were outside Taiwan doesn't count for the six-month period.
-Please not that the six-month period starts from the date you entered Taiwan.
-If you already are in Taiwan when you receive the Gold Card, the starting period is the "issue date" written on the card.
 
 ## Where can I see a list of NHI clinics close to me?
 The NHI mobile app has a map-based search of all NHI facilities.
