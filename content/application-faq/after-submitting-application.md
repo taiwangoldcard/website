@@ -47,7 +47,7 @@ If the status in the portal hasn't updated in a long time first try contacting W
  They will probably tell you that the application is with the relevant ministry for your skill set and provide contact details.
  If not, try to contact the appropriate ministry under _Qualification of Foreign Special Professionals_ on the master list
 
-### Why was my application was rejected with a message about visa type?
+### Why was my application rejected with a message about visa type?
 You probably received an error message that looks like this: "申請人以免籤證入境，申請時身份類別選擇錯誤，不予許可"
  This translates to "You entered Taiwan 'visa-exempt', but when applying you selected the wrong
  visa/identity category, application refused."
