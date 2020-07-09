@@ -27,6 +27,8 @@ You do not. Once the company registers your employment, you will be issued a hea
 For those who don't have a Taiwanese employer:
 - If you applied for the Gold Card from abroad then the period starts when you enter Taiwan.
 - If you applied for the Gold Card in Taiwan (e.g. on a tourist visa or visa-exempt) then the starting period is the "issue date" written on the card.
+If you were in Taiwan on a non-residence visa (eg visa-exempt, tourist) prior to your
+gold card, the time on that visa does not count toward the waiting period.
 
 ## Am I allowed to leave the country during the six-month period wait?
 You are only allowed to [leave once for less than 30 days](https://www.nhi.gov.tw/english/Content_List.aspx?n=C88B41A4EAB5E692&topn=778856C209BCE527). Note that when you are away from Taiwan, the six-month waiting period will be paused. It will resume once you return to Taiwan.
