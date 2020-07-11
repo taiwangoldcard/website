@@ -1,6 +1,7 @@
 ---
 title: "Do I qualify?"
 weight: 2
+description: How to qualify for the Taiwan Gold Card. Which category to apply under.
 ---
 <!--- (c) Tom Fifield, licensed under a
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. -->

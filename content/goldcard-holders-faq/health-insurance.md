@@ -1,6 +1,7 @@
 ---
 title: "Health Insurance"
 weight: 3
+description: Health Insurance information for Taiwan Gold Card Holders and their family.
 ---
 <!--- (c) Tom Fifield, licensed under a
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. -->
