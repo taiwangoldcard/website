@@ -6,8 +6,8 @@ name: Deploy
 
 on:
   push:
-    # branches:
-    #   - master
+    branches:
+      - master
 
 jobs:
   build:
@@ -57,7 +57,7 @@ jobs:
       # -----
       # Push changes using the action github token: https://github.com/ad-m/github-push-action
       # -----
-      # - name: Push Changes
-      #   uses: ad-m/github-push-action@master
-      #   with:
-      #     github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
