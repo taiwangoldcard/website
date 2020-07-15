@@ -49,7 +49,7 @@ Make sure to click "save" at the end of each section and fill each section out w
 You must now select the duration for your card. You could opt for a shorter duration if you have
  concrete plans. Otherwise, it’s probably better to select the longest duration. There is no
  justification needed on how long you'd like to stay. This costs more, but delays the hassle of
- finding the next visa (or going through the gold card application process [/goldcard-holders-faq/validity/](again)).
+ finding the next visa (or going through the gold card application process [again](/goldcard-holders-faq/validity/)).
 
 You'll also be asked for a local address. It’s entirely normal and accepted to apply without one.
  Once you get a place to stay, you can (must) update the details on your card,

@@ -1,14 +1,20 @@
 ---
 title: "Health Insurance"
 weight: 3
+description: Health Insurance information for Taiwan Gold Card Holders and their family.
 ---
 <!--- (c) Tom Fifield, licensed under a
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. -->
 
 ## What health insurance is available in Taiwan?
-All who are eligible for National Health Insurance (NHI) must enrol in the program (your employer
- will do this for you), which provides comprehensive and inexpensive coverage. There are also a
- range of private health insurance options.
+All who are eligible for National Health Insurance (NHI) must enrol into the program, which provides comprehensive and inexpensive coverage. Eligibility varies slightly depending on your employment status. If you aren't eligible for NHI then there are also a range of local and international private health insurance options available.
+
+You can check the [NHI website](https://www.nhi.gov.tw/english/Content_List.aspx?n=C88B41A4EAB5E692&topn=778856C209BCE527) for more details.
+
+## How do I enrol into the program
+If you have an employer in Taiwan then they will enrol you into the program.
+
+If you don't have an employer, and you are past the six month waiting period (see below), you can apply for your NHI card at your local national health administration bureau. The process is the same as for any resident in Taiwan. Please check with your [local office](https://www.nhi.gov.tw/DL.aspx?sitessn=293&u=LzAwMS9VcGxvYWQvMjkzL3JlbGZpbGUvMC8xOTkwMy9uaGlhZGRyZXNzbGlzdC5wZGY%3d&n=TkhJQWRkcmVzc0xpc3QucGRm) on what materials you will need to bring. It usually takes around seven working days.
 
 ## Are my children and family eligible for a health insurance card?
 Yes. Once your spouse and/or any minor children receive their residence cards, they can register

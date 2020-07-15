@@ -354,6 +354,7 @@ function loadActions() {
     link = createEl('a');
     icon = createEl('img');
     icon.src = '{{ absURL "icons/link.svg" }}';
+    icon.alt = 'link icon';
     link.className = 'link icon';
     link.appendChild(icon);
     id = node.getAttribute('id');
