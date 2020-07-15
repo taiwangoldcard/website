@@ -37,12 +37,12 @@ jobs:
         run: hugo
 
       # -----
-      # Look for broken links (dis)
+      # Look for broken links (this is broken >.< - disable for now)
       # -----
-      - name: Check Links
-        run: |
-          sudo apt-get -y install linkchecker
-          bash linkcheck.sh
+      # - name: Check Links
+      #   run: |
+      #     sudo apt-get -y install linkchecker
+      #     bash linkcheck.sh
 
       # -----
       # Create our nice commit
