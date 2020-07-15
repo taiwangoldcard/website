@@ -41,7 +41,7 @@ jobs:
       # -----
       - name: Check Links
         run: |
-          apt-get -y install linkchecker
+          sudo apt-get -y install linkchecker
           bash linkcheck.sh
 
       # -----
