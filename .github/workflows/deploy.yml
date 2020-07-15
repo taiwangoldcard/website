@@ -37,10 +37,12 @@ jobs:
         run: hugo
 
       # -----
-      # Look for broken links
+      # Look for broken links (dis)
       # -----
-      - name: Link Checker
-        uses: peter-evans/link-checker@v1
+      - name: Check Links
+        run: |
+          apt-get -y install linkchecker
+          bash linkcheck.sh
 
       # -----
       # Create our nice commit
