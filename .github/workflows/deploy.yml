@@ -1,0 +1,63 @@
+name: Deploy
+
+# -----
+# This workflow will run whenever changes are pushed to master
+# -----
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    name: Deploy
+    runs-on: ubuntu-latest
+
+    steps:
+
+      # -----
+      # Grab the latest source
+      # -----
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      # -----
+      # Install Hugo: https://github.com/peaceiris/actions-hugo
+      # -----
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+            hugo-version: 'latest'
+
+      # -----
+      # Generate site content
+      # -----
+      - name: Generate Content
+        run: hugo
+
+      # -----
+      # Look for broken links (this is broken >.< - disable for now)
+      # -----
+      # - name: Check Links
+      #   run: |
+      #     sudo apt-get -y install linkchecker
+      #     bash linkcheck.sh
+
+      # -----
+      # Create our nice commit
+      # -----
+      - name: Commit Files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          CURRENTDATE=`date +"%m/%d/%Y %H:%M"`
+          git commit -am "Deploy ${CURRENTDATE} 🚀"
+
+      # -----
+      # Push changes using the action github token: https://github.com/ad-m/github-push-action
+      # -----
+      - name: Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
