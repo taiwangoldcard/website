@@ -9,7 +9,7 @@ Our goal is to:
 
 ## Website architecture
 
-- Use https://gohugo.io with the [compose theme](https://github.com/onweru/compose)
+- Use https://gohugo.io (extended version) with the [compose theme](https://github.com/onweru/compose)
 - Hosted on GitHub
 - We use Cloudflare
 
@@ -21,7 +21,7 @@ Our goal is to:
 brew install hugo # check https://gohugo.io/getting-started/installing/ for alternative method
 git clone https://github.com/taiwangoldcard/goldcard.tw.git
 cd goldcard.tw
-hugo server #this launch a server and serve it at http://localhost:1313/
+hugo server # launch a server and serve it at http://localhost:1313/
 ```
 
 ### Editing the content
@@ -39,6 +39,6 @@ hugo server #this launch a server and serve it at http://localhost:1313/
 
 ### Deploy changes
 
-Merge the Pull request in Github and then in your terminal: 
+Changes pushed/merged to master are deployed automatically. If you need to deploy manually, merge the pull request in GitHub and then in your terminal: 
 
 `git checkout master && sh ./deploy.sh`

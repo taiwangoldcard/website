@@ -39,7 +39,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   author = "Taiwan Gold Card Community"
   enableSearch = true
   searchPlaceholder = "Search..."
-  repo = "https://github.com/onweru/compose"
+  repo = "https://github.com/taiwangoldcard/website"
 
   description = "We are a strong community of professionals with Taiwan Gold Card visa. We happily help newcomers and support each other within the Gold Card community"
   title = "Taiwan Gold Card | Taiwan Foreign Talent Community"
