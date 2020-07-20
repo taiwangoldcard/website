@@ -1,5 +1,5 @@
-{{- $sectioName := .Get 0 -}}
+{{- $sectionName := .Get 0 -}}
 
-<section class="section {{- with $sectioName }} {{ . }}{{ end }}">
+<section class="section {{- with $sectionName }} {{ . }}{{ end }}">
   {{- .Inner | markdownify -}}
 </section>
