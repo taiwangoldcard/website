@@ -13,7 +13,9 @@ skilled professionals. Please choose a menu entry to find out more [about the ca
 
 This compilation of information is provided on a **best-effort** basis by Gold Card holders.
 
-We are neither lawyers, migration agents nor have any relationship with the government. As changes and errors may occur, please seek professional advice from the relevant officials where necessary. taiwangoldcard.com, its contributors, and maintainers cannot be held liable for the accuracy of the information or for ensuring that the information is up to date at all times.
+We are neither lawyers, migration agents nor have any relationship with the government.
+As changes and errors may occur, please seek professional advice from the relevant officials where necessary.
+[Terms](/terms).
 
 
 If you are in Taiwan, you can head over the [National Immigration Agency](https://www.immigration.gov.tw/5475/5478/141386/127061/127076/)

@@ -5,7 +5,7 @@ weight: 6
 <!--- (c) Tom Fifield, licensed under a
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. -->
 
-> Note: Everyone has a different situation. Please consult an accountant before relying on content from this section.
+> Note: Everyone has a different situation. Please consult an accountant before relying on content from this section. [Terms](/terms).
 
 ## How do I apply for the tax relief for Foreign Special Professionals?
 As a Gold Card holder working in Taiwan for the first time, for the portion of your salary over
