@@ -18,7 +18,8 @@ function filterNewsList(selectorName, limitContent) {
     $(selectorName).html(function() {
         let li = $(this).find("li");
         $(li).each(function(index, value){
-            if (index < limitContent) filteredNewsList.push(value);
+            if (index >= limitContent) return false;
+            filteredNewsList.push(value);
         })
     });
 
