@@ -67,7 +67,7 @@ NHI premiums are based on your employment status and are calculated as a percent
 (Salary Basis) x (Insurance Premium Rate %) x (Contribution Ratio %)
 ```
 
-**Salary Basis** - Roughly equivalent to your monthly income. Look up your salary basis bracket on the NHI website based on your monthly income.
+**Salary Basis** - Roughly equivalent to your monthly income. Look up your salary basis bracket on the NHI website based on your monthly income. Note that there is a maximum cap at a monthly salary of 175,601.
 
 **Insurance Premium Rate %** - 4.69% since January 1, 2016
 
