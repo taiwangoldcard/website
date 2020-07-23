@@ -61,9 +61,27 @@ The NHI mobile app has a map-based search of all NHI facilities.
 You can download it from the [Google Play store](https://play.google.com/store/apps/details?id=com.nhiApp.v1) and the [Apple App Store](https://apps.apple.com/tw/app/%E5%85%A8%E6%B0%91%E5%81%A5%E4%BF%9D%E8%A1%8C%E5%8B%95%E5%BF%AB%E6%98%93%E9%80%9A-%E5%81%A5%E5%BA%B7%E5%AD%98%E6%91%BA/id578186283)
 
 ## How are NHI premiums managed?
-NHI premiums will be withheld from your salary payment. Standard premiums for professional employees
- are typically 1.41% of your salary, multiplied by the number of family members enrolled as your
- dependants. Some types of income attract a higher rate of 1.91% (eg bonuses and investment income).
-There are income tax deductions available for NHI premium payments.
-Official information and description of the many 'special' cases can be found on:
- [the NHI website](https://www.nhi.gov.tw/english/Content_List.aspx?n=B9C9C690524F2543&topn=46FA76EB55BC2CB8).
+NHI premiums are based on your employment status and are calculated as a percentage of your monthly income (similar to a payroll tax in other countries).
+
+```
+(Salary Basis) x (Insurance Premium Rate %) x (Contribution Ratio %)
+```
+
+**Salary Basis** - Roughly equivalent to your monthly income. Look up your salary basis bracket on the NHI website based on your monthly income.
+
+**Insurance Premium Rate %** - 4.69% since January 1, 2016
+
+**Contribution Ratio %** - Depends on your employment status. If you are employed by a normal company in Taiwan then your employee contribution ratio is 30%. If you are self-employed or receive income from a foreign company then your contribution ratio is 100%.
+
+In summary, for most people this works out to roughly:
+
+- 1.41% of your monthly income with a Taiwanese employer
+- 4.69% of your monthly income for self-employed / foreign income
+
+Notes:
+* If you have an employer in Taiwan, then they will withhold your NHI premium from your salary payment.
+* If you have dependants, then your premium will increase based on the number of dependants. 
+* Some types of income attract a higher rate (e.g. bonuses and investment income). 
+* There are income tax deductions available for NHI premium payments.
+
+To calculate your exact NHI premium, refer to the official information (and description of the many 'special' cases) which can be found on [the NHI website](https://www.nhi.gov.tw/english/Content_List.aspx?n=B9C9C690524F2543&topn=46FA76EB55BC2CB8).
