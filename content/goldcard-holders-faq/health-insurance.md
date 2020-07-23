@@ -7,7 +7,7 @@ description: Health Insurance information for Taiwan Gold Card Holders and their
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. -->
 
 ## What health insurance is available in Taiwan?
-All who are eligible for National Health Insurance (NHI) must enrol into the program, which provides comprehensive and inexpensive coverage. Eligibility varies slightly depending on your employment status. If you aren't eligible for NHI then there are also a range of local and international private health insurance options available.
+All who are eligible for National Health Insurance (NHI) **must enrol** into the program, which provides comprehensive and inexpensive coverage. Eligibility varies slightly depending on your employment status. If you aren't eligible for NHI then there are also a range of local and international private health insurance options available.
 
 You can check the [NHI website](https://www.nhi.gov.tw/english/Content_List.aspx?n=C88B41A4EAB5E692&topn=778856C209BCE527) for more details.
 
@@ -44,13 +44,17 @@ We know it's not ideal, but here some ways our community has solved this problem
 - Find an employer, that will enroll you right after the start of the contract
 - Get private health insurance. Other gold card holders might have some recommendations. [You can ask the community](https://forms.gle/K88uVy2jMW61DpT2A) and mention your nationality.
 
-## Is the NHI mandatory?
-You MUST enroll when you are eligible. The National Health Insurance program is [compulsory](http://www.nhi.gov.tw/Resource/webdata/26143_1_1050203The%20legal%20foreign%20residents%20must%20enroll%20in%20the%20NHI%20Program.pdf)
+## Is NHI mandatory?
+You **must** enrol when you are eligible. The National Health Insurance program is [compulsory](http://www.nhi.gov.tw/Resource/webdata/26143_1_1050203The%20legal%20foreign%20residents%20must%20enroll%20in%20the%20NHI%20Program.pdf).
 
 > The National Health Insurance program is a compulsory social insurance
 > program. By law, [...] foreign national living in Taiwan with an Alien Resident
 > Certificate (ARC - Gold Card included), regardless of age, gender, or employment status, must
 > enroll in the program when they met the enrollment qualifications.
+
+If you plan to leave Taiwan for more than six months you can either maintain or suspend your NHI. Refer to the NHI website for more information.
+
+[What to Do If Going Abroad for More than Six Months](https://www.nhi.gov.tw/english/Content_List.aspx?n=1E7F01DB3BBD5079&topn=778856C209BCE527)
 
 ## Where can I see a list of NHI clinics close to me?
 The NHI mobile app has a map-based search of all NHI facilities.
