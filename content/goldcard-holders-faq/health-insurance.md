@@ -45,7 +45,7 @@ We know it's not ideal, but here some ways our community has solved this problem
 - Get private health insurance. Other gold card holders might have some recommendations. [You can ask the community](https://forms.gle/K88uVy2jMW61DpT2A) and mention your nationality.
 
 ## Is the NHI mandatory?
-You MUST enroll when you are elgible. The National Health Insurance program is [compulsory]((http://www.nhi.gov.tw/Resource/webdata/26143_1_1050203The%20legal%20foreign%20residents%20must%20enroll%20in%20the%20NHI%20Program.pdf))
+You MUST enroll when you are elgible. The National Health Insurance program is [compulsory](http://www.nhi.gov.tw/Resource/webdata/26143_1_1050203The%20legal%20foreign%20residents%20must%20enroll%20in%20the%20NHI%20Program.pdf)
 
 > The National Health Insurance program is a compulsory social insurance
 > program. By law, [...] foreign national living in Taiwan with an Alien Resident
