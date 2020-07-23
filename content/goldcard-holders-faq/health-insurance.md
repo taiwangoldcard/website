@@ -44,6 +44,14 @@ We know it's not ideal, but here some ways our community has solved this problem
 - Find an employer, that will enroll you right after the start of the contract
 - Get private health insurance. Other gold card holders might have some recommendations. [You can ask the community](https://forms.gle/K88uVy2jMW61DpT2A) and mention your nationality.
 
+## Is the NHI mandatory?
+You MUST enroll when you are elgible. The National Health Insurance program is [compulsory]((http://www.nhi.gov.tw/Resource/webdata/26143_1_1050203The%20legal%20foreign%20residents%20must%20enroll%20in%20the%20NHI%20Program.pdf))
+
+> The National Health Insurance program is a compulsory social insurance
+> program. By law, [...] foreign national living in Taiwan with an Alien Resident
+> Certificate (ARC - Gold Card included), regardless of age, gender, or employment status, must
+> enroll in the program when they met the enrollment qualifications.
+
 ## Where can I see a list of NHI clinics close to me?
 The NHI mobile app has a map-based search of all NHI facilities.
 You can download it from the [Google Play store](https://play.google.com/store/apps/details?id=com.nhiApp.v1) and the [Apple App Store](https://apps.apple.com/tw/app/%E5%85%A8%E6%B0%91%E5%81%A5%E4%BF%9D%E8%A1%8C%E5%8B%95%E5%BF%AB%E6%98%93%E9%80%9A-%E5%81%A5%E5%BA%B7%E5%AD%98%E6%91%BA/id578186283)
