@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: directory
   path: content
-  label: Pages
+  label: TaiwanGoldCard.com
   create: all
   match: "*"
 - type: directory
