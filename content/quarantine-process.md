@@ -3,39 +3,22 @@ draft = true
 title = "Quarantine Process"
 
 +++
-{{< block "grid-2 mt-2 homepage-div" >}}
-{{< column >}}
+  
+**Current News about the 14-Day Quarantine Period  
+updated August 3, 2020**
 
-Since February 2018, when the Gold Card was launched, card holders have been helping people apply
-and integrate into life in Taiwan. We think that Taiwan is an amazing place to live and work, and
-encourage you to apply for the Gold Card if you're eligible. An open work permit, tax benefits,
-ability to bring your family - all applied for online and approved based on your existing skills,
-no need to already have a job or a company to sponsor you.
+All visitors, including ROC passport holders, must undergo a mandatory 14-day quarantine period. Taiwan is _very_ strict about the rules:
 
-This website is a compilation of answers to actual questions asked by Gold Card holders as they
-went through the process. We welcome your questions and
- [contributions](https://github.com/taiwangoldcard/website)!
+* For example, if you stay in certain facilities, you will not even be given a key to your room.
+* You will also need to purchase a SIM card (or provide one if you already have it) to authorities, who will use it to check up on your location regularly. They will check!
+* You will need a room that can provide for at least one bathroom per adult.
 
-This site was designed by Gold card holders for Gold card holders, inspired by and brainstormed
-with the unofficial Gold Card holder LINE group. The original site design
-and technical implementation was created by [Eric Khun](https://twitter.com/eric_khun) and the original
-content was written by [Tom Fifield](https://twitter.com/tomfifield). Credit is also due to
- [Forumosa](https://tw.forumosa.com/t/employment-gold-card-for-some-foreigners). Without the
- community there, many people would never have discovered the Gold Card or made it through their
-applications.
+There is a list of government-specified hotels that can accommodate those in quarantine. These facilities will provide meal service.
 
+Some private facilities may house you, but you will need to check with them first. Many hotels may refuse to house you during the quarantine period.
 
-Content and the underlying site is contributed by a volunteer community that you are
- [welcome to join](https://github.com/taiwangoldcard/website). Contributions to code are licensed under
- the Apache 2.0 license, and contributions of content for the FAQ are licensed under the Creative Commons
- CC-BY-SA-NC license. The license text can be found in
- [our repository](https://github.com/taiwangoldcard/website/blob/master/LICENSE.md).
+Some recent inbound travelers have booked AirBnB houses or cabins out in the middle of nowhere. I think in such a case, as long as it has a private area, you and the kids can spend time outdoors (unlike at a hotel).
 
+For ROC passport (with 身分證) holders, you may be eligible for a NT1,000/day stipend from the Taiwan government covering the cost of accommodations for the Quarantine period to compensate you for being locked up. There may also be additional local benefits available.
 
-{{< /column >}}
-
-{{< column >}}
-![Taiwan](/images/taiwan-unsplash.jpeg)
-
-{{< /column >}}
-{{< /block >}}
+For official information, please check the CDC website here: INSERT LINK
