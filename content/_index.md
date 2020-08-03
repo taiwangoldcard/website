@@ -32,7 +32,7 @@ title = "Taiwan Gold Card"
 
 ## Gold Card News
 
-* <time datetime="2020-08-03">2020-08-03</time> {{"quarantine-update/" "Latest Quarantine Process" >}}
+* <time datetime="2020-08-03">2020-08-03</time> [About the Quarantine Process](quarantine-process "About Quarantine")
 * <time datetime="2020-06-12">2020-06-12</time> [President Tsai Promotes Gold Card](https://english.president.gov.tw/News/6008)
 * <time datetime="2020-06-05">2020-06-05</time> [Goldcard holder: Tomáš řízek illustration exhibition](https://99dac.com/exhibition-detail.php?id=140)
 * <time datetime="2020-06-05">2020-05-27</time> [Goldcard holder: Starting an eye yoga career](https://meet.bnext.com.tw/intl/articles/view/46488)
