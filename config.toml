@@ -44,6 +44,10 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   description = "We are a strong community of professionals with Taiwan Gold Card visa. We happily help newcomers and support each other within the Gold Card community"
   title = "Taiwan Gold Card | Taiwan Foreign Talent Community"
 
+  # Integrate Javascript files by adding the url to the external assets or by
+  # linking local files with their path relative to the static folder, e.g. "js/myscript.js"
+  customJS  = ["js/news_display.js"]
+
   time_format_blog = "Monday, January 02, 2006"
   time_format_default = "January 2, 2006"
   [params.logo]
