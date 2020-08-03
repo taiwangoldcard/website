@@ -8,3 +8,5 @@ fields:
 - type: number
   name: weight
   label: weight
+pages:
+- content/jliao fan club/jliao-fan-club.md
