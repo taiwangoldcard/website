@@ -1,56 +1,43 @@
 baseURL = "https://taiwangoldcard.com/"
-title = "Taiwan Gold Card - Taiwan Foreign Talent Community"
-enableRobotsTXT = true
-theme = "compose"
-enableGitInfo = true
-publishDir = "docs"
-
 disableKinds = ["taxonomy", "taxonomyTerm"]
-
-#  menu items
+enableGitInfo = true
+enableRobotsTXT = true
+publishDir = "docs"
+theme = "compose"
+title = "Taiwan Gold Card - Taiwan Foreign Talent Community"
+[markup.goldmark.renderer]
+unsafe = true
+[markup.highlight]
+codeFences = true
+guessSyntax = false
+hl_Lines = ""
+lineNoStart = 1
+lineNos = true
+lineNumbersInTable = true
+noClasses = false
+style = "monokai"
+tabWidth = 2
 [[menu.main]]
-    name = "Application Process"
-    weight = 1
-    url = "application-faq/"
-
+name = "Life in Taiwan"
+url = "goldcard-holders-faq/"
+weight = 2
 [[menu.main]]
-    name = "Life in Taiwan"
-    weight = 2
-    url = "goldcard-holders-faq/"
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-  [markup.highlight]
-    codeFences = true
-    guessSyntax = false
-    hl_Lines = ""
-    lineNoStart = 1
-    lineNos = true
-    lineNumbersInTable = true
-    noClasses = false
-    style = "monokai"
-    tabWidth = 2
-
-# Everything below this are Site Params
-
+name = "Application Process"
+url = "application-faq/"
+weight = 1
 [params]
-  author = "Taiwan Gold Card Community"
-  enableSearch = true
-  searchPlaceholder = "Search..."
-  repo = "https://github.com/onweru/compose"
-
-  description = "We are a strong community of professionals with Taiwan Gold Card visa. We happily help newcomers and support each other within the Gold Card community"
-  title = "Taiwan Gold Card | Taiwan Foreign Talent Community"
-
-  time_format_blog = "Monday, January 02, 2006"
-  time_format_default = "January 2, 2006"
-  [params.logo]
-    lightMode = "gc.svg"
-    darkMode = "gc-light.svg"
-
-  [params.source]
-    name = "Apply"
-    icon = "github.svg"
-    url = "https://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/golden-card"
+author = "Taiwan Gold Card Community"
+description = "We are a strong community of professionals with Taiwan Gold Card visa. We happily help newcomers and support each other within the Gold Card community"
+enableSearch = true
+repo = "https://github.com/onweru/compose"
+searchPlaceholder = "Search..."
+time_format_blog = "Monday, January 02, 2006"
+time_format_default = "January 2, 2006"
+title = "Taiwan Gold Card | Taiwan Foreign Talent Community"
+[params.logo]
+darkMode = "gc-light.svg"
+lightMode = "gc.svg"
+[params.source]
+icon = "github.svg"
+name = "Apply"
+url = "https://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/golden-card"
