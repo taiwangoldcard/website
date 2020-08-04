@@ -33,11 +33,8 @@ You must log in to the Gold Card Application portal and update your details ther
 You must change your address online. Go to the [Gold Card Portal](https://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/golden-card).
  Click "I want to apply" and login using the username and password you used when applying for your
  gold card. select "Application" then "Information change of Employment Gold Card". Follow the steps
- including uploading proof of your address such as a copy of your lease. You will be charged NT$500,
- however for changes of address you may apply for a full refund of this amount. The refund may require
- several steps and take more than a month. Under the current process, you will receive a phone call
- and be asked for the details of your bank account to return the funds. Your new Gold Card with the 
-latest address will be available for collection within approximately two weeks.
+ including uploading proof of your address (such as a copy of your lease) and pick up location. The "Information Change" will be processed and they will get back to you per email if things are missing. Your new Gold Card with the 
+latest address will be available for collection within approximately two weeks. Don't forget to bring your passport, current goldcard and electronic payment receipt.
 
 ## What if I don't update my address?
 Legally, you are [required to update your address within 30 days starting from the date you move in](https://law.moj.gov.tw/ENG/LawClass/LawSearchContent.aspx?pcode=D0080204&norge=10). Otherwise here is a non-exhaustive list of potential consequences: 
