@@ -5,6 +5,19 @@ weight: 4
 <!--- (c) Tom Fifield, licensed under a
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. -->
 
+## How do I find a place to rent?
+Renting is common in Taiwan, and there are a large range of types of dwellings available
+ at diffrerent price points. The most popular property search website is [591](https://www.591.com.tw).
+ Unlike in some other countries, real estate agents offering rental properties in Taiwan are typically
+ only brokers who present prospective tenants to landlords for a fee and you will normally deal directly
+ with a landlord from lease signing onward. Standard leases are available from most convenience
+ stores and it is common to use these. A one or two month deposit, refunded on leaving the property
+ is common. Negotiation down from the advertised price is common. Properties close to MRT stations
+ are the most desirable.
+
+If you are looking for newer, tall modern apartment buildings, these are known as "電梯大樓" and you
+ can limit your search on 591 to this. Other search sites include [myroomabroad](https://myroomabroad.com)
+ and [spacious](https://www.spacious.tw/zh-tw/c/%E5%8F%B0%E5%8C%97).
 
 ## Can I purchase real-estate?
 In general, yes, if your country allows Taiwanese nationals to purchase real estate in your
