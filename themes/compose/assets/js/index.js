@@ -318,7 +318,7 @@ function loadActions() {
           target = 'target';
           rel = 'rel';
           blank = '_blank';
-          noopener = 'noopener';
+          noopener = 'noopener nofollow';
           attr1 = elemAttribute(link, target);
           attr2 = elemAttribute(link, noopener);
 
