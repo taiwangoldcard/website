@@ -5,7 +5,7 @@ $(document).ready(function() {
     var filteredNewsList = filterNewsList(selectorName, limitContent);
     var ulId = "lastestNewsList";
     displayNewsList(selectorName, filteredNewsList, ulId, function() {
-        $("#" + ulId).append('<li><a href="news" target="_blank" rel="noopener">Read More</a></li>');
+        $("#" + ulId).append('<li><a href="news">Read More</a></li>');
     });
 })
 
