@@ -9,4 +9,5 @@ fields:
   name: weight
   label: weight
 pages:
+- content/Lydia TEST/lydia-test.md
 - content/jliao fan club/_index_.md
