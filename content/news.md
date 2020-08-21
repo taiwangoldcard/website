@@ -1,4 +1,5 @@
 ## Gold Card News
+- <time datetime="2020-08-28">2020-08-28</time> [Goldcard holder: Chelsea Davis film festival](https://www.facebook.com/events/664439801090477/)
 - <time datetime="2020-08-14">2020-08-14</time> [Community Gathering](https://photos.app.goo.gl/Li6j3vvBJHTFs1nJ9)
 - <time datetime="2020-08-01">2020-08-01</time> [Goldcard holder: Alvaro Trugeda art exhibition](https://www.bauyu.com/)
 - <time datetime="2020-07-02">2020-07-02</time> [Community Gathering](https://photos.app.goo.gl/ZRfWhHkVfCTPKCgy8)
