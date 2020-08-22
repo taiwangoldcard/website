@@ -18,10 +18,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     weight = 2
     url = "application-faq/"
 
-[[menu.main]]
-    name = "Community"
-    weight = 2
-    url = "community"
 
 [[menu.main]]
     name = "Life in Taiwan"
