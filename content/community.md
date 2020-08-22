@@ -6,7 +6,7 @@ title = "🚨 This page isn't public and under construction - Please Do not shar
 
 {{< column >}}
 
-### Hasnaa, Art
+### Hasnaa, Culture and Arts
 <img style="float:left; padding: 10px" width="200px" height="200px" src="/images/goldies/hasnaa.png" />
 
 **Backround**: Moroccan with degrees in Science from France (Msc) and Germany (PhD), I was naturalized Canadian in late 2018.
@@ -42,7 +42,23 @@ I am a co-author on the [JAMA paper](https://jamanetwork.com/journals/jama/fulla
 
 
 {{< block "grid-2 mt-2 homepage-div" >}}
+{{< column >}}
 
+### Tom Fifield, Science and Technology
+<img style="float:left; padding: 10px" width="200px" height="200px" src="/images/goldies/tom.png" />
+
+
+**Backround**: I am an expert in distributed systems (got my start in famous particle physics experiments) and used to manage one of the largest Open Source user communities in the world.
+
+**Why Taiwan?**: In a previous job, Taipei was the Asia-Pacific regional center. I was coming here a lot for conferences, built up a friendship network, got to know the daily life and had a strong feeling that I could live here. When I got a job where I could choose to live anywhere in the world, I moved and haven't looked back!
+
+
+**What are you currently doing in Taiwan?** I run a small management and IT consulting company with clients in a variety of industries around the world.
+
+I was recently approved for Taiwanese citizenship!
+
+
+{{< /column >}}
 
 {{< column >}}
 
@@ -62,23 +78,7 @@ Within my 3 years of having the Gold Card visa, I want to establish an energy te
 
 {{< /column >}}
 
-{{< column >}}
 
-### Tom Fifield, Science and Technology
-<img style="float:left; padding: 10px" width="200px" height="200px" src="/images/goldies/tom.png" />
-
-
-**Backround**: I am an expert in distributed systems (got my start in famous particle physics experiments) and used to manage one of the largest Open Source user communities in the world.
-
-**Why Taiwan?**: In a previous job, Taipei was the Asia-Pacific regional center. I was coming here a lot for conferences, built up a friendship network, got to know the daily life and had a strong feeling that I could live here. When I got a job where I could choose to live anywhere in the world, I moved and haven't looked back!
-
-
-**What are you currently doing in Taiwan?** I run a small management and IT consulting company with clients in a variety of industries around the world.
-
-I was recently approved for Taiwanese citizenship!
-
-
-{{< /column >}}
 
 
 {{< /block >}}
