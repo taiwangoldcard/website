@@ -7,7 +7,7 @@ description: Health Insurance information for Taiwan Gold Card Holders and their
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. -->
 
 ## What health insurance is available in Taiwan?
-All who are eligible for National Health Insurance (NHI) must enrol into the program, which provides comprehensive and inexpensive coverage. Eligibility varies slightly depending on your employment status. If you aren't eligible for NHI then there are also a range of local and international private health insurance options available.
+All who are eligible for National Health Insurance (NHI) **must enrol** into the program, which provides comprehensive and inexpensive coverage. Eligibility varies slightly depending on your employment status. If you aren't eligible for NHI then there are also a range of local and international private health insurance options available.
 
 You can check the [NHI website](https://www.nhi.gov.tw/english/Content_List.aspx?n=C88B41A4EAB5E692&topn=778856C209BCE527) for more details.
 
@@ -44,14 +44,44 @@ We know it's not ideal, but here some ways our community has solved this problem
 - Find an employer, that will enroll you right after the start of the contract
 - Get private health insurance. Other gold card holders might have some recommendations. [You can ask the community](https://forms.gle/K88uVy2jMW61DpT2A) and mention your nationality.
 
+## Is NHI mandatory?
+You **must** enrol when you are eligible. The National Health Insurance program is [compulsory](http://www.nhi.gov.tw/Resource/webdata/26143_1_1050203The%20legal%20foreign%20residents%20must%20enroll%20in%20the%20NHI%20Program.pdf).
+
+> The National Health Insurance program is a compulsory social insurance
+> program. By law, [...] foreign national living in Taiwan with an Alien Resident
+> Certificate (ARC - Gold Card included), regardless of age, gender, or employment status, must
+> enroll in the program when they met the enrollment qualifications.
+
+If you plan to leave Taiwan for more than six months you can either maintain or suspend your NHI. Refer to the NHI website for more information.
+
+[What to Do If Going Abroad for More than Six Months](https://www.nhi.gov.tw/english/Content_List.aspx?n=1E7F01DB3BBD5079&topn=778856C209BCE527)
+
 ## Where can I see a list of NHI clinics close to me?
 The NHI mobile app has a map-based search of all NHI facilities.
 You can download it from the [Google Play store](https://play.google.com/store/apps/details?id=com.nhiApp.v1) and the [Apple App Store](https://apps.apple.com/tw/app/%E5%85%A8%E6%B0%91%E5%81%A5%E4%BF%9D%E8%A1%8C%E5%8B%95%E5%BF%AB%E6%98%93%E9%80%9A-%E5%81%A5%E5%BA%B7%E5%AD%98%E6%91%BA/id578186283)
 
 ## How are NHI premiums managed?
-NHI premiums will be withheld from your salary payment. Standard premiums for professional employees
- are typically 1.41% of your salary, multiplied by the number of family members enrolled as your
- dependants. Some types of income attract a higher rate of 1.91% (eg bonuses and investment income).
-There are income tax deductions available for NHI premium payments.
-Official information and description of the many 'special' cases can be found on:
- [the NHI website](https://www.nhi.gov.tw/english/Content_List.aspx?n=B9C9C690524F2543&topn=46FA76EB55BC2CB8).
+NHI premiums are based on your employment status and are calculated as a percentage of your monthly income (similar to a payroll tax in other countries).
+
+```
+(Salary Basis) x (Insurance Premium Rate %) x (Contribution Ratio %)
+```
+
+**Salary Basis** - Roughly equivalent to your monthly income. Look up your salary basis bracket on the NHI website based on your monthly income. Note that there is a maximum cap at a monthly salary of 175,601.
+
+**Insurance Premium Rate %** - 4.69% since January 1, 2016
+
+**Contribution Ratio %** - Depends on your employment status. If you are employed by a normal company in Taiwan then your employee contribution ratio is 30%. If you are self-employed or receive income from a foreign company then your contribution ratio is 100%.
+
+In summary, for most people this works out to roughly:
+
+- 1.41% of your monthly income with a Taiwanese employer
+- 4.69% of your monthly income for self-employed / foreign income
+
+Notes:
+* If you have an employer in Taiwan, then they will withhold your NHI premium from your salary payment.
+* If you have dependants, then your premium will increase based on the number of dependants. 
+* Some types of income attract a higher rate (e.g. bonuses and investment income). 
+* There are income tax deductions available for NHI premium payments.
+
+To calculate your exact NHI premium, refer to the official information (and description of the many 'special' cases) which can be found on [the NHI website](https://www.nhi.gov.tw/english/Content_List.aspx?n=B9C9C690524F2543&topn=46FA76EB55BC2CB8).
