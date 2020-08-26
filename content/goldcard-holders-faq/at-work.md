@@ -61,3 +61,38 @@ Which withholding rate you are charged is not a large issue, as it directly cont
  income tax payment. If you've been charged too much, you will receive a refund from the
  government once you file your income tax. However, it is always worth talking with your
  employer to explain your circumstances and that you plan to reside in Taiwan long-term.
+
+## Can I just not work at all?
+Here’s what we know:
+
+* A gold card holder needs to do gold-card-like things during the term of their first card in order to qualify for a second card. (Source: NIA Gold Card Information Meeting, 2018)
+* If qualifying under one of the the ‘salary’ criteria, the MoL will review your financial data (basically, your yearly tax return). If you do not pass the review, your work permit can be cancelled. (Source: Application Portal)
+
+It is rumoured that the primary usage of this cancelation clause will be to weed out people who
+ have applied under false pretences. The warning’s prominent appearance during the application process
+ sends a clear message.
+
+However, recall that gold card holders may enter Taiwan without having a job at all. It’s entirely
+ reasonable that a new immigrant would take some time to establish their network and find employment.
+ Six-month job seeking visas are available, so that’s a tacit acknowledgement by the government
+ that it does take some time.
+
+The [rules of administrative procedure](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=A0030055)
+ in Taiwan require ‘fairness’ in their execution. Would it be ‘fair’ to cancel the work permit of a
+ highly qualified individual who has taken six months to find a job, when others meeting lesser
+ qualifications are given that time? Certainly not.
+
+What about taking a break? Here, the length and circumstances of the break should probably be taken
+ into account. Between jobs, or just feeling burned out and need a few months? Surely OK. However,
+ if someone’s primary stated intention of gaining residence in Taiwan was employment (gold card),
+ and they did not gain employment for, say, more than two years, does that stated intention still
+ hold up? Maybe not. Or maybe the relevant authorities will consider losing the ability to qualify
+for a second gold card sufficient motivation.
+
+Keep in mind: there is some precedent for your visa going away if the underlying purpose for your
+ residence in Taiwan no longer applies. Students who don’t turn up to class have sometimes found
+ this out the hard way.
+
+If you are in a situation where you think your circumstances might put you in jeopardy, the gold
+ [card contacts list](https://foreigntalentact.ndc.gov.tw/en/cp.aspx?n=D927ED39BDAE7478&s=DA2F7BC919B77E24)
+ has a range of helpful people.
