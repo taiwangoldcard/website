@@ -476,5 +476,9 @@ $(function() {
 
 });
 
+function revealSideBar() {
+  $("aside.aside.hidden").removeClass("hidden");
+}
 
+window.addEventListener("DOMContentLoaded", revealSideBar);
 window.addEventListener('load', loadActions());
