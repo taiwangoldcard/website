@@ -39,5 +39,6 @@ hugo server # launch a server and serve it at http://localhost:1313/
 
 ### Deploy changes
 
-When you push to master (or merge a Pull Request), a [github action workflow](https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions) will be automatically call to deploy your changes. 
-The configuration happens in `.github/workflows/deploy.yml`
+When you push to master (or merge a Pull Request), a [github action workflow](https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions) will be automatically called, and deploy your changes to the website. 
+
+You can see how it works in `.github/workflows/deploy.yml`
