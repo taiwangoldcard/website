@@ -39,6 +39,6 @@ hugo server # launch a server and serve it at http://localhost:1313/
 
 ### Deploy changes
 
-Changes pushed/merged to master are deployed automatically. If you need to deploy manually, merge the pull request in GitHub and then in your terminal: 
+When you push to master (or merge a Pull Request), a [github action workflow](https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions) will be automatically called, and deploy your changes to the website. 
 
-`git checkout master && sh ./deploy.sh`
+You can see how it works in `.github/workflows/deploy.yml`
