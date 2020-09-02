@@ -65,10 +65,10 @@ Which withholding rate you are charged is not a large issue, as it directly cont
 ## Can I just not work at all?
 Here’s what we know:
 
-* A gold card holder needs to do gold-card-like things during the term of their first card in order to qualify for a second card. (Source: NIA Gold Card Information Meeting, 2018)
+* A gold card holder needs to do the things expected of talented professionals (i.e. work) during the term of their first card in order to qualify for a second card. (Source: NIA Gold Card Information Meeting, 2018)
 * If qualifying under one of the the ‘salary’ criteria, the MoL will review your financial data (basically, your yearly tax return). If you do not pass the review, your work permit can be cancelled. (Source: Application Portal)
 
-It is rumoured that the primary usage of this cancelation clause will be to weed out people who
+It is rumoured that the primary usage of this cancellation clause will be to weed out people who
  have applied under false pretences. The warning’s prominent appearance during the application process
  sends a clear message.
 
@@ -93,6 +93,6 @@ Keep in mind: there is some precedent for your visa going away if the underlying
  residence in Taiwan no longer applies. Students who don’t turn up to class have sometimes found
  this out the hard way.
 
-If you are in a situation where you think your circumstances might put you in jeopardy, the gold
- [card contacts list](https://foreigntalentact.ndc.gov.tw/en/cp.aspx?n=D927ED39BDAE7478&s=DA2F7BC919B77E24)
+If you are in a situation where you think your circumstances might put you in jeopardy, the [gold
+card contacts list](https://foreigntalentact.ndc.gov.tw/en/cp.aspx?n=D927ED39BDAE7478&s=DA2F7BC919B77E24)
  has a range of helpful people.
