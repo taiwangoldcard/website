@@ -42,7 +42,7 @@ that was introduced around the same time. You can get it if:
 and you have proof of:
 
 * NT$100,000 in your bank account
-* health insurance to cover your trip
-*  good conduct (eg a police report)
+* Health insurance to cover your trip
+* Good conduct (eg a police report)
 
 There’s a [brief news article here](https://www.taiwannews.com.tw/en/news/3363082).
