@@ -8,11 +8,11 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 Application is done online. Once you have determined how you are [qualified](/application-faq/qualifications/),
  gather the required documents:
 
-* digital copy of your passport
-* digital copy of your passport photo
-* your previous Taiwanese visa and residence permit (if any)
-* dates of any times you worked in Taiwan
-* digital copies of all documents needed to support your application
+* Digital copy of your passport
+* Digital copy of your passport photo
+* Your previous Taiwanese visa and residence permit (if any)
+* Dates of any times you worked in Taiwan
+* Digital copies of all documents needed to support your application
 
 > ⓘ  All digital copies need to be <1MB in size in image or PDF format.
 

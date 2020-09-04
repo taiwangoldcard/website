@@ -44,10 +44,10 @@ If you came to Taiwan in 2015/2016/2017 and had a single 3/2/1 year work contrac
 
 
 You are not eligible under this interpretation if:
-* you worked in Taiwan before 2015
-* your contract didn’t extend into 2018
-* you had multiple contracts between 2015 and 2018.
-* you became a gold card holder in 2019
+* You worked in Taiwan before 2015
+* Your contract didn’t extend into 2018
+* You had multiple contracts between 2015 and 2018.
+* You became a gold card holder in 2019
 
 ## When do I file tax in Taiwan?
 The financial year is January 1st to December 31st. Tax is filed each year from May 1st to the end of the month. 
