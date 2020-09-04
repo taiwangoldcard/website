@@ -63,3 +63,18 @@ The National Taxation Bureau provides free professional taxation consultation se
 During "tax season" there are dedicated English language counters for tax filing at
 National Taxation Bureau offices in major cities.
 
+## My salary is paid by an overseas company, where do I pay tax?
+Taiwan, and sometimes also in the overseas country.
+
+If you stay in Taiwan for more than 90 days in a year, work you perform while resident in Taiwan
+ is considered Taiwan-sourced income. This is true regardless of whether your salary is paid to you
+ in Taiwan or overseas. Therefore, you will pay tax in Taiwan at the standard rates. You may refer to the 
+ [National Tax Bureau's explanation](https://www.ntbt.gov.tw/English/multiplehtml/528c4cdfd10f455b9ad439c6a0642b2b),
+  or the [Income Tax law](https://law.moj.gov.tw/ENG/LawClass/LawSearchContent.aspx?pcode=G0340003&norge=8).
+
+However, paying tax in Taiwan does not necessarily free you of your tax obligations in other countries.
+ You should research the [international tax agreements](https://investtaiwan.nat.gov.tw/showPage?lang=eng&search=58)
+ between your country and Taiwan. In many cases these, in addition to foreign tax credits in some jurisdictions,
+ will prevent you from paying a double tax burden.
+
+As always, please seek professional advice.
