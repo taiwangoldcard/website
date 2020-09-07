@@ -2,8 +2,6 @@
 draft = true
 title = "Lydia TEST"
 weight = 1
-[menu.main]
-weight = 4
 
 +++
 # **SEO**

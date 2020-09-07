@@ -1,9 +1,6 @@
 +++
 title = "Jliao fan club"
 weight = 1
-[menu.main]
-name = "jliao fan club"
-weight = 3
 
 +++
 ## Jliao fan club
