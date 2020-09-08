@@ -397,10 +397,29 @@ function loadActions() {
   })();
 }
 
+function isMobileDevice() {
+  return (
+    typeof window.orientation !== "undefined" ||
+    navigator.userAgent.indexOf("IEMobile") !== -1
+  );
+}
+
 function revealSideBar() {
   const sideBar = document.querySelector("aside.aside.hidden");
   deleteClass(sideBar, "hidden");
 }
 
+function showHomeImage() {
+  if (!isMobileDevice()) {
+    const node = document.createElement("img");
+    node.src = "./images/taiwan-unsplash.jpeg";
+    node.alt = "Taiwan";
+    document.querySelector("section.homePicture").appendChild(node);
+  } else {
+    document.querySelector("section.homePicture").style = "display:none;";
+  }
+}
+
+window.addEventListener("DOMContentLoaded", showHomeImage);
 window.addEventListener("DOMContentLoaded", revealSideBar);
 window.addEventListener('load', loadActions());

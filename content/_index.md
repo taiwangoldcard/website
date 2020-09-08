@@ -31,6 +31,4 @@ title = "Taiwan Gold Card"
 
 {{< section "homePicture" >}}
 
-![Taiwan](./images/taiwan-unsplash.jpeg)
-
 {{< /section >}}
