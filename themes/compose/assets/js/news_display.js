@@ -1,39 +1,44 @@
 // JS for displaying latestNews
-$(document).ready(function() {
+function initNewsList() {
     var limitContent = 8;
     var selectorName = ".latestNews";
     var filteredNewsList = filterNewsList(selectorName, limitContent);
     var ulId = "lastestNewsList";
     displayNewsList(selectorName, filteredNewsList, ulId, function() {
-        $("#" + ulId).append('<li><a href="news">Read More</a></li>');
+        const a = createEl("a");
+        elemAttribute(a, "href", "news");
+        a.innerText = "Read More";
+        const li = createEl("li");
+        li.append(a);
+        document.querySelector(`#${ulId}`).append(li);
     });
-})
+}
 
 // Select the first n of news list
 function filterNewsList(selectorName, limitContent) {
     if (typeof limitContent !== "number" || limitContent === null)
         return;
 
-    let filteredNewsList = [];
-    $(selectorName).html(function() {
-        let li = $(this).find("li");
-        $(li).each(function(index, value){
-            if (index >= limitContent) return false;
-            filteredNewsList.push(value);
-        })
-    });
+    const li = document.querySelectorAll(`${selectorName} li`);
+    const filteredNewsList = Array.from(li).slice(0, limitContent);
 
     return filteredNewsList;
 }
 
 // Display news list
 function displayNewsList(selectorName, newsList, ulId, objCallBack) {
-    $(selectorName + " > ul").attr("id", ulId); // add id to unordered list
-    $("#" + ulId).empty(); // clear old ul
-    $.each(newsList, function(key, value) {
-        $("#" + ulId).append(value);
+    const ul = document.querySelector(`${selectorName} > ul`);
+
+    if (!ul) return;
+
+    elemAttribute(ul, "id", ulId); // add id to unordered list
+    emptyEl(ul); // clear old ul
+    newsList.forEach(function(value) {
+        ul.append(value);
     });
 
     if (typeof objCallBack !== "undefined" && objCallBack !== null)
         objCallBack();
 }
+
+initNewsList();

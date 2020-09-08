@@ -419,65 +419,9 @@ function loadActions() {
   })();
 }
 
-$(function() {
-
-    var hasClicked = false;
-
-    // hide bar when clicking on a menu item
-    $(".toc_item a").on('click', function(event) {
-      hasClicked = true;
-      if ($(window).scrollTop() !== 0) {
-        $('.nav_header').removeClass('nav-down').addClass('nav-up');
-      }
-    });
-
-      // Hide Header on on scroll down
-      var didScroll;
-      var lastScrollTop = 0;
-      var delta = 100;
-      var navbarHeight = $('.nav_header').outerHeight();
-      $(window).scroll(function(event){
-          didScroll = true;
-      });
-
-      setInterval(function() {
-          if (didScroll) {
-              hasScrolled();
-              didScroll = false;
-              hasClicked = false;
-          }
-      }, 500);
-
-      function hasScrolled() {
-          var st = $(this).scrollTop();
-
-          // Make sure they scroll more than delta
-          if(Math.abs(lastScrollTop - st) <= delta)
-              return;
-
-          // If they scrolled down and are past the navbar, add class .nav-up.
-          // This is necessary so you never see what is "behind" the navbar.
-          if (st > lastScrollTop && st > navbarHeight){
-              // Scroll Down
-              $('.nav_header').removeClass('nav-down').addClass('nav-up');
-          } else {
-              // Scroll Up
-              if(st + $(window).height() < $(document).height()) {
-                if (hasClicked != true) {
-                  $('.nav_header').removeClass('nav-up').addClass('nav-down');
-                }
-              }
-          }
-          lastScrollTop = st;
-      }
-
-
-
-
-});
-
 function revealSideBar() {
-  $("aside.aside.hidden").removeClass("hidden");
+  const sideBar = document.querySelector("aside.aside.hidden");
+  deleteClass(sideBar, "hidden");
 }
 
 window.addEventListener("DOMContentLoaded", revealSideBar);
