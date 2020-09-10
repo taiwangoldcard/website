@@ -22,10 +22,12 @@ If you are in Taiwan, you can head over the [National Immigration Agency](https:
  if you'd like to talk face to face to an agent. There is also [a list of helpful contact information](/application-faq/application/#who-can-i-talk-to-about-this)
 
 
-<script src="https://unpkg.com/driver.js/dist/driver.min.js"></script>
-<link rel="stylesheet" href="https://unpkg.com/driver.js/dist/driver.min.css">
+<!--
+<script src="https://unpkg.com/driver.js@0.9.8/dist/driver.min.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/driver.js@0.9.8/dist/driver.min.css">
 
 <script>
     // const driver = new Driver();
     // driver.highlight('#docs-the-gold-card-application-faq');
 </script>
+-->
