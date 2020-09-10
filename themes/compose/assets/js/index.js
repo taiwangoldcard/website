@@ -410,13 +410,16 @@ function revealSideBar() {
 }
 
 function showHomeImage() {
+  const homePicture = document.querySelector("section.homePicture");
+
+  if (!homePicture) return;
   if (!isMobileDevice()) {
     const node = document.createElement("img");
-    node.src = "./images/taiwan-unsplash.jpeg";
+    node.src = "/images/taiwan-unsplash.jpeg";
     node.alt = "Taiwan";
-    document.querySelector("section.homePicture").appendChild(node);
+    homePicture.appendChild(node);
   } else {
-    document.querySelector("section.homePicture").style = "display:none;";
+    homePicture.style = "display:none;";
   }
 }
 
