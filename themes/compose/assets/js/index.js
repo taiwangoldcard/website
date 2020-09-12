@@ -1,22 +1,23 @@
 function isObj(obj) {
-  return obj && typeof obj === "object" && obj !== null ? true : false;
+  return (obj && typeof obj === 'object' && obj !== null) ? true : false;
 }
 
-function createEl(element = "div") {
+function createEl(element = 'div') {
   return document.createElement(element);
 }
 
 function emptyEl(el) {
-  while (el.firstChild) el.removeChild(el.firstChild);
+  while(el.firstChild)
+  el.removeChild(el.firstChild);
 }
 
-function elem(selector, parent = document) {
+function elem(selector, parent = document){
   let elem = isObj(parent) ? parent.querySelector(selector) : false;
   return elem ? elem : false;
 }
 
 function elems(selector, parent = document) {
-  let elems = isObj(parent) ? parent.querySelectorAll(selector) : [];
+  let elems = isObj(parent) ?parent.querySelectorAll(selector) : [];
   return elems.length ? elems : false;
 }
 
@@ -37,22 +38,19 @@ function deleteClass(el, targetClass) {
 function modifyClass(el, targetClass) {
   if (isObj(el) && targetClass) {
     const elClass = el.classList;
-    elClass.contains(targetClass)
-      ? elClass.remove(targetClass)
-      : elClass.add(targetClass);
+    elClass.contains(targetClass) ? elClass.remove(targetClass) : elClass.add(targetClass);
   }
 }
 
 function containsClass(el, targetClass) {
-  if (isObj(el) && targetClass && el !== document) {
+  if (isObj(el) && targetClass && el !== document ) {
     return el.classList.contains(targetClass) ? true : false;
   }
 }
 
 function isChild(node, parentClass) {
-  let objectsAreValid =
-    isObj(node) && parentClass && typeof parentClass == "string";
-  return objectsAreValid && node.closest(parentClass) ? true : false;
+  let objectsAreValid = isObj(node) && parentClass && typeof parentClass == 'string';
+  return (objectsAreValid && node.closest(parentClass)) ? true : false;
 }
 
 function elemAttribute(elem, attr, value = null) {
@@ -68,113 +66,113 @@ function deleteChars(str, subs) {
   let newStr = str;
   if (Array.isArray(subs)) {
     for (let i = 0; i < subs.length; i++) {
-      newStr = newStr.replace(subs[i], "");
+      newStr = newStr.replace(subs[i], '');
     }
   } else {
-    newStr = newStr.replace(subs, "");
+    newStr = newStr.replace(subs, '');
   }
   return newStr;
 }
 
 function isBlank(str) {
-  return !str || str.trim().length === 0;
+  return (!str || str.trim().length === 0);
 }
 
 function isMatch(element, selectors) {
-  if (isObj(element)) {
-    if (selectors.isArray) {
-      let matching = selectors.map(function (selector) {
-        return element.matches(selector);
-      });
+  if(isObj(element)) {
+    if(selectors.isArray) {
+      let matching = selectors.map(function(selector){
+        return element.matches(selector)
+      })
       return matching.includes(true);
     }
-    return element.matches(selectors);
+    return element.matches(selectors)
   }
 }
 
 function closestInt(goal, collection) {
-  const closest = collection.reduce(function (prev, curr) {
-    return Math.abs(curr - goal) < Math.abs(prev - goal) ? curr : prev;
+  const closest = collection.reduce(function(prev, curr) {
+    return (Math.abs(curr - goal) < Math.abs(prev - goal) ? curr : prev);
   });
   return closest;
 }
 
 function hasClasses(el) {
-  if (isObj(el)) {
+  if(isObj(el)) {
     const classes = el.classList;
-    return classes.length;
+    return classes.length
   }
 }
 
-(function markInlineCodeTags() {
-  const codeBlocks = elems("code");
-  if (codeBlocks) {
-    codeBlocks.forEach(function (codeBlock) {
-      if (!hasClasses(codeBlock)) {
-        codeBlock.children.length ? false : pushClass(codeBlock, "noClass");
+(function markInlineCodeTags(){
+  const codeBlocks = elems('code');
+  if(codeBlocks) {
+    codeBlocks.forEach(function(codeBlock){
+      if(!hasClasses(codeBlock)) {
+        codeBlock.children.length ? false : pushClass(codeBlock, 'noClass');
       }
     });
   }
 })();
 
 function activeHeading(position, listLinks) {
-  let active = "active";
+  let active = 'active';
 
   let linksToModify = Object.create(null);
-  linksToModify.active = listLinks.filter(function (link) {
+  linksToModify.active = listLinks.filter(function(link) {
     return containsClass(link, active);
   })[0];
 
   // activeTocLink ? deleteClass
 
-  linksToModify.new = listLinks.filter(function (link) {
-    return parseInt(link.dataset.position) === position;
+  linksToModify.new = listLinks.filter(function(link){
+    return parseInt(link.dataset.position) === position
   })[0];
 
   if (linksToModify.active != linksToModify.new) {
-    linksToModify.active ? deleteClass(linksToModify.active, active) : false;
+    linksToModify.active ? deleteClass(linksToModify.active, active): false;
     pushClass(linksToModify.new, active);
   }
-}
+};
 
 function matchChildTextContent(el, query) {
   let matches = el.textContent.toLowerCase().match(query.toLowerCase());
-  if (matches) {
+  if(matches) {
     // blink the text
-    el.classList = [...el.classList, "blink"];
+    el.classList = [...el.classList, 'blink']
     return el;
   }
 
   // search recursively
-  if (el.hasChildNodes()) {
+  if(el.hasChildNodes()){
     let nodes = el.childNodes;
-
+    
     for (const c of nodes) {
       let found = matchChildTextContent(c, query);
-      if (found) return found;
+      if(found) return found;
     }
   }
 }
 
-function setUrlAnchor(el) {
+function setUrlAnchor (el) {
   window.location.hash = `#${el.id}`;
 }
 
-function searchTextInFAQ(query) {
-  const h2s = document.querySelectorAll(".content h2");
+function searchTextInFAQ (query) {
+  const h2s = document.querySelectorAll('.content h2');
   let found;
 
   for (const el of h2s) {
     const foundInH2 = matchChildTextContent(el, query);
-    if (!found && foundInH2) {
+    if(!found && foundInH2) {
       setUrlAnchor(el);
       found = foundInH2;
     }
 
     let answer = el.nextSibling;
-    while (answer && answer.tagName !== "H2") {
-      const foundInSibling = matchChildTextContent(answer, query);
-      if (!found && foundInSibling) {
+    while(answer && answer.tagName !== 'H2') {
+      const foundInSibling = matchChildTextContent(answer, query)
+      if(!found && foundInSibling ){
         setUrlAnchor(el);
         found = foundInSibling;
         break;
@@ -186,14 +184,15 @@ function searchTextInFAQ(query) {
 }
 
 function loadActions() {
-  (function searchTextInPage() {
+
+  (function searchTextInPage(){
     const urlParams = new URLSearchParams(window.location.search);
-    const q = urlParams.get("q");
-    const queries = q && q.split(" ");
-    if (q) {
-      found = queries.reduce((acc, q) => acc || searchTextInFAQ(q), undefined);
+    const q = urlParams.get('q');
+    const queries = q && q.split(' ')
+    if(q) {
+      found = queries.reduce((acc, q) => acc || searchTextInFAQ(q), undefined)
     }
-  })();
+  }());
 
   const parentURL = '{{ absURL "" }}';
   const doc = document.documentElement;
@@ -201,185 +200,178 @@ function loadActions() {
   (function updateDate() {
     const date = new Date();
     const year = date.getFullYear();
-    const yearEl = elem(".year");
-    yearEl ? (year.innerHTML = year) : false;
+    const yearEl = elem('.year');
+    yearEl ? year.innerHTML = year : false;
   })();
 
-  (function customizeSidebar() {
-    const tocActive = "toc_active";
-    const aside = elem("aside");
-    const tocs = elems("nav", aside);
-    if (tocs) {
-      tocs.forEach(function (toc) {
+  (function customizeSidebar(){
+    const tocActive = 'toc_active';
+    const aside = elem('aside');
+    const tocs = elems('nav', aside);
+    if(tocs) {
+      tocs.forEach(function(toc){
         toc.id = "";
-        pushClass(toc, "toc");
-        if (toc.children.length >= 1) {
+        pushClass(toc, 'toc');
+        if(toc.children.length >= 1) {
           const tocItems = Array.from(toc.children[0].children);
 
           const previousHeading = toc.previousElementSibling;
-          previousHeading.matches(".active")
-            ? pushClass(toc, tocActive)
-            : false;
+          previousHeading.matches('.active') ? pushClass(toc, tocActive) : false;
 
-          tocItems.forEach(function (item) {
-            pushClass(item, "toc_item");
-            pushClass(item.firstElementChild, "toc_link");
-          });
+          tocItems.forEach(function(item){
+            pushClass(item, 'toc_item');
+            pushClass(item.firstElementChild, 'toc_link');
+          })
         }
       });
 
       const currentToc = elem(`.${tocActive}`);
 
-      if (currentToc) {
-        const pageInternalLinks = Array.from(elems("a", currentToc));
+      if(currentToc) {
+        const pageInternalLinks = Array.from(elems('a', currentToc));
 
-        const pageIds = pageInternalLinks.map(function (link) {
+        const pageIds = pageInternalLinks.map(function(link){
           return link.hash;
         });
 
-        const linkPositions = pageIds.map(function (id) {
+        const linkPositions = pageIds.map(function(id){
           const heading = elem(id);
           const position = heading.offsetTop;
           return position;
         });
 
-        pageInternalLinks.forEach(function (link, index) {
-          link.dataset.position = linkPositions[index];
+        pageInternalLinks.forEach(function(link, index){
+          link.dataset.position = linkPositions[index]
         });
 
-        window.addEventListener("scroll", function (e) {
+        window.addEventListener('scroll', function(e) {
           // this.setTimeout(function(){
           let position = window.scrollY;
           let active = closestInt(position, linkPositions);
           activeHeading(active, pageInternalLinks);
           // }, 1500)
-        });
+        }
+        );
       }
     }
   })();
 
-  function searchResults(results = [], order = [], query) {
+  function searchResults(results=[], order =[], query) {
     let resultsFragment = new DocumentFragment();
-    let showResults = elem(".search_results");
+    let showResults = elem('.search_results');
     emptyEl(showResults);
-    let index = 0;
-    results.forEach(function (result) {
-      let item = createEl("a");
-      item.href = result.link + `?q=${encodeURI(query)}`;
-      item.className = "search_result";
+    let index = 0
+    results.forEach(function(result){
+      let item = createEl('a');
+      item.href = result.link+`?q=${encodeURI(query)}`;
+      item.className = 'search_result';
       item.textContent = result.title;
       item.style.order = order[index];
       resultsFragment.appendChild(item);
-      index += 1;
+      index += 1
     });
 
     showResults.appendChild(resultsFragment);
   }
 
-  (function search() {
-    const searchField = elem(".search_field");
+  (function search(){
+    const searchField = elem('.search_field');
 
     if (searchField) {
-      searchField.addEventListener("input", function () {
-        let rawResults = idx.search(`${this.value}`).slice(0, 6);
-        let refs = rawResults.map(function (ref) {
+      searchField.addEventListener('input', function() {
+        let rawResults = idx.search(`${ this.value }`).slice(0,6);
+        let refs = rawResults.map(function(ref){
           // return id and score in a single string
           return `${ref.ref}:${ref.score}`;
         });
 
-        let ids = refs.map(function (id) {
+        let ids = refs.map(function(id){
           let positionOfSeparator = id.indexOf(":");
-          id = id.substring(0, positionOfSeparator);
+          id = id.substring(0,positionOfSeparator)
           return Number(id);
         });
 
-        let scores = refs.map(function (score) {
+        let scores = refs.map(function(score){
           let positionOfSeparator = score.indexOf(":");
-          score = score.substring(positionOfSeparator + 1, score.length - 1);
+          score = score.substring((positionOfSeparator + 1), (score.length - 1));
           return (parseFloat(score) * 50).toFixed(0);
         });
 
-        let matchedDocuments = simpleIndex.filter(function (doc) {
+        let matchedDocuments = simpleIndex.filter(function(doc){
           return ids.includes(doc.id);
         });
 
-        matchedDocuments.length >= 1
-          ? searchResults(matchedDocuments, scores, this.value)
-          : false;
+        matchedDocuments.length >= 1 ? searchResults(matchedDocuments, scores, this.value) : false;
       });
     }
+
   })();
 
-  let headingNodes = [],
-    results,
-    link,
-    icon,
-    current,
-    id,
-    tags = ["h2", "h3", "h4", "h5", "h6"];
+  let headingNodes = [], results, link, icon, current, id,
+  tags = ['h2', 'h3', 'h4', 'h5', 'h6'];
 
   current = document.URL;
 
-  tags.forEach(function (tag) {
+  tags.forEach(function(tag){
     results = document.getElementsByTagName(tag);
     Array.prototype.push.apply(headingNodes, results);
   });
 
   function sanitizeURL(url) {
     // removes any existing id on url
-    const hash = "#";
+    const hash = '#';
     const positionOfHash = url.indexOf(hash);
-    if (positionOfHash > -1) {
+    if(positionOfHash > -1 ) {
       const id = url.substr(positionOfHash, url.length - 1);
-      url = url.replace(id, "");
+      url = url.replace(id, '');
     }
-    return url;
+    return url
   }
 
-  headingNodes.forEach(function (node) {
-    link = createEl("a");
-    icon = createEl("img");
+  headingNodes.forEach(function(node){
+    link = createEl('a');
+    icon = createEl('img');
     icon.src = '{{ absURL "icons/link.svg" }}';
-    icon.alt = "link icon";
-    link.className = "link icon";
+    icon.alt = 'link icon';
+    link.className = 'link icon';
     link.appendChild(icon);
-    id = node.getAttribute("id");
-    if (id) {
+    id = node.getAttribute('id');
+    if(id) {
       link.href = `${sanitizeURL(current)}#${id}`;
       node.appendChild(link);
-      pushClass(node, "link_owner");
+      pushClass(node, 'link_owner');
     }
   });
 
-  const copyToClipboard = (str) => {
+  const copyToClipboard = str => {
     let copy, selection, selected;
-    copy = createEl("textarea");
+    copy = createEl('textarea');
     copy.value = str;
-    copy.setAttribute("readonly", "");
-    copy.style.position = "absolute";
-    copy.style.left = "-9999px";
+    copy.setAttribute('readonly', '');
+    copy.style.position = 'absolute';
+    copy.style.left = '-9999px';
     selection = document.getSelection();
     doc.appendChild(copy);
     // check if there is any selected content
     selected = selection.rangeCount > 0 ? selection.getRangeAt(0) : false;
     copy.select();
-    document.execCommand("copy");
+    document.execCommand('copy');
     doc.removeChild(copy);
-    if (selected) {
-      // if a selection existed before copying
+    if (selected) { // if a selection existed before copying
       selection.removeAllRanges(); // unselect existing selection
       selection.addRange(selected); // restore the original selection
     }
-  };
+  }
+
 
   function copyFeedback(parent) {
-    const copyText = document.createElement("div");
-    const yanked = "link_yanked";
+    const copyText = document.createElement('div');
+    const yanked = 'link_yanked';
     copyText.classList.add(yanked);
-    copyText.innerText = "Link Copied";
-    if (!elem(`.${yanked}`, parent)) {
+    copyText.innerText = 'Link Copied';
+    if(!elem(`.${yanked}`, parent)) {
       parent.appendChild(copyText);
-      setTimeout(function () {
+      setTimeout(function() {
         // parent.removeChild(copyText)
       }, 3000);
     }
@@ -387,23 +379,18 @@ function loadActions() {
 
   (function copyHeadingLink() {
     let deeplink, deeplinks, newLink, parent, target;
-    deeplink = "link";
+    deeplink = 'link';
     deeplinks = elems(`.${deeplink}`);
-    if (deeplinks) {
-      document.addEventListener("click", function (event) {
+    if(deeplinks) {
+      document.addEventListener('click', function(event)
+      {
         target = event.target;
         parent = target.parentNode;
-        if (
-          (target && containsClass(target, deeplink)) ||
-          containsClass(parent, deeplink)
-        ) {
+        if (target && containsClass(target, deeplink) || containsClass(parent, deeplink)) {
           event.preventDefault();
-          newLink =
-            target.href != undefined ? target.href : target.parentNode.href;
+          newLink = target.href != undefined ? target.href : target.parentNode.href;
           copyToClipboard(newLink);
-          target.href != undefined
-            ? copyFeedback(target)
-            : copyFeedback(target.parentNode);
+          target.href != undefined ?  copyFeedback(target) : copyFeedback(target.parentNode);
         }
       });
     }
@@ -438,4 +425,4 @@ function showHomeImage() {
 
 window.addEventListener("DOMContentLoaded", showHomeImage);
 window.addEventListener("DOMContentLoaded", revealSideBar);
-window.addEventListener("load", loadActions());
+window.addEventListener('load', loadActions());
