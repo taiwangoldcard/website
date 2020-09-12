@@ -1,0 +1,11 @@
+{
+  "name": "taiwan-goldcard-website",
+  "version": "1.0.0",
+  "description": "Repo for taiwangoldcard.com",
+  "dependencies": {
+    "cypress": "^5.1.0"
+  },
+  "scripts": {
+    "start": "hugo server"
+  }
+}

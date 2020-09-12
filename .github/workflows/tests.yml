@@ -17,5 +17,5 @@ jobs:
       - name: Cypress run
         uses: cypress-io/github-action@v1
         with:
-          start: hugo server
+          start: npm start
           wait-on: http://localhost:1313
