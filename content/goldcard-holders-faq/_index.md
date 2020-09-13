@@ -1,4 +1,3 @@
-
 ---
 title: "Gold Card Holders FAQ"
 weight: 1
