@@ -14,6 +14,9 @@
 
 <!-- <link rel="stylesheet" href="https://unicons.iconscout.com/release/v2.1.9/css/unicons.css"> -->
 <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
+{{ if .Params.description }}
+<meta name="description" content="{{ .Params.description }}" />
+{{ end }}
 
 {{- partial "opengraph" . }}
 
