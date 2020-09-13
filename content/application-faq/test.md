@@ -1,6 +1,6 @@
 ---
 title: Test
 weight: 10
-draft: true
+draft: false
 ---
 Testing this
