@@ -6,7 +6,7 @@ media_folder: "images/uploads"
 collections:
   - name: "application-faq"
     label: "Application FAQ"
-    folder: "application-faq"
+    folder: "content/application-faq"
     create: true
     slug: "{{slug}}"
     fields:
