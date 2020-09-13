@@ -39,6 +39,8 @@ hugo server # launch a server and serve it at http://localhost:1313/
 
 ### Running automated tests
 
+All tests are ran automatically via [github workflows](./.github/workflows/tests.yml) when you push a commit. However, you can still run the tests on local by following these steps:
+
 1. First, install node / npm. This is required for the test executable. You may use [Node Version Manager](https://github.com/nvm-sh/nvm):
 
 ```
