@@ -1,4 +1,3 @@
-
 ---
 title: "Gold Card Application FAQ"
 weight: 1
