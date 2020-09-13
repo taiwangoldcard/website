@@ -1,0 +1,15 @@
+backend:
+  name: git-gateway
+  branch: netlify-cms
+publish_mode: editorial_workflow
+media_folder: "images/uploads"
+collections:
+  - name: "application-faq"
+    label: "Application FAQ"
+    folder: "application-faq"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Weight", name: "weight", widget: "number" }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
