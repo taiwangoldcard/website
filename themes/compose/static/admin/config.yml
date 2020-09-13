@@ -13,3 +13,4 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Weight", name: "weight", widget: "number" }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
+      - { label: "Body", name: "body", widget: "markdown" }
