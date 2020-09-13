@@ -14,3 +14,14 @@ collections:
       - { label: "Weight", name: "weight", widget: "number" }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "Body", name: "body", widget: "markdown" }
+  - name: "goldcard-holders-faq"
+    label: "Gold Card Holders FAQ"
+    folder: "content/goldcard-holders-faq"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string", default: "" }
+      - { label: "Weight", name: "weight", widget: "number" }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
+      - { label: "Body", name: "body", widget: "markdown" }
