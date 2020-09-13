@@ -7,7 +7,7 @@ function initNewsList() {
     displayNewsList(selectorName, filteredNewsList, ulId, function() {
         const a = createEl("a");
         elemAttribute(a, "href", "news");
-        a.innerText = "Read More";
+        a.innerText = "More News »";
         const li = createEl("li");
         li.append(a);
         document.querySelector(`#${ulId}`).append(li);
