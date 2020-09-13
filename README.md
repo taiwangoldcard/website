@@ -37,9 +37,10 @@ hugo server # launch a server and serve it at http://localhost:1313/
 
 - Output: `docs/` is the "build" folder, where GitHub look at to show the [Taiwan Gold Card](https://taiwangoldcard.com/) website
 
-### Running automated tests
+### Tests
+We have frontend tests (with cypress) to check if the website still works properly before being available on the website. All tests are ran automatically via [github workflows](./.github/workflows/tests.yml) when you push a commit. You can see them [here](https://dashboard.cypress.io/projects/rtyzr7/runs). Each test has a video attached to it. 
 
-All tests are ran automatically via [github workflows](./.github/workflows/tests.yml) when you push a commit. However, you can still run the tests on local by following these steps:
+If you need to run the tests locally:
 
 1. First, install node / npm. This is required for the test executable. You may use [Node Version Manager](https://github.com/nvm-sh/nvm):
 
