@@ -50,9 +50,11 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
 
 2. At this repo's root, perform `npm install`. This will install `cypress`, the automated test runner.
 
-3. `./node_modules/cypress/bin/cypress run` to perform all tests in headless mode / CI mode. 
+3. Run the application `npm start`.
 
-4. To debug tests, you can `./node_modules/cypress/bin/cypress open` to view the interactive UI and select the tests to run:
+4. Run the tests `npm test`.
+
+5. (Optional) To debug tests, you can `./node_modules/cypress/bin/cypress open` to view the interactive UI and select the tests to run:
 
 ![Cypress Tests UI](./tests-ui.png)
 
