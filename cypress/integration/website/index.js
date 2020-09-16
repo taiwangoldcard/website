@@ -8,7 +8,7 @@ describe("Home page", () => {
   });
 
   it("Can navigate to news page", () => {
-    cy.get("#lastestNewsList").contains("Read More").click({ force: true });
+    cy.get("#lastestNewsList").contains("More News").click({ force: true });
     cy.get(".content").contains("Gold Card News");
   });
 
@@ -21,4 +21,9 @@ describe("Home page", () => {
     cy.contains("Resources for GoldCard holders").click({ force: true });
     cy.contains("Gold Card Holders FAQ");
   });
+
+  it("Can search", () => {
+    cy.get(".search_field").type("Taiwan")
+    cy.get(".search_results").contains("Taiwan")
+  })
 });
