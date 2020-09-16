@@ -1,0 +1,45 @@
+<nav class="mainNavigation">
+	<a class="mainNavigation_logoLink" href="/">
+    {{- $logos := .Site.Params.logo }}
+    {{- $normalPath := absURL (printf "images/%s" $logos.lightMode) }}
+    {{- $darkPath := absURL (printf "images/%s" $logos.darkMode) }}
+    <!-- TODO need to add back light mode picture -->
+		<amp-img
+      srcset="{{ $darkPath }}"
+      media="(prefers-color-scheme: dark)"
+      width="188"
+      height="24"
+      >
+			🇹🇼 Taiwan Gold Card
+		</amp-img>
+	</a>
+	{{ if .Site.Params.enableSearch | default true }}
+	{{- partial "search.html" . }}
+	{{ end }}
+	<ul class="mainNavigation_menu">
+		{{- $p := . }}
+		{{- range .Site.Menus.main }}
+		<li class="nav-item">
+			{{- $active := or ($p.IsMenuCurrent "main" .) ($p.HasMenuCurrent "main" .) }}
+			{{- with .Page }}
+			{{- $active = or $active ( $.IsDescendant .)  }}
+			{{- end }}
+			{{- $url := urls.Parse .URL }}
+			{{- $baseurl := $.Site.BaseURL }}
+
+			<!-- check if the link has http, if so, it's an external link -->
+			{{ if hasPrefix $url  "http" }}
+				<a class="nav-link{{if $active }} active{{end}}" href="{{ $url }}"><span{{if $active }} class="active"{{end}}>{{ .Name }}</span></a>
+			{{else}}
+				<a class="nav-link{{if $active }} active{{end}}" href="{{ with .Page }}{{ $baseurl }}{{ .Permalink }}{{ else }}{{ $baseurl }}{{ .URL }}{{ end }}"><span{{if $active }} class="active"{{end}}>{{ .Name }}</span></a>
+			{{end}}
+
+		</li>
+		{{- end }}
+		{{ $repo := .Site.Params.source }}
+
+		<!-- <li class="nav-item">
+			<a class="nav-link" href="{{ $repo.url }}">{{ $repo.name }}</a>
+		</li> -->
+	</ul>
+</nav>

@@ -1,6 +1,7 @@
 +++
 title = "Taiwan Gold Card"
 description = "We are a strong community of professionals with Taiwan Gold Card visa. We happily help newcomers and support each other within the Gold Card community"
+outputs = ["html", "amp"]
 +++
 
 {{< section "newApplicant" >}}
