@@ -8,7 +8,7 @@ describe("Home page", () => {
   });
 
   it("Can navigate to news page", () => {
-    cy.get("#lastestNewsList").contains("Read More").click({ force: true });
+    cy.get("#lastestNewsList").contains("More News").click({ force: true });
     cy.get(".content").contains("Gold Card News");
   });
 
