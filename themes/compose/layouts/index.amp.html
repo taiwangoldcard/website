@@ -1,32 +1,22 @@
 <!doctype html>
 
- {{/*
- {{- if or (eq .Section "application-faq")  (eq .Section "goldcard-holders-faq") }}
- <html itemscope itemtype="https://schema.org/FAQPage" lang="{{ .Site.Language.Lang }}">
- {{- else }}
- <html lang="{{ .Site.Language.Lang }}">
- {{- end }}
- */}}
-
- <html amp lang="{{ .Site.Language.Lang }}">
- <head>
-   {{- partial "head.amp" . }}
- </head>
- <body class="page-{{ .Kind }}">
- <!-- Google Tag Manager (noscript) -->
- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K3R2KD7"
+<html amp lang="{{ .Site.Language.Lang }}">
+  <head>
+    {{- partial "head.amp" . }}
+  </head>
+  <body class="page-{{ .Kind }}">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K3R2KD7"
    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
- <!-- End Google Tag Manager (noscript) -->
-   <header class="mainHeader">
-     {{- partial "nav.amp" . }}
-   </header>
-   <main class="main wrap md">
-     {{- if or (eq .Section "application-faq")  (eq .Section "goldcard-holders-faq") }}
-     {{- partial "document" . }}
-     {{- else }}
-     {{- block "main" . }}{{ end }}
-     {{- end }}
-   </main>
-   {{- partial "footer" . }}
- </body>
- </html>
+  <!-- End Google Tag Manager (noscript) -->
+  <header class="mainHeader">
+    {{- partial "nav.amp" . }}
+  </header>
+  <main class="main wrap md">
+    <main class="home">
+    {{ .Content }}
+    </main>
+  </main>
+  {{- partial "footer" . }}
+  </body>
+</html>

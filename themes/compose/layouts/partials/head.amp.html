@@ -4,7 +4,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 {{- hugo.Generator }}
 {{- $iconsPath := "/favicons/" }}
-<link rel="canonical" href='{{ absURL .Site.BaseURL }}'>
+<meta name="google-site-verification" content="ssem7gWSWWGbmykaqKgVqugutzJpiZLR71gE3g4ifs0" />
+<link rel="canonical" href="{{ replace .Permalink "/amp" "" }}" />
 <link rel="apple-touch-icon" sizes="180x180" href='{{ absURL (printf "%sapple-touch-icon.png" $iconsPath) }}'>
 <link rel="icon" type="image/png" sizes="32x32" href='{{ absURL (printf "%sfavicon-32x32.png" $iconsPath) }}'>
 <link rel="icon" type="image/png" sizes="16x16" href='{{ absURL (printf "%sfavicon-16x16.png" $iconsPath) }}'>
@@ -15,7 +16,6 @@
 <meta name="msapplication-config" content='{{ absURL (printf "%sbrowserconfig.xml" $iconsPath) }}'>
 <meta name="theme-color" content="#ffffff">
 
-<!-- <link rel="stylesheet" href="https://unicons.iconscout.com/release/v2.1.9/css/unicons.css"> -->
 <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
 {{ if .Params.description }}
 <meta name="description" content="{{ .Params.description }}" />
@@ -23,7 +23,7 @@
 
 {{- partial "opengraph" . }}
 
-{{- $options := (dict "targetPath" "css/styles.css" "outputStyle" "compressed" "enableSourceMap" "true") -}}
-{{- $styles := resources.Get "sass/main.sass" | resources.ExecuteAsTemplate "main.sass" . | resources.ToCSS $options | resources.Fingerprint "sha512" }}
-<!-- <link rel = 'stylesheet' href = '{{ $styles.Permalink }}' integrity = '{{ $styles.Data.Integrity }}'> -->
-<!-- <link rel='stylesheet' href='{{ $styles.Permalink }}'> -->
+{{- $options := (dict "targetPath" "css/styles.css") -}}
+{{- $cssContent := (resources.Get "sass/main.sass" | toCSS $options).Content }}
+{{- $validAmpCssContent := (replace $cssContent "@charset \"UTF-8\";" "") }}
+<style amp-custom>{{ $validAmpCssContent | safeCSS }} </style>
