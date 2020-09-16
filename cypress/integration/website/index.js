@@ -21,4 +21,9 @@ describe("Home page", () => {
     cy.contains("Resources for GoldCard holders").click({ force: true });
     cy.contains("Gold Card Holders FAQ");
   });
+
+  it("Can search", () => {
+    cy.get(".search_field").type("Taiwan")
+    cy.get(".search_results").contains("Taiwan")
+  })
 });
