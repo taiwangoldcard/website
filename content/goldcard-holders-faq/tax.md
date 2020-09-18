@@ -61,7 +61,7 @@ Further information is available from the [National Taxation Bureau](https://www
 
 
 ## When do I file tax in Taiwan?
-The financial year is January 1st to December 31st. Tax is filed each year from May 1st to the end of the month.
+The financial year is January 1st to December 31st. Tax is filed each year from May 1st to the end of the month. 
 
 2020 benefits from an [extended deadline due to the COVID-19](https://home.kpmg/us/en/home/insights/2020/04/tnf-taiwan-tax-return-tax-payment-deadlines-extended-covid-19.html). You are allowed to fill tax until the 30rd June 2020.
 
@@ -79,7 +79,7 @@ In general Taiwan, and sometimes also in the overseas country.
 
 If you stay in Taiwan for more than 90 days in a year, money you get for work you perform residing in Taiwan
  is considered Taiwan-sourced income. This is true regardless of whether your salary is paid to you in an account
- in Taiwan or overseas. Therefore, you will pay tax in Taiwan at the standard rates. You may refer to the
+ in Taiwan or overseas. Therefore, you will pay tax in Taiwan at the standard rates. You may refer to the 
  [National Tax Bureau's explanation](https://www.ntbt.gov.tw/English/multiplehtml/528c4cdfd10f455b9ad439c6a0642b2b),
   or the [Income Tax law](https://law.moj.gov.tw/ENG/LawClass/LawSearchContent.aspx?pcode=G0340003&norge=8).
 

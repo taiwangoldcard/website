@@ -28,7 +28,7 @@ Yes, this card is perfect for you, since it contains an open work permit that al
  employer. However, if you don't have a Taiwanese employer please see the answer to:
  [I'm a freelancer/I don't have an employer, how do I register with the NHI?](/goldcard-holders-faq/health-insurance/).
 
-## Is there a "general" application category or must I select a specific industry?
+## Is there a "general" application category or must I select a specific industry? 
 There is no "general" application category. You must select a single ministry to assess your skills.
 Use the [Gold Card Qualification Check](https://visafinder.tw/gold-card-qualification/) to find suggestions.
 
@@ -40,5 +40,5 @@ Generally not, but it depends. The document requirements to prove an Article 1 (
  don't have salary-based compensation for your employment, we recommend [calling ahead](/application-faq/application/#who-can-i-talk-to-about-this). You may be able to make an argument if your freelance income looks a lot like
 salary (eg "7 Nonemployee Compensation" on a 1099 form from the USA).
 
-## Is there an age restriction?
+## Is there an age restriction? 
 Not really. However it is expected that gold card holders will have at least five years of work experience.
