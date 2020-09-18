@@ -22,7 +22,7 @@
   </header>
   <main class="main wrap md">
     {{- if or (eq .Section "application-faq")  (eq .Section "goldcard-holders-faq") }}
-    {{- partial "document" . }}
+    {{- partial "document.amp" . }}
     {{- else }}
     {{- block "main" . }}{{ end }}
     {{- end }}
