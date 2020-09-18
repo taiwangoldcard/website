@@ -13,9 +13,6 @@
       >
 		</amp-img>
 	</a>
-	{{ if .Site.Params.enableSearch | default true }}
-	{{- partial "search.html" . }}
-	{{ end }}
 	<ul class="mainNavigation_menu">
 		{{- $p := . }}
 		{{- range .Site.Menus.main }}
