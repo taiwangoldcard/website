@@ -8,6 +8,8 @@
 {{- end }}
 */}}
 
+{{ .Scratch.Set "output-format" "amp" }}
+
 <html amp lang="{{ .Site.Language.Lang }}">
 <head>
   {{- partial "head.amp" . }}

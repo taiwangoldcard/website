@@ -1,5 +1,5 @@
 <nav class="mainNavigation">
-	<a class="mainNavigation_logoLink" href="/">
+	<a class="mainNavigation_logoLink" href="/amp">
     {{- $logos := .Site.Params.logo }}
     {{- $normalPath := absURL (printf "images/%s" $logos.lightMode) }}
     {{- $darkPath := absURL (printf "images/%s" $logos.darkMode) }}
@@ -26,9 +26,13 @@
 
 			<!-- check if the link has http, if so, it's an external link -->
 			{{ if hasPrefix $url  "http" }}
-				<a class="nav-link{{if $active }} active{{end}}" href="{{ $url }}"><span{{if $active }} class="active"{{end}}>{{ .Name }}</span></a>
+				<a class="nav-link{{if $active }} active{{end}}" href="{{ $url }}/amp">
+          <span{{if $active }} class="active"{{end}}>{{ .Name }}</span>
+        </a>
 			{{else}}
-				<a class="nav-link{{if $active }} active{{end}}" href="{{ with .Page }}{{ $baseurl }}{{ .Permalink }}{{ else }}{{ $baseurl }}{{ .URL }}{{ end }}"><span{{if $active }} class="active"{{end}}>{{ .Name }}</span></a>
+				<a class="nav-link{{if $active }} active{{end}}" href="{{ with .Page }}{{ $baseurl }}{{ .Permalink }}{{ else }}{{ $baseurl }}{{ .URL }}{{ end }}/amp">
+          <span{{if $active }} class="active"{{end}}>{{ .Name }}</span>
+        </a>
 			{{end}}
 
 		</li>
