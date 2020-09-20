@@ -37,8 +37,29 @@ hugo server # launch a server and serve it at http://localhost:1313/
 
 - Output: `docs/` is the "build" folder, where GitHub look at to show the [Taiwan Gold Card](https://taiwangoldcard.com/) website
 
+### Tests
+We have frontend tests (with cypress) to check if the website still works properly before being available on the website. All tests are ran automatically via [github workflows](./.github/workflows/tests.yml) when you push a commit. You can see them [here](https://dashboard.cypress.io/projects/rtyzr7/runs). Each test has a video attached to it. 
+
+If you need to run the tests locally:
+
+1. First, install node / npm. This is required for the test executable. You may use [Node Version Manager](https://github.com/nvm-sh/nvm):
+
+```
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+```
+
+2. At this repo's root, perform `npm install`. This will install `cypress`, the automated test runner.
+
+3. Run the application `npm start`.
+
+4. Run the tests `npm test`.
+
+5. (Optional) To debug tests, you can `./node_modules/cypress/bin/cypress open` to view the interactive UI and select the tests to run:
+
+![Cypress Tests UI](./tests-ui.png)
+
 ### Deploy changes
 
-Changes pushed/merged to master are deployed automatically. If you need to deploy manually, merge the pull request in GitHub and then in your terminal: 
+When you push to master (or merge a Pull Request), a [github action workflow](https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions) will be automatically called, and deploy your changes to the website. 
 
-`git checkout master && sh ./deploy.sh`
+You can see how it works in `.github/workflows/deploy.yml`

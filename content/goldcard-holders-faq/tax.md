@@ -44,10 +44,21 @@ If you came to Taiwan in 2015/2016/2017 and had a single 3/2/1 year work contrac
 
 
 You are not eligible under this interpretation if:
-* you worked in Taiwan before 2015
-* your contract didn’t extend into 2018
-* you had multiple contracts between 2015 and 2018.
-* you became a gold card holder in 2019
+* You worked in Taiwan before 2015
+* Your contract didn’t extend into 2018
+* You had multiple contracts between 2015 and 2018.
+* You became a gold card holder in 2019
+
+## When do I become a tax resident of Taiwan?
+Tax residency in Taiwan is separate to immigration/visa residency and is based on the number
+ of days you are physically in Taiwan.
+
+* If you are in Taiwan for 183 days or more, you are a tax resident and must file taxes in Taiwan
+* If you are in Taiwan for more than 90 days but less than 183 days you are not considered a tax resident but must still file a tax return in Taiwan
+* For stays in Taiwan of less than 90 days per year, there are only limited cases you need to file a tax return.
+
+Further information is available from the [National Taxation Bureau](https://www.ntbt.gov.tw/English/singlehtml/71b35f4132414a35a91daf5aeebbb801?cntId=50d25ba6f78a4abc9ac8b88ccb4c2231).
+
 
 ## When do I file tax in Taiwan?
 The financial year is January 1st to December 31st. Tax is filed each year from May 1st to the end of the month. 
@@ -63,3 +74,18 @@ The National Taxation Bureau provides free professional taxation consultation se
 During "tax season" there are dedicated English language counters for tax filing at
 National Taxation Bureau offices in major cities.
 
+## My salary is paid by an overseas company, where do I pay tax?
+In general Taiwan, and sometimes also in the overseas country.
+
+If you stay in Taiwan for more than 90 days in a year, money you get for work you perform residing in Taiwan
+ is considered Taiwan-sourced income. This is true regardless of whether your salary is paid to you in an account
+ in Taiwan or overseas. Therefore, you will pay tax in Taiwan at the standard rates. You may refer to the 
+ [National Tax Bureau's explanation](https://www.ntbt.gov.tw/English/multiplehtml/528c4cdfd10f455b9ad439c6a0642b2b),
+  or the [Income Tax law](https://law.moj.gov.tw/ENG/LawClass/LawSearchContent.aspx?pcode=G0340003&norge=8).
+
+However, paying tax in Taiwan does not necessarily free you of your tax obligations in other countries.
+ You should research the [international tax agreements](https://investtaiwan.nat.gov.tw/showPage?lang=eng&search=58)
+ between your country and Taiwan. In many cases these, in addition to foreign tax credits in some jurisdictions,
+ will prevent you from paying a double tax burden.
+
+As always, please seek professional advice.

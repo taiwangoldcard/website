@@ -1,5 +1,6 @@
 +++
 title = "Taiwan Gold Card"
+description = "We are a strong community of professionals with Taiwan Gold Card visa. We happily help newcomers and support each other within the Gold Card community"
 +++
 
 {{< section "newApplicant" >}}
@@ -30,7 +31,5 @@ title = "Taiwan Gold Card"
 {{< section "latestNews" >}}{{< /section >}}
 
 {{< section "homePicture" >}}
-
-![Taiwan](./images/taiwan-unsplash.jpeg)
 
 {{< /section >}}

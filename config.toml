@@ -53,7 +53,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # Integrate Javascript files by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "js/myscript.js"
-  customJS  = ["js/news_display.js"]
+  customJS  = []
 
   time_format_blog = "Monday, January 02, 2006"
   time_format_default = "January 2, 2006"
@@ -65,3 +65,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     name = "Apply"
     icon = "github.svg"
     url = "https://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/golden-card"
+
+[outputs]
+  home = ["HTML", "AMP", "RSS"]
+  page = ["HTML", "AMP"]
+  section = ["HTML", "AMP", "RSS"]

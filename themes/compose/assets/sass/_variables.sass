@@ -1,5 +1,5 @@
 // #161d21; // #1F2A2F; // #132433; // #24292e;
-html 
+html
   --light: #fff
   --dark: rgb(28,28,30)
   --haze: #f2f5f2
@@ -9,20 +9,20 @@ html
   --overlay: var(--light)
   --text: var(--dark)
   --theme: #20c997
-  --font: 'Metropolis',-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji
+  --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 
 $tabletBreakPoint: 960px
 $phoneBreakPoint: 768px
 
 @media (prefers-color-scheme: dark)
-  html 
+  html
     *
-      box-shadow: none !important 
+      box-shadow: none
     --bg: var(--dark)
     --text: var(--light)
     --accent: var(--bubble)
     --overlay: var(--bubble)
 
-%narrow 
+%narrow
   max-width: 750px
   margin: 0 auto

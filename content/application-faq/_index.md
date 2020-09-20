@@ -3,6 +3,7 @@
 title: "Gold Card Application FAQ"
 weight: 1
 description: How to apply for the Taiwan Gold Card. How to qualify for the Taiwan Gold Card. What is the application process? How long does it take? What does "Professional Review by Workforce Development Agency" mean?
+url: /application-faq
 ---
 The Taiwan Employment Gold Card is a combined open work permit, residence permit and visa for
 skilled professionals. Please choose a menu entry to find out more [about the card](/application-faq/what-is-taiwan-gold-card/),
@@ -22,10 +23,12 @@ If you are in Taiwan, you can head over the [National Immigration Agency](https:
  if you'd like to talk face to face to an agent. There is also [a list of helpful contact information](/application-faq/application/#who-can-i-talk-to-about-this)
 
 
-<script src="https://unpkg.com/driver.js/dist/driver.min.js"></script>
-<link rel="stylesheet" href="https://unpkg.com/driver.js/dist/driver.min.css">
+<!--
+<script src="https://unpkg.com/driver.js@0.9.8/dist/driver.min.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/driver.js@0.9.8/dist/driver.min.css">
 
 <script>
     // const driver = new Driver();
     // driver.highlight('#docs-the-gold-card-application-faq');
 </script>
+-->

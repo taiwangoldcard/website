@@ -4,10 +4,13 @@
 {{- $searchPath := "js/search.js" }}
 {{- $search := resources.Get $searchPath | resources.ExecuteAsTemplate $searchPath . }}
 
+{{- $newsDisplayPath := "js/news_display.js" }}
+{{- $newsDisplay := resources.Get $newsDisplayPath | resources.ExecuteAsTemplate $newsDisplayPath . }}
+
 {{- $mainScriptPath := "js/index.js" }}
 {{- $main := resources.Get $mainScriptPath | resources.ExecuteAsTemplate $mainScriptPath . }}
 
-{{- $bundle := slice $lunr $search $main | resources.Concat "js/bundle.js" | resources.Minify | resources.Fingerprint "sha512" }}
+{{- $bundle := slice $lunr $search $main $newsDisplay | resources.Concat "js/bundle.js" | resources.Minify | resources.Fingerprint "sha512" }}
 <script src = '{{ $bundle.Permalink }}'></script>
 
 <!-- Integrate custom JS -->
