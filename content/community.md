@@ -29,6 +29,26 @@ I completed my PhD in 2009 in the midst of the financial crisis. There were no E
 
 {{< column >}}
 
+### Michael Bowcutt, Science & Technology
+<img style="float:left; padding: 5px; margin: 10px;" width="200px" height="200px" src="/images/goldies/michael_bowcutt.png" />
+
+**Background**: USA Citizen, Mechanical Engineering Degree (Turned Software Engineering), Served a Mission for The Church of Jesus Christ of Latter-Day Saints from 2011-2013 in Taiwan, Fluent in Chinese, Married to USA Citizen (Also fluent in Chinese) with 3 little boys (3, 2, and 9 months, they also speak Chinese!)
+
+**Why Taiwan?**: Taiwan was already a second home to me.  The company I work with (www.RomaricCorp.com) wanted to establish an Asia Area Office, and Taiwan was the perfect location from a geological, linguistic, and technological standpoint. The Gold Card was one additional benefit that Taiwan offered.
+
+**What are you currently doing in Taiwan?** I am currently working for Romaric Corp as the Asia Area Manager.  We provide world-class automated Material Control Systems in Factories, warehousing structures, and other industries seeking full automation. I am also open to collaborating/assisting in other projects in Taiwan as requested.
+
+I am currently working for [Romaric Corp](https://www.romariccorp.com/) as the Asia Area Manager.  We provide world-class automated Material Control Systems in Factories, warehousing structures, and other industries seeking full automation. I am also open to collaborating/assisting in other projects in Taiwan as requested.
+
+
+
+{{< /column >}}
+
+{{< /block >}}
+
+
+{{< block "grid-2 mt-2 homepage-div" >}}
+{{< column >}}
 ### Patrick Ng, Education
 <img style="float:left; padding: 5px; margin: 10px;" width="200px" height="200px" src="/images/goldies/patrick-ng.png" />
 
@@ -41,12 +61,11 @@ I completed my PhD in 2009 in the midst of the financial crisis. There were no E
 I am a co-author on the [JAMA paper](https://jamanetwork.com/journals/jama/fullarticle/2762689) that raised Taiwan's profile to the international community for its excellent COVID-19 response:  I continue to be on the lookout for interesting healthcare startups and folks who are thinking critically about health policy reform. 
 
 
+
+
+
 {{< /column >}}
 
-{{< /block >}}
-
-
-{{< block "grid-2 mt-2 homepage-div" >}}
 {{< column >}}
 
 ### Tom Fifield, Science and Technology
@@ -63,8 +82,13 @@ I am a co-author on the [JAMA paper](https://jamanetwork.com/journals/jama/fulla
 I was recently approved for Taiwanese citizenship!
 
 
+
 {{< /column >}}
 
+
+{{< /block >}}
+
+{{< block "grid-2 mt-2 homepage-div" >}}
 {{< column >}}
 
 ### Zachary Hwang, Science and Technology
@@ -83,9 +107,7 @@ Within my 3 years of having the Gold Card visa, I want to establish an energy te
 
 {{< /column >}}
 
-
-
-
 {{< /block >}}
+
 
 > #### We are a community of more than 150+ Gold Card Holders. We meet regularly through monthly events. If you have the Employment Gold Card and want be part to the community, feel free to fill the [Google Form](https://forms.gle/K88uVy2jMW61DpT2A)
