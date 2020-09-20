@@ -1,6 +1,11 @@
 +++
-title = "🚨 This page isn't public and under construction - Please Do not share it yet"
+title = "Taiwan Gold Card Community"
 +++
+
+
+> #### We are a community of more than 150+ Gold Card Holders. We meet regularly through monthly events. If you have the Employment Gold Card and want be part to the community, feel free to fill the [Google Form](https://forms.gle/K88uVy2jMW61DpT2A)
+
+
 
 {{< block "grid-2 mt-2 homepage-div" >}}
 
@@ -83,3 +88,4 @@ Within my 3 years of having the Gold Card visa, I want to establish an energy te
 
 {{< /block >}}
 
+> #### We are a community of more than 150+ Gold Card Holders. We meet regularly through monthly events. If you have the Employment Gold Card and want be part to the community, feel free to fill the [Google Form](https://forms.gle/K88uVy2jMW61DpT2A)

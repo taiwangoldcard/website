@@ -24,6 +24,11 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     weight = 3
     url = "goldcard-holders-faq/"
 
+[[menu.main]]
+    name = "Community"
+    weight = 4
+    url = "community"
+
 
 [markup]
   [markup.goldmark]
