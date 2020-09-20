@@ -6,14 +6,16 @@ name: Deploy
 
 on:
   pull_request:
+    branches:
+      - master
     types: [closed]
 
 jobs:
   build:
-    if: github.event.pull_request.merged == true
     name: Deploy
     runs-on: ubuntu-latest
 
+    if: github.event.pull_request.merged == true
     steps:
       # -----
       # Grab the latest source
