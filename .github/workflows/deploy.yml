@@ -49,7 +49,7 @@ jobs:
       # -----
       # Create our nice commit
       # -----
-      - name: Commit Files and push
+      - name: Commit Files and Push
         run: |
           git config --global user.name '@taiwan-bot'
           git config --global user.email 'taiwan-bot@users.noreply.github.com'
