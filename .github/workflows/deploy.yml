@@ -57,11 +57,4 @@ jobs:
           CURRENTDATE=`date +"%m/%d/%Y %H:%M"`
           git add .
           git commit -am "Deploy ${CURRENTDATE} 🚀"
-
-      # -----
-      # Push changes using the action github token: https://github.com/ad-m/github-push-action
-      # -----
-      - name: Push Changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          git push
