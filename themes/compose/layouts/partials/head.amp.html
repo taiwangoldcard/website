@@ -7,7 +7,11 @@
 <meta name="google-site-verification" content="ssem7gWSWWGbmykaqKgVqugutzJpiZLR71gE3g4ifs0" />
 
 {{ range .AlternativeOutputFormats -}}
-<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+  {{ if eq .Rel "canonical" }}
+    <link rel="{{ .Rel }}" href="{{ .Permalink | safeURL }}">
+  {{ else }}
+    <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+  {{ end }}
 {{ end -}}
 <link rel="apple-touch-icon" sizes="180x180" href='{{ absURL (printf "%sapple-touch-icon.png" $iconsPath) }}'>
 <link rel="icon" type="image/png" sizes="32x32" href='{{ absURL (printf "%sfavicon-32x32.png" $iconsPath) }}'>
