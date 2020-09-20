@@ -12,7 +12,7 @@ title = "Taiwan Gold Card Community"
 {{< column >}}
 
 ### Hasnaa Fatehi, PhD, Economy
-<img style="float:left; padding: 10px" width="200px" height="200px" src="/images/goldies/hasnaa.png" />
+<img style="float:left; padding: 5px; margin: 10px;" width="200px" height="200px" src="/images/goldies/hasnaa.png" />
 
 **Background**: Moroccan with degrees in Science from France (Msc) and Germany (PhD), I was naturalized Canadian in late 2018.
 I completed my PhD in 2009 in the midst of the financial crisis. There were no European work permits to be provided for North-Africans like me, even with a PhD in Science. I applied for the Singaporean program EPEC, a grad student friend of mine had pointed me to, and was approved after three weeks only. I left for Singapore where I started my Regulatory career at P&G, it was an amazing experience! Ironically, when I was contemplating applying for the TW Gold Card, I read that it was designed after the Singaporean EPEC. This is the point at which I knew I would qualify if I applied. I am very glad to be back to Asia.
@@ -30,7 +30,7 @@ I completed my PhD in 2009 in the midst of the financial crisis. There were no E
 {{< column >}}
 
 ### Patrick Ng, Education
-<img style="float:left; padding: 10px" width="200px" height="200px" src="/images/goldies/patrick-ng.png" />
+<img style="float:left; padding: 5px; margin: 10px;" width="200px" height="200px" src="/images/goldies/patrick-ng.png" />
 
 **Background**: I'm originally from Hong Kong and grew up in the United States. I have a BA from the University of Pennsylvania and an MBA and MPH from Boston University. My background is primarily in hospital administration, health policy research, and medical device startups. I am also involved in church and recently helped start [Thrive Church](http://www.thrivetaipei.com/) that ministers to college students and young adults in Taipei. 
 
@@ -50,7 +50,7 @@ I am a co-author on the [JAMA paper](https://jamanetwork.com/journals/jama/fulla
 {{< column >}}
 
 ### Tom Fifield, Science and Technology
-<img style="float:left; padding: 10px" width="200px" height="200px" src="/images/goldies/tom.png" />
+<img style="float:left; padding: 5px; margin: 10px;" width="200px" height="200px" src="/images/goldies/tom.png" />
 
 
 **Background**: I am an expert in distributed systems (got my start in famous particle physics experiments) and used to manage one of the largest Open Source user communities in the world.
@@ -69,7 +69,7 @@ I was recently approved for Taiwanese citizenship!
 
 ### Zachary Hwang, Science and Technology
 
-<img style="float:left; padding: 10px" width="200px" height="200px" src="/images/goldies/zach.png" />
+<img style="float:left; padding: 5px; margin: 10px;" width="200px" height="200px" src="/images/goldies/zach.png" />
 
 **Background**: University of Michigan - B.S. Mechanical Engineering and Masters in Technology Commercialization
 
