@@ -52,8 +52,7 @@ jobs:
       - name: Commit Files
         run: |
           git config --global user.name '@taiwan-bot'
-          git config --local user.email 'taiwan-bot@users.noreply.github.com'
-          git config --local user.name "GitHub Action"
+          git config --global user.email 'taiwan-bot@users.noreply.github.com'
           CURRENTDATE=`date +"%m/%d/%Y %H:%M"`
           git add .
           git commit -am "Deploy ${CURRENTDATE} 🚀"
