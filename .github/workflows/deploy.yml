@@ -5,12 +5,12 @@ name: Deploy
 # -----
 
 on:
-  push:
-    branches:
-      - master
+  pull_request:
+    types: [closed]
 
 jobs:
   build:
+    if: github.event.pull_request.merged == true
     name: Deploy
     runs-on: ubuntu-latest
 
