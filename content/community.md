@@ -3,7 +3,7 @@ title = "Taiwan Gold Card Community"
 +++
 
 
-> #### We are a community of more than 150+ Gold Card Holders. We meet regularly through monthly events. If you have the Employment Gold Card and want be part to the community, feel free to fill the [Google Form](https://forms.gle/K88uVy2jMW61DpT2A)
+> #### We are a community of more than 150+ Gold Card Holders supporting each others. We meet regularly through monthly events. If you have the Employment Gold Card and want be part to the community, feel free to fill the [Google Form](https://forms.gle/K88uVy2jMW61DpT2A)
 
 
 
@@ -34,7 +34,7 @@ I completed my PhD in 2009 in the midst of the financial crisis. There were no E
 
 **Background**: USA Citizen, Mechanical Engineering Degree (Turned Software Engineering), Served a Mission for The Church of Jesus Christ of Latter-Day Saints from 2011-2013 in Taiwan, Fluent in Chinese, Married to USA Citizen (Also fluent in Chinese) with 3 little boys (3, 2, and 9 months, they also speak Chinese!)
 
-**Why Taiwan?**: Taiwan was already a second home to me.  The company I work with (www.RomaricCorp.com) wanted to establish an Asia Area Office, and Taiwan was the perfect location from a geological, linguistic, and technological standpoint. The Gold Card was one additional benefit that Taiwan offered.
+**Why Taiwan?**: Taiwan was already a second home to me.  The company I work with wanted to establish an Asia Area Office, and Taiwan was the perfect location from a geological, linguistic, and technological standpoint. The Gold Card was one additional benefit that Taiwan offered.
 
 **What are you currently doing in Taiwan?** I am currently working for Romaric Corp as the Asia Area Manager.  We provide world-class automated Material Control Systems in Factories, warehousing structures, and other industries seeking full automation. I am also open to collaborating/assisting in other projects in Taiwan as requested.
 
@@ -110,4 +110,4 @@ Within my 3 years of having the Gold Card visa, I want to establish an energy te
 {{< /block >}}
 
 
-> #### We are a community of more than 150+ Gold Card Holders. We meet regularly through monthly events. If you have the Employment Gold Card and want be part to the community, feel free to fill the [Google Form](https://forms.gle/K88uVy2jMW61DpT2A)
+> #### We are a community of more than 150+ Gold Card Holders supporting each others. We meet regularly through monthly events. If you have the Employment Gold Card and want be part to the community, feel free to fill the [Google Form](https://forms.gle/K88uVy2jMW61DpT2A)
