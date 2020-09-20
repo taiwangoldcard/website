@@ -8,11 +8,11 @@
 {{- end }}
 */}}
 
-{{ .Scratch.Set "output-format" "html" }}
+{{ .Scratch.Set "output-format" "amp" }}
 
-<html lang="{{ .Site.Language.Lang }}">
+<html amp lang="{{ .Site.Language.Lang }}">
 <head>
-  {{- partial "head" . }}
+  {{- partial "head.amp" . }}
 </head>
 <body class="page-{{ .Kind }}">
 <!-- Google Tag Manager (noscript) -->
@@ -20,16 +20,15 @@
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
   <header class="mainHeader">
-    {{- partial "nav" . }}
+    {{- partial "nav.amp" . }}
   </header>
   <main class="main wrap md">
     {{- if or (eq .Section "application-faq")  (eq .Section "goldcard-holders-faq") }}
-    {{- partial "document" . }}
+    {{- partial "document.amp" . }}
     {{- else }}
     {{- block "main" . }}{{ end }}
     {{- end }}
   </main>
   {{- partial "footer" . }}
-  {{- partial "scripts" . }}
 </body>
 </html>

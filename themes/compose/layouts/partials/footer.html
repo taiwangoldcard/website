@@ -1,7 +1,14 @@
 {{ if .Site.Params.enableCopyright | default true }}
 <footer class="mt-2 pt-2 pb-2">
   <div class="wrap">
-    <p><a href="/about">About us</a> | <a href="/terms">Terms</a> | Maintained by Gold Card Holders, not affiliated with any government departments, seek professional advice.</p>
+    <p>
+    {{ if eq ($.Scratch.Get "output-format") "amp" }}
+      <a href="/amp/about">About us</a> | <a href="/amp/terms">Terms</a>
+    {{ else }}
+      <a href="/about">About us</a> | <a href="/terms">Terms</a>
+    {{ end }}
+    | Maintained by Gold Card Holders, not affiliated with any government departments, seek professional advice.
+    </p>
   </div>
 </footer>
 {{ end }}
