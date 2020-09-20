@@ -14,8 +14,6 @@ jobs:
   build:
     name: Deploy
     runs-on: ubuntu-latest
-
-    if: github.event.pull_request.merged == true
     steps:
       # -----
       # Grab the latest source
