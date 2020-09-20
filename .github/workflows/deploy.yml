@@ -5,21 +5,24 @@ name: Deploy
 # -----
 
 on:
-  push:
+  pull_request:
     branches:
       - master
+    types: [closed]
 
 jobs:
   build:
+    if: github.event.pull_request.merged == true
     name: Deploy
     runs-on: ubuntu-latest
-
     steps:
       # -----
       # Grab the latest source
       # -----
       - name: Checkout
         uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.DEPLOY_BOT_TOKEN }}
 
       # -----
       # Install Hugo: https://github.com/peaceiris/actions-hugo
@@ -27,7 +30,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.74.3'
+          hugo-version: "0.74.3"
           extended: true
 
       # -----
@@ -47,18 +50,11 @@ jobs:
       # -----
       # Create our nice commit
       # -----
-      - name: Commit Files
+      - name: Commit Files and Push
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --global user.name '@taiwan-bot'
+          git config --global user.email 'taiwan-bot@users.noreply.github.com'
           CURRENTDATE=`date +"%m/%d/%Y %H:%M"`
           git add .
           git commit -am "Deploy ${CURRENTDATE} 🚀"
-
-      # -----
-      # Push changes using the action github token: https://github.com/ad-m/github-push-action
-      # -----
-      - name: Push Changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          git push

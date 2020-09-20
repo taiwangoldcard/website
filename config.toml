@@ -63,3 +63,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     name = "Apply"
     icon = "github.svg"
     url = "https://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/golden-card"
+
+[outputs]
+  home = ["HTML", "AMP", "RSS"]
+  page = ["HTML", "AMP"]
+  section = ["HTML", "AMP", "RSS"]
