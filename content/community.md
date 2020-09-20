@@ -6,7 +6,7 @@ title = "🚨 This page isn't public and under construction - Please Do not shar
 
 {{< column >}}
 
-### Hasnaa, Culture and Arts
+### Hasnaa Fatehi, PhD, Economy
 <img style="float:left; padding: 10px" width="200px" height="200px" src="/images/goldies/hasnaa.png" />
 
 **Background**: Moroccan with degrees in Science from France (Msc) and Germany (PhD), I was naturalized Canadian in late 2018.
