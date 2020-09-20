@@ -20,6 +20,13 @@ jobs:
       # -----
       - name: Checkout
         uses: actions/checkout@v2
+        with:
+          token: $${{ secrets.DEPLOY_BOT_TOKEN }}
+
+      - name: Configure CI Git User
+        run: |
+          git config --global user.name '@taiwan-bot'
+          git config --global user.email 'taiwan-bot@users.noreply.github.com'
 
       # -----
       # Install Hugo: https://github.com/peaceiris/actions-hugo
@@ -27,7 +34,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.74.3'
+          hugo-version: "0.74.3"
           extended: true
 
       # -----
