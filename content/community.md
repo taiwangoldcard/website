@@ -9,7 +9,7 @@ title = "🚨 This page isn't public and under construction - Please Do not shar
 ### Hasnaa, Culture and Arts
 <img style="float:left; padding: 10px" width="200px" height="200px" src="/images/goldies/hasnaa.png" />
 
-**Backround**: Moroccan with degrees in Science from France (Msc) and Germany (PhD), I was naturalized Canadian in late 2018.
+**Background**: Moroccan with degrees in Science from France (Msc) and Germany (PhD), I was naturalized Canadian in late 2018.
 I completed my PhD in 2009 in the midst of the financial crisis. There were no European work permits to be provided for North-Africans like me, even with a PhD in Science. I applied for the Singaporean program EPEC, a grad student friend of mine had pointed me to, and was approved after three weeks only. I left for Singapore where I started my Regulatory career at P&G, it was an amazing experience! Ironically, when I was contemplating applying for the TW Gold Card, I read that it was designed after the Singaporean EPEC. This is the point at which I knew I would qualify if I applied. I am very glad to be back to Asia.
 
 
@@ -27,7 +27,7 @@ I completed my PhD in 2009 in the midst of the financial crisis. There were no E
 ### Patrick Ng, Education
 <img style="float:left; padding: 10px" width="200px" height="200px" src="/images/goldies/patrick-ng.png" />
 
-**Backround**: I'm originally from Hong Kong and grew up in the United States. I have a BA from the University of Pennsylvania and an MBA and MPH from Boston University. My background is primarily in hospital administration, health policy research, and medical device startups. I am also involved in church and recently helped start [Thrive Church](http://www.thrivetaipei.com/) that ministers to college students and young adults in Taipei. 
+**Background**: I'm originally from Hong Kong and grew up in the United States. I have a BA from the University of Pennsylvania and an MBA and MPH from Boston University. My background is primarily in hospital administration, health policy research, and medical device startups. I am also involved in church and recently helped start [Thrive Church](http://www.thrivetaipei.com/) that ministers to college students and young adults in Taipei. 
 
 **Why Taiwan?**: I used to visit Taiwan almost every year for the past decade on work-related trips and saw just how amazing this country is and how friendly the people are. When an opportunity opened up to help in a research and education initiative in Taipei, it seemed like a great fit so my family relocated from Boston a couple years ago. As I have spent more time in Taiwan, it further cemented the feeling that we made the right decision: 1) convenience - efficient public transportation system in Taipei, 7-elevens on every block, restaurants and grocery stores within easy reach, 2) social equality - universal health care coverage and civil liberties, 3) people - warm, friendly, and helpful, 4) safe, and 5) Costco - there are 5 in Taipei!
 
@@ -48,7 +48,7 @@ I am a co-author on the [JAMA paper](https://jamanetwork.com/journals/jama/fulla
 <img style="float:left; padding: 10px" width="200px" height="200px" src="/images/goldies/tom.png" />
 
 
-**Backround**: I am an expert in distributed systems (got my start in famous particle physics experiments) and used to manage one of the largest Open Source user communities in the world.
+**Background**: I am an expert in distributed systems (got my start in famous particle physics experiments) and used to manage one of the largest Open Source user communities in the world.
 
 **Why Taiwan?**: In a previous job, Taipei was the Asia-Pacific regional center. I was coming here a lot for conferences, built up a friendship network, got to know the daily life and had a strong feeling that I could live here. When I got a job where I could choose to live anywhere in the world, I moved and haven't looked back!
 
@@ -66,7 +66,7 @@ I was recently approved for Taiwanese citizenship!
 
 <img style="float:left; padding: 10px" width="200px" height="200px" src="/images/goldies/zach.png" />
 
-**Backround**: University of Michigan - B.S. Mechanical Engineering and Masters in Technology Commercialization
+**Background**: University of Michigan - B.S. Mechanical Engineering and Masters in Technology Commercialization
 
 **Why Taiwan?**: I wanted to learn Chinese which I realized was an important language in international business, particularly in China-Africa relations.
 Additionally, I wanted a more drastic change-up from my regular life and job in America and do something a little crazier, like traveling and getting back into startups. The low cost of living and tech ecosystem in Taiwan was very attractive towards this dream.
