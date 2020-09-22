@@ -66,5 +66,5 @@ You can see how it works in `.github/workflows/deploy.yml`
 
 ### Contribution
 
-1. Feel free to contribute code by creating a branch off this repo, then raising a [Pull Request](https://github.com/taiwangoldcard/website/pulls).
+1. Feel free to contribute code by creating a **branch** (please don't fork or else the github secrets won't work!) off this repo, then raising a [Pull Request](https://github.com/taiwangoldcard/website/pulls).
 2. Alternatively, use the [issues](https://github.com/taiwangoldcard/website/issues) page to raise ideas / suggestions.
