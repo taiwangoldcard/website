@@ -1,0 +1,46 @@
+<nav class="mainNavigation">
+	<a class="mainNavigation_logoLink" href="/amp">
+    {{- $logos := .Site.Params.logo }}
+    {{- $normalPath := absURL (printf "images/%s" $logos.lightMode) }}
+    {{- $darkPath := absURL (printf "images/%s" $logos.darkMode) }}
+    <!-- TODO need to add back light mode picture -->
+		<amp-img
+      srcset="{{ $darkPath }}"
+      media="(prefers-color-scheme: dark)"
+      width="188"
+      height="24"
+      alt="🇹🇼 Taiwan Gold Card"
+      >
+		</amp-img>
+	</a>
+	<ul class="mainNavigation_menu">
+		{{- $p := . }}
+		{{- range .Site.Menus.main }}
+		<li class="nav-item">
+			{{- $active := or ($p.IsMenuCurrent "main" .) ($p.HasMenuCurrent "main" .) }}
+			{{- with .Page }}
+			{{- $active = or $active ( $.IsDescendant .)  }}
+			{{- end }}
+
+      <!-- If the url does not start with the base URL, it's an external link -->
+      {{ if hasPrefix (absURL .URL) $.Site.BaseURL }}
+      {{ $refLink := ref $p (dict "path" .URL "outputFormat" "amp") }}
+      <a class="nav-link{{if $active }} active{{end}}" href="{{ $refLink }}">
+        <span{{if $active }} class="active"{{end}}>{{ .Name }}</span>
+      </a>
+			{{else}}
+			{{- $url := urls.Parse .URL }}
+      <a class="nav-link{{if $active }} active{{end}}" href="{{ $url }}">
+        <span{{if $active }} class="active"{{end}}>{{ .Name }}</span>
+      </a>
+			{{end}}
+
+		</li>
+		{{- end }}
+		{{ $repo := .Site.Params.source }}
+
+		<!-- <li class="nav-item">
+			<a class="nav-link" href="{{ $repo.url }}">{{ $repo.name }}</a>
+		</li> -->
+	</ul>
+</nav>
