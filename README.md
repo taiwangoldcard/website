@@ -63,3 +63,8 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
 When you push to master (or merge a Pull Request), a [github action workflow](https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions) will be automatically called, and deploy your changes to the website. 
 
 You can see how it works in `.github/workflows/deploy.yml`
+
+### Contribution
+
+1. Feel free to contribute code by creating a branch off this repo, then raising a Pull Request.
+2. Alternatively, use the [issues](https://github.com/taiwangoldcard/website/issues) page to raise ideas / suggestions.
