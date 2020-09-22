@@ -7,12 +7,12 @@ description: Health Insurance information for Taiwan Gold Card Holders and their
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. -->
 
 ## What health insurance is available in Taiwan?
-All who are eligible for National Health Insurance (NHI) **must enrol** into the program, which provides comprehensive and inexpensive coverage. Eligibility varies slightly depending on your employment status. If you aren't eligible for NHI then there are also a range of local and international private health insurance options available.
+All who are eligible for National Health Insurance (NHI) **must enroll** into the program, which provides comprehensive and inexpensive coverage. Eligibility varies slightly depending on your employment status. If you aren't eligible for NHI then there are also a range of local and international private health insurance options available.
 
 You can check the [NHI website](https://www.nhi.gov.tw/english/Content_List.aspx?n=C88B41A4EAB5E692&topn=778856C209BCE527) for more details.
 
-## How do I enrol into the program
-If you have an employer in Taiwan then they will enrol you into the program.
+## How do I enroll into the program
+If you have an employer in Taiwan then they will enroll you into the program.
 
 If you don't have an employer, and you are past the six month waiting period (see below), you can apply for your NHI card at your local national health administration bureau. The process is the same as for any resident in Taiwan. Please check with your [local office](https://www.nhi.gov.tw/DL.aspx?sitessn=293&u=LzAwMS9VcGxvYWQvMjkzL3JlbGZpbGUvMC8xOTkwMy9uaGlhZGRyZXNzbGlzdC5wZGY%3d&n=TkhJQWRkcmVzc0xpc3QucGRm) on what materials you will need to bring. It usually takes around seven working days.
 
@@ -20,7 +20,7 @@ If you don't have an employer, and you are past the six month waiting period (se
 Yes. Once your spouse and/or any minor children receive their residence cards, they can register
  for their health insurance card as your dependants. They are immediately eligible and have
  no waiting period once you are enrolled in NHI, be sure to tell your employer about your
- dependants so they can update your enrolment information.
+ dependants so they can update your enrollment information.
 
 ## I'm a freelancer/I don't have an employer, how do I register with the NHI?
 At present, you must reside in Taiwan for a consecutive six-month period (or leave only once for less than 30 days) and apply directly with the NHI. There is currently a [legislative push](https://www.ndc.gov.tw/en/Content_List.aspx?n=999F9864EFDB5F6F&upn=6CE244D6E7DAF831)
@@ -45,7 +45,7 @@ We know it's not ideal, but here some ways our community has solved this problem
 - Get private health insurance. Other gold card holders might have some recommendations. [You can ask the community](https://forms.gle/K88uVy2jMW61DpT2A) and mention your nationality.
 
 ## Is NHI mandatory?
-You **must** enrol when you are eligible. The National Health Insurance program is [compulsory](http://www.nhi.gov.tw/Resource/webdata/26143_1_1050203The%20legal%20foreign%20residents%20must%20enroll%20in%20the%20NHI%20Program.pdf).
+You **must** enroll when you are eligible. The National Health Insurance program is [compulsory](http://www.nhi.gov.tw/Resource/webdata/26143_1_1050203The%20legal%20foreign%20residents%20must%20enroll%20in%20the%20NHI%20Program.pdf).
 
 > The National Health Insurance program is a compulsory social insurance
 > program. By law, [...] foreign national living in Taiwan with an Alien Resident
