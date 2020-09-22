@@ -37,7 +37,9 @@ jobs:
       # Generate site content
       # -----
       - name: Generate Content
-        run: hugo
+        run: |
+          rm -rf docs
+          hugo
 
       # -----
       # Look for broken links (this is broken >.< - disable for now)
