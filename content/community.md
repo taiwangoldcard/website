@@ -36,9 +36,7 @@ I completed my PhD in 2009 in the midst of the financial crisis. There were no E
 
 **Why Taiwan?**: Taiwan was already a second home to me.  The company I work with wanted to establish an Asia Area Office, and Taiwan was the perfect location from a geological, linguistic, and technological standpoint. The Gold Card was one additional benefit that Taiwan offered.
 
-**What are you currently doing in Taiwan?** I am currently working for Romaric Corp as the Asia Area Manager.  We provide world-class automated Material Control Systems in Factories, warehousing structures, and other industries seeking full automation. I am also open to collaborating/assisting in other projects in Taiwan as requested.
-
-I am currently working for [Romaric Corp](https://www.romariccorp.com/) as the Asia Area Manager.  We provide world-class automated Material Control Systems in Factories, warehousing structures, and other industries seeking full automation. I am also open to collaborating/assisting in other projects in Taiwan as requested.
+**What are you currently doing in Taiwan?** I am currently working for [Romaric Corp](https://www.romariccorp.com/) as the Asia Area Manager.  We provide world-class automated Material Control Systems in Factories, warehousing structures, and other industries seeking full automation. I am also open to collaborating/assisting in other projects in Taiwan as requested.
 
 
 
