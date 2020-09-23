@@ -3,7 +3,7 @@ title = "Taiwan Gold Card Community"
 +++
 
 
-> #### We are a community of more than 150+ Gold Card Holders supporting each others. We meet regularly through monthly events. If you have the Employment Gold Card and want be part to the community, feel free to fill the [Google Form](https://forms.gle/K88uVy2jMW61DpT2A)
+> #### We are a community of more than 150+ Gold Card Holders supporting each others. We meet regularly through monthly events. If you have the Employment Gold Card and want to join the community, feel free to fill the [Google Form](https://forms.gle/K88uVy2jMW61DpT2A)
 
 
 
@@ -110,4 +110,4 @@ Within my 3 years of having the Gold Card visa, I want to establish an energy te
 {{< /block >}}
 
 
-> #### We are a community of more than 150+ Gold Card Holders supporting each others. We meet regularly through monthly events. If you have the Employment Gold Card and want be part to the community, feel free to fill the [Google Form](https://forms.gle/K88uVy2jMW61DpT2A)
+> #### We are a community of more than 150+ Gold Card Holders supporting each others. We meet regularly through monthly events. If you have the Employment Gold Card and want to join the community, feel free to fill the [Google Form](https://forms.gle/K88uVy2jMW61DpT2A)
