@@ -105,6 +105,23 @@ Within my 3 years of having the Gold Card visa, I want to establish an energy te
 
 {{< /column >}}
 
+{{< column >}}
+
+### Colum Brolly, Science and Technology
+<img style="float:left; padding: 5px; margin: 10px;" width="200px" height="200px" src="/images/goldies/colum.png" />
+
+
+**Background**: Seasoned professional in software engineering from Ireland. I have a Bachelor's Degree in Computer Science from Ulster University. Worked on major systems within the aviation industry.
+
+**Why Taiwan?**: Having worked in the aviation industry with airlines and airports around the world I discovered Taiwan through business. I visited this wonderful island and really enjoyed my time and could see myself living here. The announcement came out in February 2018 that the Gold Card program had launched, I decided to apply soon after the launch. Once approved I then relocated to Taiwan and have been happily living here since.
+
+
+**What are you currently doing in Taiwan?** I work for a company called [TPIsoftware](https://www.tpisoftware.com/en/) primarily on financial software for the major banks. I am also doing global business development to take on more projects from customers globally. If anyone is taking on any endeavours and would like some assistance, feel free to reach out.
+
+
+
+{{< /column >}}
+
 {{< /block >}}
 
 
