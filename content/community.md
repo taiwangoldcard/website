@@ -29,26 +29,6 @@ I completed my PhD in 2009 in the midst of the financial crisis. There were no E
 
 {{< column >}}
 
-### Michael Bowcutt, Science & Technology
-<img style="float:left; padding: 5px; margin: 10px;" width="200px" height="200px" src="/images/goldies/michael_bowcutt.png" />
-
-**Background**: USA Citizen, Mechanical Engineering Degree (Turned Software Engineering), Served a Mission for The Church of Jesus Christ of Latter-Day Saints from 2011-2013 in Taiwan, Fluent in Chinese, Married to USA Citizen (Also fluent in Chinese) with 3 little boys (3, 2, and 9 months, they also speak Chinese!)
-
-**Why Taiwan?**: Taiwan was already a second home to me.  The company I work with wanted to establish an Asia Area Office, and Taiwan was the perfect location from a geological, linguistic, and technological standpoint. The Gold Card was one additional benefit that Taiwan offered.
-
-**What are you currently doing in Taiwan?** I am currently working for Romaric Corp as the Asia Area Manager.  We provide world-class automated Material Control Systems in Factories, warehousing structures, and other industries seeking full automation. I am also open to collaborating/assisting in other projects in Taiwan as requested.
-
-I am currently working for [Romaric Corp](https://www.romariccorp.com/) as the Asia Area Manager.  We provide world-class automated Material Control Systems in Factories, warehousing structures, and other industries seeking full automation. I am also open to collaborating/assisting in other projects in Taiwan as requested.
-
-
-
-{{< /column >}}
-
-{{< /block >}}
-
-
-{{< block "grid-2 mt-2 homepage-div" >}}
-{{< column >}}
 ### Patrick Ng, Education
 <img style="float:left; padding: 5px; margin: 10px;" width="200px" height="200px" src="/images/goldies/patrick-ng.png" />
 
@@ -61,6 +41,23 @@ I am currently working for [Romaric Corp](https://www.romariccorp.com/) as the A
 I am a co-author on the [JAMA paper](https://jamanetwork.com/journals/jama/fullarticle/2762689) that raised Taiwan's profile to the international community for its excellent COVID-19 response:  I continue to be on the lookout for interesting healthcare startups and folks who are thinking critically about health policy reform. 
 
 
+{{< /column >}}
+
+{{< /block >}}
+
+
+{{< block "grid-2 mt-2 homepage-div" >}}
+{{< column >}}
+
+
+### Michael Bowcutt, Science & Technology
+<img style="float:left; padding: 5px; margin: 10px;" width="200px" height="200px" src="/images/goldies/michael_bowcutt.png" />
+
+**Background**: USA Citizen, Mechanical Engineering Degree (Turned Software Engineering), Served a Mission for The Church of Jesus Christ of Latter-Day Saints from 2011-2013 in Taiwan, Fluent in Chinese, Married to USA Citizen (Also fluent in Chinese) with 3 little boys (3, 2, and 9 months, they also speak Chinese!)
+
+**Why Taiwan?**: Taiwan was already a second home to me.  The company I work with wanted to establish an Asia Area Office, and Taiwan was the perfect location from a geological, linguistic, and technological standpoint. The Gold Card was one additional benefit that Taiwan offered.
+
+**What are you currently doing in Taiwan?** I am currently working for [Romaric Corp](https://www.romariccorp.com/) as the Asia Area Manager.  We provide world-class automated Material Control Systems in Factories, warehousing structures, and other industries seeking full automation. I am also open to collaborating/assisting in other projects in Taiwan as requested.
 
 
 
@@ -103,6 +100,23 @@ Additionally, I wanted a more drastic change-up from my regular life and job in 
 **What are you currently doing in Taiwan?** I'm currently teaching kids about technology at Skyrock Projects. We work on coding, robotics, and maker skills!
 
 Within my 3 years of having the Gold Card visa, I want to establish an energy technology startup company, develop key resources and partners in Taiwan, and then commercialize the technology to Africa.
+
+
+{{< /column >}}
+
+{{< column >}}
+
+### Colum Brolly, Science and Technology
+<img style="float:left; padding: 5px; margin: 10px;" width="200px" height="200px" src="/images/goldies/colum.png" />
+
+
+**Background**: Seasoned professional in software engineering from Ireland. I have a Bachelor's Degree in Computer Science from Ulster University. Worked on major systems within the aviation industry.
+
+**Why Taiwan?**: Having worked in the aviation industry with airlines and airports around the world I discovered Taiwan through business. I visited this wonderful island and really enjoyed my time and could see myself living here. The announcement came out in February 2018 that the Gold Card program had launched, I decided to apply soon after the launch. Once approved I then relocated to Taiwan and have been happily living here since.
+
+
+**What are you currently doing in Taiwan?** I work for a company called [TPIsoftware](https://www.tpisoftware.com/en/) primarily on financial software for the major banks. I am also doing global business development to take on more projects from customers globally. If anyone is taking on any endeavours and would like some assistance, feel free to reach out.
+
 
 
 {{< /column >}}
