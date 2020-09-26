@@ -4,13 +4,16 @@ name: Deploy
 # This workflow will run whenever changes are pushed to master
 # -----
 
+# This is needed otherwise the bot publishing goes in a loop with 'push to master'
 on:
-  push:
+  pull_request:
     branches:
       - master
+    types: [closed]
 
 jobs:
   build:
+    if: github.event.pull_request.merged == true
     name: Deploy
     runs-on: ubuntu-latest
     steps:
