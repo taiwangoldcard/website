@@ -13,6 +13,7 @@ jobs:
   build:
     name: Deploy
     runs-on: ubuntu-latest
+    if: github.actor != 'taiwan-bot'
     steps:
       # -----
       # Grab the latest source
