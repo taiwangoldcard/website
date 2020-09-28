@@ -1,8 +1,12 @@
+## Communication
+
+We use [slack](https://goldcardcommunity.slack.com/) for talking about all `#website` matters.
+
 ## Content Editors
 
-Please reach out to any of the developers on [Gold Card Community](https://goldcardcommunity.slack.com/) on slack `#website` channel. We will give you access to a CMS to edit content / create new posts.
+Please join the slack channel above. We will give you access to a CMS to edit content / create new posts.
 
-If you are comfortable with git, then you can go to `content` folder and edit the pages. Afterwards, raise a Pull Request (see below).
+If you are comfortable with git, then you can go to [`content` ](https://github.com/taiwangoldcard/website/tree/master/content) folder and edit the pages. Afterwards, raise a Pull Request (see below).
 
 ## Developers
 
