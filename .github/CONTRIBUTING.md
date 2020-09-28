@@ -6,7 +6,15 @@ We use [slack](https://goldcardcommunity.slack.com/) for talking about all `#web
 
 Please join the slack channel above. We will give you access to a CMS to edit content / create new posts.
 
-If you are comfortable with git, then you can go to [`content` ](https://github.com/taiwangoldcard/website/tree/master/content) folder and edit the pages. Afterwards, raise a Pull Request (see below).
+The [flow](https://github.com/taiwangoldcard/website/issues/46#issuecomment-695207432) is like this:
+
+1. Create / Edit content on the CMS
+2. Save
+3. CMS will automatically help you request for approval. See this [example](https://github.com/taiwangoldcard/website/pull/139)
+4. Someone will approve and publish your changes
+5. See your new content live on https://taiwangoldcard.com
+
+Alternatively, if you are already comfortable with git, then you can go to [`content` ](https://github.com/taiwangoldcard/website/tree/master/content) folder and edit the pages. Afterwards, raise a Pull Request (see below).
 
 ## Developers
 
