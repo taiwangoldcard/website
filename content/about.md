@@ -1,7 +1,6 @@
 ---
-title: "About this site"
+title: About this site
 ---
-
 {{< block "grid-2 mt-2 homepage-div" >}}
 {{< column >}}
 
@@ -40,7 +39,7 @@ CC-BY-SA-NC license. The license text can be found in
 {{< column >}}
 ![Taiwan](/images/taiwan-unsplash.jpeg)
 
-The following people have contributed to this site: Alvin, Antoine Scemama, Audrey Tang, Colum Brolly, Cuan-Bo Pong, Eric Khun, Ian Sinnott, Jonathan Liao, Nuttaphat Arunoprayoch, Philip Bergvist, Tom Fifield.
+The following people have contributed to this site: Alvin, Antoine Scemama, Audrey Tang, Colum Brolly, Cuan-Bo Pong, Eric Khun, Geoff Lee, Ian Sinnott, Jonathan Liao, Loris Bettazza, Nuttaphat Arunoprayoch, Philip Bergvist, Rohit Dhatrak, Shawn Lim, Tom Fifield.
 
 {{< /column >}}
 {{< /block >}}
