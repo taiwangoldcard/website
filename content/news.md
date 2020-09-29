@@ -1,7 +1,7 @@
 ## Gold Card News
 
 
-- <time datetime="2020-09-28">2020-09-28</time> [President Tsai meets Gold Card Holders, and welcome the 1000th one](https://english.president.gov.tw/NEWS/6047)
+- <time datetime="2020-09-28">2020-09-28</time> [President Tsai meets Gold Card Holders, and welcomes the 1000th](https://english.president.gov.tw/NEWS/6047)
 - <time datetime="2020-09-14">2020-09-14</time> [Proposed updates to Foreign Talent Act (Chinese)](https://foreigntalentact.ndc.gov.tw/News_Content.aspx?n=88EDAE1D4C3C77D7&s=C788C1DD74906B8A)
 - <time datetime="2020-09-11">2020-09-11</time> [Goldcard day trip to Yilan](https://www.facebook.com/ndc.gov.tw/videos/vb.1498697833731586/3438579999588602/)
 - <time datetime="2020-08-28">2020-08-28</time> [Goldcard holder: Chelsea Davis film festival](https://www.facebook.com/events/670223513845439)
