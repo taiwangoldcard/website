@@ -1,7 +1,6 @@
 ---
-title: "Taiwan Gold Card Community"
+title: Taiwan Gold Card Community
 ---
-
 > #### We are a community of more than 150+ Gold Card Holders supporting each others. We meet regularly through monthly events. If you have the Employment Gold Card and want be part to the community, feel free to fill the [Google Form](https://forms.gle/K88uVy2jMW61DpT2A)
 
 {{< block "grid-2 mt-2 homepage-div" >}}
@@ -103,6 +102,18 @@ Within my 3 years of having the Gold Card visa, I want to establish an energy te
 **Why Taiwan?**: Having worked in the aviation industry with airlines and airports around the world I discovered Taiwan through business. I visited this wonderful island and really enjoyed my time and could see myself living here. The announcement came out in February 2018 that the Gold Card program had launched, I decided to apply soon after the launch. Once approved I then relocated to Taiwan and have been happily living here since.
 
 **What are you currently doing in Taiwan?** I work for a company called [TPIsoftware](https://www.tpisoftware.com/en/) primarily on financial software for the major banks. I am also doing global business development to take on more projects from customers globally. If anyone is taking on any endeavours and would like some assistance, feel free to reach out.
+
+{{< /column >}}
+
+### Shawn Lim, Science and Technology
+
+<img style="float:left; padding: 5px; margin: 10px;" width="200px" height="200px" src="/images/uploads/shawn-lim-headshot.jpeg" />
+
+**Background**: TEST
+
+**Why Taiwan?**: TEST
+
+**What are you currently doing in Taiwan?** TEST
 
 {{< /column >}}
 
