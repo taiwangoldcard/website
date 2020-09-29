@@ -1,0 +1,49 @@
+backend:
+  name: git-gateway
+  branch: master
+publish_mode: editorial_workflow
+media_folder: "static/images/uploads"
+collections:
+  - name: "application-faq"
+    label: "Application FAQ"
+    folder: "content/application-faq"
+    create: true
+    publish: false
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Weight", name: "weight", widget: "number" }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "goldcard-holders-faq"
+    label: "Gold Card Holders FAQ"
+    folder: "content/goldcard-holders-faq"
+    create: true
+    publish: false
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Description",
+          name: "description",
+          widget: "string",
+          default: "",
+        }
+      - { label: "Weight", name: "weight", widget: "number" }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "pages"
+    label: "Pages"
+    files:
+      - label: "About"
+        name: "about"
+        file: "content/about.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Community"
+        name: "community"
+        file: "content/community.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }

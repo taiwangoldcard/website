@@ -5,16 +5,15 @@ name: Deploy
 # -----
 
 on:
-  pull_request:
+  push:
     branches:
       - master
-    types: [closed]
 
 jobs:
   build:
-    if: github.event.pull_request.merged == true
     name: Deploy
     runs-on: ubuntu-latest
+    if: github.actor != 'taiwan-bot'
     steps:
       # -----
       # Grab the latest source
@@ -37,7 +36,9 @@ jobs:
       # Generate site content
       # -----
       - name: Generate Content
-        run: hugo
+        run: |
+          rm -rf docs
+          hugo
 
       # -----
       # Look for broken links (this is broken >.< - disable for now)
