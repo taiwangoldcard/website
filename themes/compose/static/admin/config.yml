@@ -37,13 +37,13 @@ collections:
     files:
       - label: "About"
         name: "about"
-        file: "about.md"
+        file: "content/about.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
       - label: "Community"
         name: "community"
-        file: "community.md"
+        file: "content/community.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
