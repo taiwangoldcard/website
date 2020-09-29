@@ -105,6 +105,8 @@ Within my 3 years of having the Gold Card visa, I want to establish an energy te
 
 {{< /column >}}
 
+{{< column >}}
+
 ### Shawn Lim, Science and Technology
 
 <img style="float:left; padding: 5px; margin: 10px;" width="200px" height="200px" src="/images/uploads/shawn-lim-headshot.jpeg" />
