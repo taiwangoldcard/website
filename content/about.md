@@ -37,7 +37,8 @@ CC-BY-SA-NC license. The license text can be found in
 {{< /column >}}
 
 {{< column >}}
-![Taiwan](/images/taiwan-unsplash.jpeg)
+{{< section "homePicture" >}}
+{{< /section >}}
 
 The following people have contributed to this site: Alvin, Antoine Scemama, Audrey Tang, Colum Brolly, Cuan-Bo Pong, Eric Khun, Geoff Lee, Ian Sinnott, Jonathan Liao, Loris Bettazza, Nuttaphat Arunoprayoch, Philip Bergvist, Rohit Dhatrak, Shawn Lim, Tom Fifield.
 
