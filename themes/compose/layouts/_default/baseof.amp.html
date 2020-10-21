@@ -22,9 +22,11 @@
   </header>
   <main class="main wrap md">
     <i>
-      You may viewing an older version of this page.
       {{ with .OutputFormats.Get "HTML" }}
-      <a href="{{ .RelPermalink }}">Click here to view the latest version</a>
+      <a href="{{ .RelPermalink }}">
+        You may viewing an older version of this page.
+        Click here to view the latest version
+      </a>
     </i>
     {{- end }}
     {{- if or (eq .Section "application-faq")  (eq .Section "goldcard-holders-faq") }}
