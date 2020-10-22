@@ -31,7 +31,8 @@ The content on this website is protected by international copyright and owned by
 {{< /column >}}
 
 {{< column >}}
-![Taiwan](/images/taiwan-unsplash.jpeg)
+{{< section "homePicture" >}}
+{{< /section >}}
 
 
 {{< /column >}}
