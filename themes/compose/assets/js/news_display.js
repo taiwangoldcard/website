@@ -8,6 +8,7 @@ function initNewsList() {
         const a = createEl("a");
         elemAttribute(a, "href", "news");
         a.innerText = "More News »";
+        a.setAttribute("style", "white-space: nowrap;");
         const li = createEl("li");
         li.append(a);
         document.querySelector(`#${ulId}`).append(li);

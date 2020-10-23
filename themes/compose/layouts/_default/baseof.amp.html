@@ -8,8 +8,6 @@
 {{- end }}
 */}}
 
-{{ .Scratch.Set "output-format" "amp" }}
-
 <html amp lang="{{ .Site.Language.Lang }}">
 <head>
   {{- partial "head.amp" . }}
@@ -23,6 +21,14 @@
     {{- partial "nav.amp" . }}
   </header>
   <main class="main wrap md">
+    <i>
+      {{ with .OutputFormats.Get "HTML" }}
+      <a href="{{ .RelPermalink }}">
+        You may viewing an older version of this page.
+        Click here to view the latest version
+      </a>
+    </i>
+    {{- end }}
     {{- if or (eq .Section "application-faq")  (eq .Section "goldcard-holders-faq") }}
     {{- partial "document.amp" . }}
     {{- else }}
