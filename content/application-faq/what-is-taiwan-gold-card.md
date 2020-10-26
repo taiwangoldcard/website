@@ -39,6 +39,7 @@ You can check [the "Fees for Employment Gold Card" section of the application po
 ## Who can I talk to about this?
 If you'd like to discuss: whether you should apply, benefits of the program, or any early questions:
 - Read the [Foreign Talent Act website](https://foreigntalentact.ndc.gov.tw/en/Default.aspx)
+- Ask [help@taiwangoldcard.tw](mailto:help@taiwangoldcard.tw), the Gold Card Helpdesk run by the National Development Council
 - Ask [Contact Taiwan](https://www.contacttaiwan.tw/main/index.aspx?lang=2#). They are a Government-funded organisation whose mission is to help you find a job. They'll direct you to the right place.
 
 Otherwise, look at the [master contact list](https://foreigntalentact.ndc.gov.tw/en/cp.aspx?n=D927ED39BDAE7478&s=DA2F7BC919B77E24) to talk about:
