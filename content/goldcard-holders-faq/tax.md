@@ -74,6 +74,9 @@ The National Taxation Bureau provides free professional taxation consultation se
 
 During "tax season" there are dedicated English language counters for tax filing at National Taxation Bureau offices in major cities. In Taipei, the [National Taxation Bureau of Taipei (NTBT) Head Office](https://goo.gl/maps/vNersbo4Ct2amGH6A) always offers a dedicated English language counter where you can go to ask questions or get help with filing your taxes.
 
+## Where can I get a resident/tax certificate?
+If you need a resident certificate from Taiwan you can go to the National Taxation Bureau and fill out and submit a request to get a resident certificate.
+
 ## My salary is paid by an overseas company, where do I pay tax?
 In general Taiwan, and sometimes also in the overseas country.
 
