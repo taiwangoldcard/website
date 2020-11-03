@@ -38,7 +38,7 @@ Generally not, but it depends. The document requirements to prove an Article 1 (
  The most commonly accepted documents appear to be withholding tax statements from employers and
  income tax returns from a tax authority. Bank statements are generally not sufficient. If you
  don't have salary-based compensation for your employment, we recommend [calling ahead](/application-faq/application/#who-can-i-talk-to-about-this). You may be able to make an argument if your freelance income looks a lot like
-salary (eg "7 Nonemployee Compensation" on a 1099 form from the USA).
+salary (eg "7 Nonemployee Compensation" on a [1099-NEC](https://www.irs.gov/forms-pubs/about-form-1099-nec) form from the USA).
 
 ## Is there an age restriction? 
 Not really. However it is expected that gold card holders will have at least five years of work experience.
