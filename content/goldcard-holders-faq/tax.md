@@ -77,6 +77,9 @@ During "tax season" there are dedicated English language counters for tax filing
 ## Where can I get a resident/tax certificate?
 If you need a resident certificate from Taiwan you can go to the National Taxation Bureau and fill out and submit a request to get a resident certificate.
 
+## What is my Tax Identification Number (TIN)?
+Your Tax Identification Number (TIN) in Taiwan is your ARC number.
+
 ## My salary is paid by an overseas company, where do I pay tax?
 In general Taiwan, and sometimes also in the overseas country.
 
