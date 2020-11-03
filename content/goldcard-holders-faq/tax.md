@@ -70,9 +70,9 @@ A useful [tax calculator is available here](https://docs.google.com/spreadsheets
 website](https://www.etax.nat.gov.tw/etwmain/front/ETW158W13?site=en).
 
 ## Where can I go for help with my taxes?
-The National Taxation Bureau provides free professional taxation consultation sessions [in English and Japanese](https://www.ntbt.gov.tw/English/multiplehtml/51c544ce868347fa85b4d63bcaee4559).
-During "tax season" there are dedicated English language counters for tax filing at
-National Taxation Bureau offices in major cities.
+The National Taxation Bureau provides free professional taxation consultation sessions [in English and Japanese](https://www.ntbt.gov.tw/English/multiplehtml/51c544ce868347fa85b4d63bcaee4559). The phone number is (02)2311-3711 ext 1116.
+
+During "tax season" there are dedicated English language counters for tax filing at National Taxation Bureau offices in major cities. In Taipei, the [National Taxation Bureau of Taipei (NTBT) Head Office](https://goo.gl/maps/vNersbo4Ct2amGH6A) always offers a dedicated English language counter where you can go to ask questions or get help with filing your taxes.
 
 ## My salary is paid by an overseas company, where do I pay tax?
 In general Taiwan, and sometimes also in the overseas country.
