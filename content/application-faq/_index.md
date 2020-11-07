@@ -19,7 +19,7 @@ As changes and errors may occur, please seek professional advice from the releva
 
 
 If you are in Taiwan, you can head over the [National Immigration Agency](https://www.immigration.gov.tw/5475/5478/141386/127061/127076/)
- if you'd like to talk face to face to an agent. There is also [a list of helpful contact information](/application-faq/application/#who-can-i-talk-to-about-this)
+ if you'd like to talk face to face to an agent. You can also email the [Gold Card Helpdesk](mailto:help@taiwangoldcard.tw) and there is also [a list of helpful contact information](/application-faq/application/#who-can-i-talk-to-about-this)
 
 
 <!--
