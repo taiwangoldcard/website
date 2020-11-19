@@ -58,7 +58,7 @@ It's time to collect your card (you selected where during your application)
 If you applied from overseas but are collecting your card in Taiwan, you will need to download your
  Resident Authorization Letter from the [portal](https://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/golden-card)
  and print it. Your airline will need to see this as proof of your ability to enter Taiwan, and you'll
- show it to the border agent in Taiwan.  After arriving, you may visit the 
+ show it to the border agent in Taiwan. After arriving, you may visit the 
  [National Immigration Agency](https://www.immigration.gov.tw/5475/5478/141386/127061/127076/)
  to collect your card.
 
