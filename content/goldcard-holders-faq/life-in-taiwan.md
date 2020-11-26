@@ -48,6 +48,7 @@ You must change your address online. Go to the [Gold Card Portal](https://coa.im
  gold card. select "Application" then "Information change of Employment Gold Card". Follow the steps
  including uploading proof of your address (such as a copy of your lease) and pick up location. After you submit your updated information, you will receive an automated email that says “steps of the online payment and the delivery have been completed,” even though you did not actually have to submit payment for the address change. The "Information Change" will be processed and they will get back to you per email if things are missing. Your new Gold Card with the 
 latest address will be available for collection within approximately two weeks. Don't forget to bring your passport, current Gold Card, and electronic “payment receipt” (which will show a “payment amount” of 0).
+Note: Family members of a Gold Card holder must update their address in person at the National Immigration Agency.
 
 ## What if I don't update my address?
 Legally, you are [required to update your address within 30 days starting from the date you move in](https://law.moj.gov.tw/ENG/LawClass/LawSearchContent.aspx?pcode=D0080204&norge=10). Otherwise here is a non-exhaustive list of potential consequences: 

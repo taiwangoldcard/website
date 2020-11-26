@@ -62,6 +62,8 @@ If you applied from overseas but are collecting your card in Taiwan, you will ne
  [National Immigration Agency](https://www.immigration.gov.tw/5475/5478/141386/127061/127076/)
  to collect your card.
 
+Please note that [starting from December 1, 2020, until February 28, 2021](https://www.cdc.gov.tw/En/Bulletin/Detail/KIUJU0aZex70DPFUN3d66w?typeid=158&fbclid=IwAR3ITZrqBAkN-bCMZWmJbjxF4wS5XZlmLP7pP8ubK7mpqLeqsIhe8LuMTTk), you'll need a certificate of a negative COVID-19 RT-PCR test result issued within three working days to be able to enter in Taiwan.
+
 > You don't need to go to Taiwan straight away: some people take months to prepare for their arrival.
 > However, see the answer for
 > [When does the gold card's validity begin?](/goldcard-holders-faq/validity/) to determine whether that affects you.
