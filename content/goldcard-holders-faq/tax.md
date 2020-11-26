@@ -70,9 +70,17 @@ A useful [tax calculator is available here](https://docs.google.com/spreadsheets
 website](https://www.etax.nat.gov.tw/etwmain/front/ETW158W13?site=en).
 
 ## Where can I go for help with my taxes?
-The National Taxation Bureau provides free professional taxation consultation sessions [in English and Japanese](https://www.ntbt.gov.tw/English/multiplehtml/51c544ce868347fa85b4d63bcaee4559).
-During "tax season" there are dedicated English language counters for tax filing at
-National Taxation Bureau offices in major cities.
+The National Taxation Bureau provides free professional taxation consultation sessions [in English and Japanese](https://www.ntbt.gov.tw/English/multiplehtml/51c544ce868347fa85b4d63bcaee4559). The phone number is (02)2311-3711 ext 1116.
+
+During "tax season" there are dedicated English language counters for tax filing at National Taxation Bureau offices in major cities. In Taipei, the [National Taxation Bureau of Taipei (NTBT) Head Office](https://goo.gl/maps/vNersbo4Ct2amGH6A) always offers a dedicated English language counter where you can go to ask questions or get help with filing your taxes.
+
+## Where can I get a "Certificate of Residence" for tax purposes?
+Use the "Individual Resident Certificate" form provided by the National Taxation Bureau to request a certificate proving your tax residence is in Taiwan. The "Certificate of Residence" states your Taiwanese tax identification number (your ARC number) and your address in Taiwan. You can request this as soon as you become a tax resident, even if is your first year in Taiwan (i.e. haven't filed any taxes yet).
+
+In Taipei, download and print the [form](https://www.ntbt.gov.tw/English/download/13f658eaabd00000ae5106e6d4f90d5e) and bring it to the [NTBT Head Office](https://goo.gl/maps/vNersbo4Ct2amGH6A). The staff at the English language counters will help you fill it out and submit it for you. Note that only the first three questions need to be filled out for a "Certificate of Residence".
+
+## What is my Tax Identification Number (TIN)?
+Your Tax Identification Number (TIN) in Taiwan is your ARC number.
 
 ## My salary is paid by an overseas company, where do I pay tax?
 In general Taiwan, and sometimes also in the overseas country.
