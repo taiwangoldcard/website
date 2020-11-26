@@ -29,10 +29,12 @@ At present, you must reside in Taiwan for a consecutive six-month period (or lea
 ## I'm employed by a local company, do I still need to wait for the six-month period for a health insurance card?
 You do not. Once the company registers your employment, you will be issued a health insurance card. 
 
-## When does the six-month waiting period start?
+## When does the six-month waiting period start and end?
 For those who don't have a Taiwanese employer:
 - If you applied for the Gold Card from abroad then the period starts when you enter Taiwan.
 - If you applied for the Gold Card in Taiwan (e.g. on a tourist visa or visa-exempt) then the starting period is the "issue date" written on the card.
+
+The waiting period ends after 6 calendar months (on the date). For example, if your waiting period starts on May 15 then you can enroll for NHI on Nov 15.
 
 ## Am I allowed to leave the country during the six-month period wait?
 You are only allowed to [leave once for less than 30 days](https://www.nhi.gov.tw/english/Content_List.aspx?n=C88B41A4EAB5E692&topn=778856C209BCE527). Note that when you are away from Taiwan, the six-month waiting period will be paused. It will resume once you return to Taiwan.
