@@ -20,6 +20,9 @@ It usually takes around 1 to 2 weeks to receive your NHI card by mail (so make s
 
 In Taipei, you should go to the [Ministry of Health and Welfare Health Insurance Department Building (衛福部健康保險署臺北業務組-健保大樓辦公室)](https://goo.gl/maps/qz7SV2mjFzdDdYX66) next to NTU Hospital, a couple minutes walk from Taipei Main Station Exit M8. Enter the building, take a queue number on the 1st floor, and the staff will take care of the rest for you (English service provided). Remember to bring your Gold Card, passport, and a photo.
 
+## How are NHI premiums paid
+You will receive your NHI premium payment bill by mail. After you have received your first bill, you can also register to pay online or by monthly direct debit with a Taiwanese bank account.
+
 ## Are my children and family eligible for a health insurance card?
 Yes. Once your spouse and/or any minor children receive their residence cards, they can register
  for their health insurance card as your dependants. They are immediately eligible and have
