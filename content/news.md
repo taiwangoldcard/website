@@ -1,4 +1,10 @@
 ## Gold Card News
+- <time datetime="2020-11-27">2020-11-27</time> [Basic Tax Workshop for Gold Card Holders](https://www.accupass.com/event/2011090730535142464340)
+- <time datetime="2020-11-18">2020-11-18</time> [Gold Card VVIP guests at 2020 Meet Taipei Startup Festival](https://eng.meettaipei.tw/vvip.php)
+- <time datetime="2020-11-02">2020-11-02</time> [Gold Card Office Hosts "What Resources are Available to You" event for Entrepreneurs](https://www.facebook.com/ndc.gov.tw/posts/2731468377121186)
+- <time datetime="2020-10-31">2020-10-31</time> [1532 gold cards approved!](https://foreigntalentact.ndc.gov.tw/en/News_Content.aspx?n=F0746484B877D582&sms=843D002B5C4B741F&s=B0BEF3682969AE36)
+- <time datetime="2020-10-22">2020-10-22</time> [Ministry Of Justice amends Gold Card requirements in the Field of Law](https://foreigntalentact.ndc.gov.tw/en/News_Content.aspx?n=F0746484B877D582&sms=843D002B5C4B741F&s=EF6E60ED94D080D4)
+- <time datetime="2020-10-16">2020-10-16</time> [Gold Card Community Social at Haku](https://www.eventbrite.com/e/goldcard-meeting-16-oct-2020-tickets-121327759595)
 - <time datetime="2020-09-30">2020-09-30</time> [1367 gold cards issued!](https://foreigntalentact.ndc.gov.tw/en/News_Content.aspx?n=F0746484B877D582&s=91B121FE3FA7C24D)
 - <time datetime="2020-09-28">2020-09-28</time> [President Tsai meets Gold Card Holders, and welcomes the 1000th](https://english.president.gov.tw/NEWS/6047)
 - <time datetime="2020-09-14">2020-09-14</time> [Proposed updates to Foreign Talent Act](https://foreigntalentact.ndc.gov.tw/en/News_Content.aspx?n=F0746484B877D582&s=EBF0955D1E97C5A8)
