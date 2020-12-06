@@ -12,12 +12,11 @@ Regardless of which bank you choose, you will need to follow the following proce
 2. Go to a bank near the address stated on your Employment Gold Card. For example, you cannot go to Xinyi to open a bank account if your residential address is at Sanchong.
 3. Prepare a local Taiwan number. This is needed for most banks to send OTP for login to your internet banking portal.
 
+Common features for all banks:
 
-
-Common features for all banks:\
-- Support multi-currency\
-- When receiving funds from overseas, every banks is legally required to call you to know the nature of those funds.\
-- All interest you'll receive from bank accounts in Taiwan will get automatically reported to the Tax office
+* Support multi-currency
+* When receiving funds from overseas, every banks is legally required to call you to know the nature of those funds.
+* All interest you'll receive from bank accounts in Taiwan will get automatically reported to the Tax office
 
 ## CTBC Bank
 
