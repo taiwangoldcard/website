@@ -76,3 +76,30 @@ Appointment process could take a month, without guarantee to open an account. If
 
 Supports global transfers from other countries and local transfers.
 
+## Transferring Money to Taiwan
+
+### Revolut
+
+With a Revolut account, you can easily and cheaply transfer money to a Taiwanese bank account. **Note that Revolut does not support NTD as a currency, so you have to transfer USD, which means that your Taiwanese bank account needs to support USD.**
+
+Revolut charges 0.5% for foreign exchange exceeding ~$1000 USD per month. They also charge $3-4 USD for SWIFT transfers. Typically Taiwanese banks will charge a fee on incoming USD transfers (e.g. Fubon charges $7 USD), but they're USD to NTD rates are usually extremely good.
+
+With a free Revolut account ATM card you can withdraw up to ~$200 USD per month without any fees (after which they charge 2%). Bank of Taiwan and Fubon ATMs work well with Revolut cards and don't charge any fees. Some other banks may charge a fee!
+
+### TransferWise
+
+Similar to Revolut, you can easily and cheaply transfer money to a Taiwanese bank account using TransferWise. **Note that TransferWise does not support NTD as a currency, so you have to transfer USD, which means that your Taiwanese bank account needs to support USD.**
+
+TransferWise charges $3.2 USD for SWIFT transfers. Their foreign exchange rate is roughly similar to Revolut.
+
+If you're source/sender currency is USD then you have to create a **Same-Currency** transfer and select USD.
+
+![](/images/transferwise-same-currency.png)
+
+If you're source/sender currency is not USD then you have to select "International" and **select USD as the recipient currency**.
+
+![](/images/transferwise-international.png)
+
+Continue to the Recipient step and create a new Recipient. Select Taiwan and fill out the SWIFT code and Account number for your Taiwanese bank account.
+
+![](/images/transferwise-recipient.png)
