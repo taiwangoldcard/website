@@ -18,3 +18,13 @@ Yes. [Starting January 15, 2021, at 00:00](https://www.boca.gov.tw/cp-220-5081-c
 
 ## Can I bring my family with me?
 Yes. [Spouses and minor children of Gold Card Holders can enter in Taiwan](https://www.mofa.gov.tw/en/News_Content_M_2.aspx?n=1EADDCFD4C6EC567&s=AF89D9C1A1DA8594).  However, it is unclear if ascendant are allowed to enter  please check with the Ministry of Foreign Affairs -：(+886) 2-2343-2888 - for your parents.
+
+### Do you have a list of quarantine Hotels?
+The official website listing quarantine hotels is [located here](https://english.gov.taipei/News_Content.aspx?n=A0EDC3930FBE7EFC&sms=5B794C46F3CDE718&s=6CBBBD4737D9391D). On of thethe Gold Card Holder, [Patrick](https://twitter.com/rottendoubt), put together a more 
+[comprehensible list of quarantine hotels](https://docs.google.com/spreadsheets/d/1oRHH940z2Wa6taqW5aXERu38eSKQBsBGHDEM1m226pM/edit?usp=sharing). 
+
+## Can I quarantine at home?
+Those who choose to quarantine at home must sign an affidavit declaring they have met the requirement of [one person per residence](https://www.mofa.gov.tw/en/News_Content_M_2.aspx?n=1EADDCFD4C6EC567&s=AF89D9C1A1DA8594). 
+
+## Are Airbnb rental allowed?
+No.
