@@ -6,7 +6,7 @@ weight: 6
 > **Taiwan does everything to keep its island safe**. During the pandemic, all the regulation regarding the entry-exit of the country changes on a day to day basis. Please check the [Ministry of Foreign Affairs](https://www.mofa.gov.tw/en/Default.html) and the [CDC (Taiwan Center of Disease Control)](https://www.cdc.gov.tw/En), and [BOCA (Bureau of Consular Affairs)](https://www.boca.gov.tw/mp-2.html) websites for the latest information.
 
 ## Can I enter in Taiwan with a Gold Card during the pandemic?
-Yes. If you got approved for the Gold Card, you are allowed to enter Taiwan. Just show the physical gold card at the airport check-in. The Employment Gold Card is more than a resident visa, it is an enhanced resident permit (also called Alien Resident Certificate, or ARC). It’s a Work Permit, Resident Visa, ARC and multiple re-entry permit altogether
+Yes. If you got approved for the Gold Card, you are allowed to enter Taiwan. Just show the physical gold card at the airport check-in. The Employment Gold Card is more than a resident visa, it’s a Work Permit, Resident Visa, ARC (Alien Resident Certificate) and multiple re-entry permit altogether.
 
 ## Do I need the physical gold card to enter Taiwan?
 You don't need the physical Gold Card to enter in Taiwan during the pandemic. Just download your Resident Authorization Letter from the [portal](https://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/golden-card) and print it. Your airline will need to see this as proof of your ability to enter Taiwan, and you'll show it to the border agent in Taiwan. After arriving, you may visit the  [National Immigration Agency](https://www.immigration.gov.tw/5475/5478/141386/127061/127076/) to collect your card
