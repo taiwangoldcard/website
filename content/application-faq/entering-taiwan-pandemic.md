@@ -6,8 +6,8 @@ weight: 6
 ## Can I enter in Taiwan with a Gold Card?
 Yes. If you got approved for the Gold Card, you are allowed to enter Taiwan. The Employment Gold Card isn't a visa, it is an enhanced resident permit (also called Alien Resident Certificate, or ARC).
 
-## I am approved but don't have the physical gold card yet
-You don't need the physical card to enter in Taiwan during the pandemic. Just download your Resident Authorization Letter from the [portal](https://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/golden-card) and print it. Your airline will need to see this as proof of your ability to enter Taiwan, and you'll show it to the border agent in Taiwan. After arriving, you may visit the  [National Immigration Agency](https://www.immigration.gov.tw/5475/5478/141386/127061/127076/) to collect your card
+## Do I need the physical gold card to enter Taiwan?
+You don't need the physical Gold Card to enter in Taiwan during the pandemic. Just download your Resident Authorization Letter from the [portal](https://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/golden-card) and print it. Your airline will need to see this as proof of your ability to enter Taiwan, and you'll show it to the border agent in Taiwan. After arriving, you may visit the  [National Immigration Agency](https://www.immigration.gov.tw/5475/5478/141386/127061/127076/) to collect your card
 
 
 ## Do I need to do a COVID19 test to enter Taiwan?
@@ -26,5 +26,5 @@ The official website listing quarantine hotels is [located here](https://english
 ## Can I quarantine at home?
 Those who choose to quarantine at home must sign an affidavit declaring they have met the requirement of [one person per residence](https://www.mofa.gov.tw/en/News_Content_M_2.aspx?n=1EADDCFD4C6EC567&s=AF89D9C1A1DA8594). 
 
-## Are Airbnb rental allowed?
+## Are Airbnb rentals allowed?
 No.
