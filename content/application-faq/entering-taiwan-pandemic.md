@@ -27,4 +27,4 @@ The official website listing quarantine hotels is [located here](https://english
 Those who choose to quarantine at home must sign an affidavit declaring they have met the requirement of [one person per residence](https://www.mofa.gov.tw/en/News_Content_M_2.aspx?n=1EADDCFD4C6EC567&s=AF89D9C1A1DA8594). 
 
 ## Are Airbnb rentals allowed?
-No.
+Maybe - You are NOT allowed to quarantine in a “short term rental” in Taipei city. “Short term rental” defined as less than 30 days. It doesn’t matter which web platform you book it on, they go by the number of days. This seems to imply that booking a unit for 30+ days should be okay, but please confirm  with the Ministry of Foreign Affairs -(+886) 2-2343-2888 - before doing so. 
