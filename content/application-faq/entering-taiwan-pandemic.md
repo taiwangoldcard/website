@@ -5,7 +5,7 @@ weight: 6
 
 > During the pandemic, all those information are chaging on a day to day basis. Please check the [Ministry of Foreign Affairs](https://www.mofa.gov.tw/en/Default.html) and the [CDC (Taiwan Center of Disease Control)](https://www.cdc.gov.tw/En) websites for the latest information. 
 
-## Can I enter in Taiwan with a Gold Card?
+## Can I enter in Taiwan with a Gold Card during the pandemic?
 Yes. If you got approved for the Gold Card, you are allowed to enter Taiwan. The Employment Gold Card isn't a visa, it is an enhanced resident permit (also called Alien Resident Certificate, or ARC).
 
 ## Do I need the physical gold card to enter Taiwan?
@@ -28,10 +28,10 @@ The official website listing quarantine hotels is [located here](https://english
 Those who choose to quarantine at home must sign an affidavit declaring they have met the requirement of [one person per residence](https://www.mofa.gov.tw/en/News_Content_M_2.aspx?n=1EADDCFD4C6EC567&s=AF89D9C1A1DA8594). You are also allowed to quarantine at a friend or relatives’ unit. Please check with the Ministry of Foreign Affairs :(+886) 2-2343-2888 - for the latest information.
 
 ## Can I quarantine with family member flying with me? 
-**There is no  announcement available regarding quarantine together with family**. Some gold card members in the [community](https://taiwangoldcard.com/community/) shared that husband and wife cannot stay in the same hotel room together, unless there is a medical need for one to take care of another. In the case of a hotel suite, there must be separate bedrooms and bathrooms in order for a couple to stay in the same suite.  Please check with the Ministry of Foreign Affairs :(+886) 2-2343-2888 - for the latest information.
+It's unclear. **There is no announcement available regarding quarantine together with family**. Some gold card members in the [community](https://taiwangoldcard.com/community/) shared that husband and wife cannot stay in the same hotel room together, unless there is a medical need for one to take care of another. In the case of a hotel suite, there must be separate bedrooms and bathrooms in order for a couple to stay in the same suite.  Please check with the Ministry of Foreign Affairs :(+886) 2-2343-2888 - for the latest information.
 
 ## Are Airbnb rentals allowed?
-It depends on how long is the rental. Some gold card members in the [community](https://taiwangoldcard.com/community/) shared that you are NOT allowed to quarantine in a “short term rental” in Taipei city. “Short term rental” defined as less than 30 days. It doesn’t matter which web platform you book it on, they go by the number of days. This seems to imply that booking a unit for 30+ days should be okay, but please confirm  with the Ministry of Foreign Affairs -(+886) 2-2343-2888 - before doing so. We highly recommend [the list of hotels approved by the government](https://english.gov.taipei/News_Content.aspx?n=A0EDC3930FBE7EFC&sms=5B794C46F3CDE718&s=6CBBBD4737D9391D) to avoid any surprise.
+It's unclear. It depends on how long is the rental. Some gold card members in the [community](https://taiwangoldcard.com/community/) shared that you are NOT allowed to quarantine in a “short term rental” in Taipei city. “Short term rental” defined as less than 30 days. It doesn’t matter which web platform you book it on, they go by the number of days. This seems to imply that booking a unit for 30+ days should be okay, but please confirm  with the Ministry of Foreign Affairs -(+886) 2-2343-2888 - before doing so. We highly recommend [the list of hotels approved by the government](https://english.gov.taipei/News_Content.aspx?n=A0EDC3930FBE7EFC&sms=5B794C46F3CDE718&s=6CBBBD4737D9391D) to avoid any surprise.
 
 ## How do I get to my hotel / home from the airport?
 During the pandemic, special taxis will be waiting for you at the airport. You don't need to book them.
