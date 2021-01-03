@@ -3,6 +3,8 @@ title: "Entering Taiwan during the pandemic"
 weight: 6
 ---
 
+> During the pandemic, all those information are chaging on a day to day basis. Please check the [Ministry of Foreign Affairs website](https://www.mofa.gov.tw/en/Default.html) and the [CDC website](https://www.cdc.gov.tw/En) (Taiwan Center of Disease Control) for the latest information. 
+
 ## Can I enter in Taiwan with a Gold Card?
 Yes. If you got approved for the Gold Card, you are allowed to enter Taiwan. The Employment Gold Card isn't a visa, it is an enhanced resident permit (also called Alien Resident Certificate, or ARC).
 
@@ -16,17 +18,19 @@ Yes. [Starting from December 1, 2020, until February 28, 2021](https://www.cdc.g
 Yes. [Starting January 15, 2021, at 00:00](https://www.boca.gov.tw/cp-220-5081-c06dc-2.html), apart from the original requirement of providing a COVID-19 RT-PCR test report issued within three days of boarding, arriving travelers must also provide proof of the location of their intended quarantine. In principle, travelers should quarantine at a group quarantine facility or quarantine hotel; those who choose to quarantine at home must sign an affidavit declaring they have met the requirement of one person per residence. The CECC will further adjust entry restrictions and quarantine regulations in response to global pandemic developments and the effectiveness of antipandemic measures.
 
 ## Can I bring my family with me?
-Yes. [Spouses and minor children of Gold Card Holders can enter in Taiwan](https://www.mofa.gov.tw/en/News_Content_M_2.aspx?n=1EADDCFD4C6EC567&s=AF89D9C1A1DA8594).  However, it is unclear if ascendants are allowed to enter please check with the Ministry of Foreign Affairs -：(+886) 2-2343-2888 - for your parents.
+Yes. [Spouses and minor children of Gold Card Holders can enter in Taiwan](https://www.mofa.gov.tw/en/News_Content_M_2.aspx?n=1EADDCFD4C6EC567&s=AF89D9C1A1DA8594).  However, it is unclear if ascendants are allowed to enter. Please check with the Ministry of Foreign Affairs -：(+886) 2-2343-2888 - for the latest information.
 
 ### Do you have a list of quarantine Hotels?
-The official website listing quarantine hotels is [located here](https://english.gov.taipei/News_Content.aspx?n=A0EDC3930FBE7EFC&sms=5B794C46F3CDE718&s=6CBBBD4737D9391D). On of thethe Gold Card Holder, [Patrick](https://twitter.com/rottendoubt), put together a more 
+The official website listing quarantine hotels is [located here](https://english.gov.taipei/News_Content.aspx?n=A0EDC3930FBE7EFC&sms=5B794C46F3CDE718&s=6CBBBD4737D9391D). One of the Gold Card Holder, [Patrick](https://twitter.com/rottendoubt), put together a more 
 [comprehensible list of quarantine hotels](https://docs.google.com/spreadsheets/d/1oRHH940z2Wa6taqW5aXERu38eSKQBsBGHDEM1m226pM/edit?usp=sharing). 
 
 ## Can I quarantine at home?
-Those who choose to quarantine at home must sign an affidavit declaring they have met the requirement of [one person per residence](https://www.mofa.gov.tw/en/News_Content_M_2.aspx?n=1EADDCFD4C6EC567&s=AF89D9C1A1DA8594). You are also allowed to quarantine at a friend or relatives’ unit.
+Those who choose to quarantine at home must sign an affidavit declaring they have met the requirement of [one person per residence](https://www.mofa.gov.tw/en/News_Content_M_2.aspx?n=1EADDCFD4C6EC567&s=AF89D9C1A1DA8594). You are also allowed to quarantine at a friend or relatives’ unit. Please check with the Ministry of Foreign Affairs -：(+886) 2-2343-2888 - for the latest information.
 
 ## Are Airbnb rentals allowed?
-Maybe - You are NOT allowed to quarantine in a “short term rental” in Taipei city. “Short term rental” defined as less than 30 days. It doesn’t matter which web platform you book it on, they go by the number of days. This seems to imply that booking a unit for 30+ days should be okay, but please confirm  with the Ministry of Foreign Affairs -(+886) 2-2343-2888 - before doing so. We highly recommend [the list of hotels approved by the government](https://english.gov.taipei/News_Content.aspx?n=A0EDC3930FBE7EFC&sms=5B794C46F3CDE718&s=6CBBBD4737D9391D) to avoid any surprise.
+Maybe. You are NOT allowed to quarantine in a “short term rental” in Taipei city. “Short term rental” defined as less than 30 days. It doesn’t matter which web platform you book it on, they go by the number of days. This seems to imply that booking a unit for 30+ days should be okay, but please confirm  with the Ministry of Foreign Affairs -(+886) 2-2343-2888 - before doing so. We highly recommend [the list of hotels approved by the government](https://english.gov.taipei/News_Content.aspx?n=A0EDC3930FBE7EFC&sms=5B794C46F3CDE718&s=6CBBBD4737D9391D) to avoid any surprise.
 
 ## How do I get to my hotel / home from the airport?
-The taxi price is subsidized by the government for quarantine. Taxis can bring you anywhere in the island. The price is subsidised, so you will see and hear the meter running, but what you actually pay at the end of the trip (cash or card) is a fixed rate. [For a trip to Kaohsiung (that should have cost 10,0000, it costed 2,660 NTD](https://tw.forumosa.com/t/employment-gold-card-for-some-foreigners/159653/1985).
+Special taxis will be waiting for you at the airport. 
+
+**There is no official announcement** regarding price. But we can find [online](https://tw.forumosa.com/t/employment-gold-card-for-some-foreigners/159653/1985) that taxi price is subsidized by the government for quarantine cand can bring you anywhere in the island. You will see and hear the meter running, but what you actually pay at the end of the trip (cash or card) is a fixed rate. [For a trip to Kaohsiung (that should have cost 10,0000, it costed 2,660 NTD](https://tw.forumosa.com/t/employment-gold-card-for-some-foreigners/159653/1985).
