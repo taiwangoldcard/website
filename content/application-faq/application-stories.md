@@ -1,6 +1,6 @@
 ---
 title: "Application stories from Gold Card Holders"
-weight: 6
+weight: 7
 ---
 
 To complement our FAQ, here are some great online resources of current Gold Card Holders that explain how they obtained the Gold Card: 
