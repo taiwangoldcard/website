@@ -3,7 +3,7 @@ title: "Entering Taiwan during the pandemic"
 weight: 6
 ---
 
-> Taiwan want to keep the island safe - During the pandemic, all the regulation regarding the pandemic changes on a day to day basis. Please check the [Ministry of Foreign Affairs](https://www.mofa.gov.tw/en/Default.html) and the [CDC (Taiwan Center of Disease Control)](https://www.cdc.gov.tw/En) websites for the latest information. 
+> **Taiwan does everything to keep its island safe**. During the pandemic, all the regulation regarding the entry-exit of the country changes on a day to day basis. Please check the [Ministry of Foreign Affairs](https://www.mofa.gov.tw/en/Default.html) and the [CDC (Taiwan Center of Disease Control)](https://www.cdc.gov.tw/En) websites for the latest information. 
 
 ## Can I enter in Taiwan with a Gold Card during the pandemic?
 Yes. If you got approved for the Gold Card, you are allowed to enter Taiwan. The Employment Gold Card isn't a visa, it is an enhanced resident permit (also called Alien Resident Certificate, or ARC).
