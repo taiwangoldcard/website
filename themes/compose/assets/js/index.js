@@ -307,28 +307,6 @@ function loadActions() {
 
   })();
 
-  (function makeExternalLinks(){
-    let links = elems('a');
-    if(links) {
-      Array.from(links).forEach(function(link){
-        let target, rel, blank, noopener, attr1, attr2, url, isExternal;
-        url = elemAttribute(link, 'href');
-        isExternal = (url && typeof url == 'string' && url.startsWith('http')) && !url.startsWith(parentURL) ? true : false;
-        if(isExternal) {
-          target = 'target';
-          rel = 'rel';
-          blank = '_blank';
-          noopener = 'noopener';
-          attr1 = elemAttribute(link, target);
-          attr2 = elemAttribute(link, noopener);
-
-          attr1 ? false : elemAttribute(link, target, blank);
-          attr2 ? false : elemAttribute(link, rel, noopener);
-        }
-      });
-    }
-  })();
-
   let headingNodes = [], results, link, icon, current, id,
   tags = ['h2', 'h3', 'h4', 'h5', 'h6'];
 
@@ -354,6 +332,7 @@ function loadActions() {
     link = createEl('a');
     icon = createEl('img');
     icon.src = '{{ absURL "icons/link.svg" }}';
+    icon.alt = 'link icon';
     link.className = 'link icon';
     link.appendChild(icon);
     id = node.getAttribute('id');
@@ -418,62 +397,32 @@ function loadActions() {
   })();
 }
 
-$(function() {
+function isMobileDevice() {
+  return (
+    typeof window.orientation !== "undefined" ||
+    navigator.userAgent.indexOf("IEMobile") !== -1
+  );
+}
 
-    var hasClicked = false;
+function revealSideBar() {
+  const sideBar = document.querySelector("aside.aside.hidden");
+  deleteClass(sideBar, "hidden");
+}
 
-    // hide bar when clicking on a menu item
-    $(".toc_item a").on('click', function(event) {
-      hasClicked = true;
-      if ($(window).scrollTop() !== 0) {
-        $('.nav_header').removeClass('nav-down').addClass('nav-up');
-      }
-    });
+function showHomeImage() {
+  const homePicture = document.querySelector("section.homePicture");
 
-      // Hide Header on on scroll down
-      var didScroll;
-      var lastScrollTop = 0;
-      var delta = 100;
-      var navbarHeight = $('.nav_header').outerHeight();
-      $(window).scroll(function(event){
-          didScroll = true;
-      });
+  if (!homePicture) return;
+  if (!isMobileDevice()) {
+    const node = document.createElement("img");
+    node.src = "/images/taiwan-unsplash.jpeg";
+    node.alt = "Taiwan";
+    homePicture.appendChild(node);
+  } else {
+    homePicture.style = "display:none;";
+  }
+}
 
-      setInterval(function() {
-          if (didScroll) {
-              hasScrolled();
-              didScroll = false;
-              hasClicked = false;
-          }
-      }, 500);
-
-      function hasScrolled() {
-          var st = $(this).scrollTop();
-
-          // Make sure they scroll more than delta
-          if(Math.abs(lastScrollTop - st) <= delta)
-              return;
-
-          // If they scrolled down and are past the navbar, add class .nav-up.
-          // This is necessary so you never see what is "behind" the navbar.
-          if (st > lastScrollTop && st > navbarHeight){
-              // Scroll Down
-              $('.nav_header').removeClass('nav-down').addClass('nav-up');
-          } else {
-              // Scroll Up
-              if(st + $(window).height() < $(document).height()) {
-                if (hasClicked != true) {
-                  $('.nav_header').removeClass('nav-up').addClass('nav-down');
-                }
-              }
-          }
-          lastScrollTop = st;
-      }
-
-
-
-
-});
-
-
+window.addEventListener("DOMContentLoaded", showHomeImage);
+window.addEventListener("DOMContentLoaded", revealSideBar);
 window.addEventListener('load', loadActions());

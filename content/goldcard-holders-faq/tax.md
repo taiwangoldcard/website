@@ -5,7 +5,7 @@ weight: 6
 <!--- (c) Tom Fifield, licensed under a
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. -->
 
-> Note: Everyone has a different situation. Please consult an accountant before relying on content from this section.
+> Note: Everyone has a different situation. Please consult an accountant before relying on content from this section. [Terms](/terms).
 
 ## How do I apply for the tax relief for Foreign Special Professionals?
 As a Gold Card holder working in Taiwan for the first time, for the portion of your salary over
@@ -44,10 +44,21 @@ If you came to Taiwan in 2015/2016/2017 and had a single 3/2/1 year work contrac
 
 
 You are not eligible under this interpretation if:
-* you worked in Taiwan before 2015
-* your contract didn’t extend into 2018
-* you had multiple contracts between 2015 and 2018.
-* you became a gold card holder in 2019
+* You worked in Taiwan before 2015
+* Your contract didn’t extend into 2018
+* You had multiple contracts between 2015 and 2018.
+* You became a gold card holder in 2019
+
+## When do I become a tax resident of Taiwan?
+Tax residency in Taiwan is separate to immigration/visa residency and is based on the number
+ of days you are physically in Taiwan.
+
+* If you are in Taiwan for 183 days or more, you are a tax resident and must file taxes in Taiwan
+* If you are in Taiwan for more than 90 days but less than 183 days you are not considered a tax resident but must still file a tax return in Taiwan
+* For stays in Taiwan of less than 90 days per year, there are only limited cases you need to file a tax return.
+
+Further information is available from the [National Taxation Bureau](https://www.ntbt.gov.tw/English/singlehtml/71b35f4132414a35a91daf5aeebbb801?cntId=50d25ba6f78a4abc9ac8b88ccb4c2231).
+
 
 ## When do I file tax in Taiwan?
 The financial year is January 1st to December 31st. Tax is filed each year from May 1st to the end of the month. 
@@ -59,7 +70,30 @@ A useful [tax calculator is available here](https://docs.google.com/spreadsheets
 website](https://www.etax.nat.gov.tw/etwmain/front/ETW158W13?site=en).
 
 ## Where can I go for help with my taxes?
-The National Taxation Bureau provides free professional taxation consultation sessions [in English and Japanese](https://www.ntbt.gov.tw/English/multiplehtml/51c544ce868347fa85b4d63bcaee4559).
-During "tax season" there are dedicated English language counters for tax filing at
-National Taxation Bureau offices in major cities.
+The National Taxation Bureau provides free professional taxation consultation sessions [in English and Japanese](https://www.ntbt.gov.tw/English/multiplehtml/51c544ce868347fa85b4d63bcaee4559). The phone number is (02)2311-3711 ext 1116.
 
+During "tax season" there are dedicated English language counters for tax filing at National Taxation Bureau offices in major cities. In Taipei, the [National Taxation Bureau of Taipei (NTBT) Head Office](https://goo.gl/maps/vNersbo4Ct2amGH6A) always offers a dedicated English language counter where you can go to ask questions or get help with filing your taxes.
+
+## Where can I get a "Certificate of Residence" for tax purposes?
+Use the "Individual Resident Certificate" form provided by the National Taxation Bureau to request a certificate proving your tax residence is in Taiwan. The "Certificate of Residence" states your Taiwanese tax identification number (your ARC number) and your address in Taiwan. You can request this as soon as you become a tax resident, even if is your first year in Taiwan (i.e. haven't filed any taxes yet).
+
+In Taipei, download and print the [form](https://www.ntbt.gov.tw/English/download/13f658eaabd00000ae5106e6d4f90d5e) and bring it to the [NTBT Head Office](https://goo.gl/maps/vNersbo4Ct2amGH6A). The staff at the English language counters will help you fill it out and submit it for you. Note that only the first three questions need to be filled out for a "Certificate of Residence".
+
+## What is my Tax Identification Number (TIN)?
+Your Tax Identification Number (TIN) in Taiwan is your ARC number.
+
+## My salary is paid by an overseas company, where do I pay tax?
+In general Taiwan, and sometimes also in the overseas country.
+
+If you stay in Taiwan for more than 90 days in a year, money you get for work you perform residing in Taiwan
+ is considered Taiwan-sourced income. This is true regardless of whether your salary is paid to you in an account
+ in Taiwan or overseas. Therefore, you will pay tax in Taiwan at the standard rates. You may refer to the 
+ [National Tax Bureau's explanation](https://www.ntbt.gov.tw/English/multiplehtml/528c4cdfd10f455b9ad439c6a0642b2b),
+  or the [Income Tax law](https://law.moj.gov.tw/ENG/LawClass/LawSearchContent.aspx?pcode=G0340003&norge=8).
+
+However, paying tax in Taiwan does not necessarily free you of your tax obligations in other countries.
+ You should research the [international tax agreements](https://investtaiwan.nat.gov.tw/showPage?lang=eng&search=58)
+ between your country and Taiwan. In many cases these, in addition to foreign tax credits in some jurisdictions,
+ will prevent you from paying a double tax burden.
+
+As always, please seek professional advice.

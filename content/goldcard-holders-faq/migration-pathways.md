@@ -42,7 +42,20 @@ that was introduced around the same time. You can get it if:
 and you have proof of:
 
 * NT$100,000 in your bank account
-* health insurance to cover your trip
-*  good conduct (eg a police report)
+* Health insurance to cover your trip
+* Good conduct (eg a police report)
 
 There’s a [brief news article here](https://www.taiwannews.com.tw/en/news/3363082).
+
+## How do I gain permanent residence in Taiwan?
+Permanent Residence, or an "APRC" card, is available to those who legally 
+ spend five continuous years in Taiwan, for at least 183 days a year. This time does not
+ include periods of time you were studying and a few other exclusions, but any time
+ you were here on a gold card does count. There are a
+ [few other requirements and documents to prepare](https://www.immigration.gov.tw/5475/5478/141465/141808/152932/),
+ and application is done at the National Immigration Agency.
+
+Currently, the longest period a Gold Card can be valid is 3 years, so you will likely
+ need to apply for a second Gold Card before you can be eligible for permanent residence.
+ However, there is a current legislative push to reduce the residence requirement to
+ three years for Gold Card holders.

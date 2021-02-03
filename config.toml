@@ -1,43 +1,77 @@
 baseURL = "https://taiwangoldcard.com/"
-disableKinds = ["taxonomy", "taxonomyTerm"]
-enableGitInfo = true
-enableRobotsTXT = true
-publishDir = "docs"
-theme = "compose"
 title = "Taiwan Gold Card - Taiwan Foreign Talent Community"
-[markup.goldmark.renderer]
-unsafe = true
-[markup.highlight]
-codeFences = true
-guessSyntax = false
-hl_Lines = ""
-lineNoStart = 1
-lineNos = true
-lineNumbersInTable = true
-noClasses = false
-style = "monokai"
-tabWidth = 2
+enableRobotsTXT = true
+theme = "compose"
+enableGitInfo = true
+publishDir = "docs"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+#  menu items
 [[menu.main]]
-name = "Life in Taiwan"
-url = "goldcard-holders-faq/"
-weight = 2
+    name = "Do I qualify?"
+    weight = 1
+    url = "https://visafinder.tw/gold-card-qualification/"
+
 [[menu.main]]
-name = "Application Process"
-url = "application-faq/"
-weight = 1
+    name = "Application Process"
+    weight = 2
+    url = "application-faq/"
+
+
+[[menu.main]]
+    name = "Life in Taiwan"
+    weight = 3
+    url = "goldcard-holders-faq/"
+
+[[menu.main]]
+    name = "Community"
+    weight = 4
+    url = "community"
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = false
+    style = "monokai"
+    tabWidth = 2
+
+# Everything below this are Site Params
+
 [params]
-author = "Taiwan Gold Card Community"
-description = "We are a strong community of professionals with Taiwan Gold Card visa. We happily help newcomers and support each other within the Gold Card community"
-enableSearch = true
-repo = "https://github.com/onweru/compose"
-searchPlaceholder = "Search..."
-time_format_blog = "Monday, January 02, 2006"
-time_format_default = "January 2, 2006"
-title = "Taiwan Gold Card | Taiwan Foreign Talent Community"
-[params.logo]
-darkMode = "gc-light.svg"
-lightMode = "gc.svg"
-[params.source]
-icon = "github.svg"
-name = "Apply"
-url = "https://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/golden-card"
+  author = "Taiwan Gold Card Community"
+  enableSearch = true
+  searchPlaceholder = "Search..."
+  repo = "https://github.com/taiwangoldcard/website"
+
+  description = "We are a strong community of professionals with Taiwan Gold Card visa. We happily help newcomers and support each other within the Gold Card community"
+  title = "Taiwan Gold Card | Taiwan Foreign Talent Community"
+
+  # Integrate Javascript files by adding the url to the external assets or by
+  # linking local files with their path relative to the static folder, e.g. "js/myscript.js"
+  customJS  = []
+
+  time_format_blog = "Monday, January 02, 2006"
+  time_format_default = "January 2, 2006"
+  [params.logo]
+    lightMode = "gc.svg"
+    darkMode = "gc-light.svg"
+
+  [params.source]
+    name = "Apply"
+    icon = "github.svg"
+    url = "https://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/golden-card"
+
+[outputs]
+  home = ["HTML", "AMP", "RSS"]
+  page = ["HTML", "AMP"]
+  section = ["HTML", "AMP", "RSS"]

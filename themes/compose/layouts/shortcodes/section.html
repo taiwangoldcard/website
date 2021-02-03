@@ -1,5 +1,9 @@
-{{- $sectioName := .Get 0 -}}
+{{- $sectionName := .Get 0 -}}
 
-<section class="section {{- with $sectioName }} {{ . }}{{ end }}">
-  {{- .Inner | markdownify -}}
+<section class="section {{- with $sectionName }} {{ . }}{{ end }}">
+  {{ if (eq $sectionName "latestNews") }}
+      {{- readFile "news.md" | markdownify -}}
+  {{ else }}
+      {{- .Inner | markdownify -}}
+  {{ end }}
 </section>

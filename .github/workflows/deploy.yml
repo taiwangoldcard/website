@@ -1,0 +1,61 @@
+name: Deploy
+
+# -----
+# This workflow will run whenever changes are pushed to master
+# -----
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    name: Deploy
+    runs-on: ubuntu-latest
+    if: github.actor != 'taiwan-bot'
+    steps:
+      # -----
+      # Grab the latest source
+      # -----
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.DEPLOY_BOT_TOKEN }}
+
+      # -----
+      # Install Hugo: https://github.com/peaceiris/actions-hugo
+      # -----
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "0.74.3"
+          extended: true
+
+      # -----
+      # Generate site content
+      # -----
+      - name: Generate Content
+        run: |
+          rm -rf docs
+          hugo
+
+      # -----
+      # Look for broken links (this is broken >.< - disable for now)
+      # -----
+      # - name: Check Links
+      #   run: |
+      #     sudo apt-get -y install linkchecker
+      #     bash linkcheck.sh
+
+      # -----
+      # Create our nice commit
+      # -----
+      - name: Commit Files and Push
+        run: |
+          git config --global user.name '@taiwan-bot'
+          git config --global user.email 'taiwan-bot@users.noreply.github.com'
+          CURRENTDATE=`date +"%m/%d/%Y %H:%M"`
+          git add .
+          git commit -am "Deploy ${CURRENTDATE} 🚀"
+          git push
