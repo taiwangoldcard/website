@@ -1,7 +1,7 @@
 ---
-title: "Known Limitations"
-draft: true #swith to false to publish
-weight: 15
+title: Known Limitations
+weight: "15"
+
 ---
 <!---
     We don't publish that page yet
