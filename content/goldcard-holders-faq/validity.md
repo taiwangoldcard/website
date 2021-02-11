@@ -13,7 +13,7 @@ permit) may have become invalid or expired, you can check with the National Immi
 
 ## Can I renew my gold card?
 
-No. There is no renewal capability for a Gold Card. You must complete the same application process
+Not really: a 'renewal' is almost the same as a new application. You must complete the same application process
 you went through for your first card for all subsequent cards. Keep this in mind when planning your
 time in Taiwan - you must still meet the qualification criteria in order to receive another card.
 
