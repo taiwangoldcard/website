@@ -94,5 +94,5 @@ Keep in mind: there is some precedent for your visa going away if the underlying
  this out the hard way.
 
 If you are in a situation where you think your circumstances might put you in jeopardy, the [gold
-card contacts list](https://foreigntalentact.ndc.gov.tw/en/cp.aspx?n=D927ED39BDAE7478&s=DA2F7BC919B77E24)
- has a range of helpful people.
+card office](https://goldcard.nat.gov.tw/en/help-desk/)
+ can point you to the right place.

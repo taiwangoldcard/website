@@ -10,7 +10,7 @@ skilled to hold a Gold Card.
 All that's left is Identity Verification and you can collect your card!
 
 ## Identity Verification
-🕑 1-2 weeks
+🕑 2-4 weeks
 
 Congratulations on passing the skill assessment. It's now time to deliver your passport
  for identity verification.
@@ -45,7 +45,7 @@ If you live far from your local Taiwanese diplomatic post, it is recommended to 
 >  collected your passport, contact the NIA - your card may already be printed.
 
 ## Card Collection
-🕑 1-2 weeks
+🕑 2-3 weeks
 
 After your identity is verified, a final review is conducted by the Ministry of Interior and 
 your Gold Card will be issued. You will get an email at this point telling you your application has
@@ -53,7 +53,7 @@ been approved - congratulations.
 
 It's time to collect your card (you selected where during your application)
 1. in Taiwan at the National Immigration Agency
-1. at your nearest Taiwanese diplomatic post
+1. at your nearest Taiwanese diplomatic post (after it arrives there by post up to 21 days later)
 
 If you applied from overseas but are collecting your card in Taiwan, you will need to download your
  Resident Authorization Letter from the [portal](https://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/golden-card)

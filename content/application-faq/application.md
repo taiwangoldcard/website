@@ -60,7 +60,7 @@ You must select where you will collect your card, there are two options to choos
 1. In Taiwan - generally faster, as your card does not need to be mailed overseas. You will use a
  printed Residence Authorization Certificate to enter Taiwan, which might require some explanation
  to your airline.
-1. At your local embassy - more convenient, as you can enter Taiwan with the process completed.
+1. At your local embassy - more convenient, as you can enter Taiwan with the process completed, but slower.
 
 If you have information for any of the remaining fields, fill it in, or leave them blank if you dont.
  Click "save" and "next step" to go to the Profession section.
@@ -100,8 +100,6 @@ Eventually, view the preview and then hit submit!
 
 
 ## Who can I talk to about this?
-If you need help, the master list of contacts is [found here](https://foreigntalentact.ndc.gov.tw/en/cp.aspx?n=D927ED39BDAE7478&s=DA2F7BC919B77E24).
-You can also try emailing the general Gold Card Helpdesk: [help@taiwangoldcard.tw](mailto:help@taiwangoldcard.tw)
+If you need help, the first port of call is the official [Gold Card Helpdesk](https://goldcard.nat.gov.tw/en/help-desk/)
 
-- If something is wrong with the online application portal, eg errors, ambiguous fields: Contact NIA, under the _Ministry of Interior for Employment Gold Card Permits for Foreign Special Professionals_ on the master list or use the number on the bottom of the application portal
-- If you don't know what documents to apply with, or which regulation to choose, contact the appropriate ministry under _Qualification of Foreign Special Professionals_ on the master list
+- If something is wrong with the online application portal, eg errors, ambiguous fields: Contact NIA, using the number on the bottom of the application portal if you speak Chinese, or via the Gold Card helpdesk if not
