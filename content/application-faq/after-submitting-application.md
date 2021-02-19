@@ -52,7 +52,7 @@ You probably received an error message that looks like this: "申請人以免籤
  This translates to "You entered Taiwan 'visa-exempt', but when applying you selected the wrong
  visa/identity category, application refused."
 
-Don't stress. You will have to make a new application, but your old one can be refunded.
+Unfortunately, this mistake cannot be fixed, you will have to make a new application and may not get a refund.
  When [starting an application](/application-faq/application/#starting-your-application) from inside
  Taiwan, you will be asked what visa you hold. A common mistake is to select
  "I entered R.O.C. with a visa of which the duration of stay is more than 60 days" because you have a
@@ -61,7 +61,7 @@ Don't stress. You will have to make a new application, but your old one can be r
 
 The NIA looked up your visa status, found it incorrect, and rejected your application.
  What you need to do now is:
-1. Call NIA, using the phone number on the bottom of the application portal (or the [Gold Card Helpdesk](https://goldcard.nat.gov.tw/en/help-desk/)) explain what happened and ask for a refund.
+1. Call NIA, using the phone number on the bottom of the application portal (or the [Gold Card Helpdesk](https://goldcard.nat.gov.tw/en/help-desk/)) explain what happened and ask for a refund (may not be possible).
 1. Make a new application
 
 
