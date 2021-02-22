@@ -28,7 +28,7 @@ The next three steps in the process are: Qualification Assessment, Identity Veri
 During these steps, you can check the status if your application by logging in to the portal.
 
 ## Qualification Assessment
-🕑 2-4 weeks
+🕑 4-6 weeks
 
 After a quick sanity check by the National Immigration Agency, your qualifications will be assessed.
 If you login to the portal to check your application status, you'll see it go from "Under Review"
@@ -43,16 +43,16 @@ What's happening in the background is:
 This takes some time, and if you are skilled in a niche area expect the application to take longer than 30 days at this stage.
 
 
-If the status in the portal hasn't updated in a long time first try contacting WDA, under the _Ministry of Labor for Employment Gold Card Permits for Foreign Special Professionals_ on the [master contact list](https://foreigntalentact.ndc.gov.tw/en/cp.aspx?n=D927ED39BDAE7478&s=DA2F7BC919B77E24).
+If the status in the portal hasn't updated in a long time first try contacting the [Gold Card Helpdesk](https://goldcard.nat.gov.tw/en/help-desk/).
  They will probably tell you that the application is with the relevant ministry for your skill set and provide contact details.
- If not, try to contact the appropriate ministry under _Qualification of Foreign Special Professionals_ on the master list
+ If not, try to contact the appropriate ministry yourself.
 
 ### Why was my application rejected with a message about visa type?
 You probably received an error message that looks like this: "申請人以免籤證入境，申請時身份類別選擇錯誤，不予許可"
  This translates to "You entered Taiwan 'visa-exempt', but when applying you selected the wrong
  visa/identity category, application refused."
 
-Don't stress. You will have to make a new application, but your old one can be refunded.
+Unfortunately, this mistake cannot be fixed, you will have to make a new application and may not get a refund.
  When [starting an application](/application-faq/application/#starting-your-application) from inside
  Taiwan, you will be asked what visa you hold. A common mistake is to select
  "I entered R.O.C. with a visa of which the duration of stay is more than 60 days" because you have a
@@ -61,7 +61,7 @@ Don't stress. You will have to make a new application, but your old one can be r
 
 The NIA looked up your visa status, found it incorrect, and rejected your application.
  What you need to do now is:
-1. Call NIA, using the phone number on the bottom of the application portal or the "Ministry of Interior" on the [official contact list](https://foreigntalentact.ndc.gov.tw/en/cp.aspx?n=D927ED39BDAE7478&s=DA2F7BC919B77E24), explain what happened and ask for a refund.
+1. Call NIA, using the phone number on the bottom of the application portal (or the [Gold Card Helpdesk](https://goldcard.nat.gov.tw/en/help-desk/)) explain what happened and ask for a refund (may not be possible).
 1. Make a new application
 
 
@@ -77,8 +77,7 @@ Your application will be listed under "Application cases of which data to be sup
 
 Up the top of the application will be a block of red text in Chinese and English. It will attempt
  to explain what additional documents are required. If it doesn't make sense, call the appropriate
-ministry contact under Qualification of Foreign Special Professionals on the master list. They'll be
- able to look up your application and provide more colour.
+ministry contact. They, or the helpdesk should be able to look up your application and provide more colour.
 
 Once you know which documents to upload, prepare to upload them as with your previous application.
  Additionally, prepare a short statement addressing how you have rectified the "Opinion

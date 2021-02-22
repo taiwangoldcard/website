@@ -17,7 +17,7 @@ There is a special form accessible from both the [Alien e-Filing system](https:/
 
 ## If I have worked in Taiwan before, can I apply for the tax break?
 
-Generally no, with some exceptions. The relevant regulations are [here](https://law.moj.gov.tw/eng/LawClass/LawAll.aspx?PCode=G0340150%204).
+Generally no, with some exceptions. The relevant regulations are [here](https://law.moj.gov.tw/eng/LawClass/LawAll.aspx?PCode=G0340150).
  You can see in Article 3 that you need 3 ticks to be eligible:
 
 1. First time coming to work
@@ -47,7 +47,7 @@ You are not eligible under this interpretation if:
 * You worked in Taiwan before 2015
 * Your contract didn’t extend into 2018
 * You had multiple contracts between 2015 and 2018.
-* You became a gold card holder in 2019
+* You became a gold card holder in 2019, or later
 
 ## When do I become a tax resident of Taiwan?
 Tax residency in Taiwan is separate to immigration/visa residency and is based on the number
