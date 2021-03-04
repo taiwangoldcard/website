@@ -11,7 +11,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [[menu.main]]
     name = "Do I qualify?"
     weight = 1
-    url = "https://visafinder.tw/gold-card-qualification/"
+    url = "application-faq/qualifications/"
 
 [[menu.main]]
     name = "Application Process"

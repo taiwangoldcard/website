@@ -80,7 +80,7 @@ Next, you must upload a copy of your passport's bio page. You don't need to uplo
  or any of the stamp pages - just the page that shows your profile information.
 
 Finally, based on the regulation you are applying under you will need to upload required documents.
- If you need hints on what to upload, use the [Gold Card Qualification Check](https://visafinder.tw/gold-card-qualification/).
+ If you need hints on what to upload, use the [Gold Card Qualification Check](https://goldcard.nat.gov.tw/en/apply/step-1/).
 
 Do not stress about your application being rejected because you didn't attach enough documents.
 The authorities will ask for more documents if the ones you provided were not
