@@ -73,6 +73,10 @@ Here you must choose the field and regulation which you selected in [Do I Qualif
 This can be changed later if necessary, but only after significant time has passed, so
  be sure to choose the correct entry. Then, click "save" and "next step" to upload your documents.
 
+> ⓘ  Tell a narrative with your documents. Think about how they appear to someone who
+> does not know you, and consider writing a cover letter to explain what you have
+> attached. Promote your uniqueness, as you would in a job interview.
+
 You must first upload a passport photo. Note that this has to be a proper passport photo that you would
  use for a visa application - a selfie will be rejected.
 
