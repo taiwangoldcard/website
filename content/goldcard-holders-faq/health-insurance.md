@@ -14,7 +14,7 @@ You can check the [NHI website](https://www.nhi.gov.tw/english/Content_List.aspx
 ## How do I enroll into the program
 If you have an employer in Taiwan then they will enroll you into the program.
 
-If you don't have an employer, and you are past the six month waiting period (see below), you can apply for your NHI card at your local national health administration bureau. The process is the same as for any resident in Taiwan. Please check with your [local office](https://www.nhi.gov.tw/DL.aspx?sitessn=293&u=LzAwMS9VcGxvYWQvMjkzL3JlbGZpbGUvMC8xOTkwMy9uaGlhZGRyZXNzbGlzdC5wZGY%3d&n=TkhJQWRkcmVzc0xpc3QucGRm) on what materials you will need to bring.
+If you don't have an employer, and you are past the six month waiting period (see below), you can apply for your NHI card at your local national health administration bureau. The process is the same as for any resident in Taiwan.
 
 It usually takes around 1 to 2 weeks to receive your NHI card by mail (so make sure your [registered address is up to date](/goldcard-holders-faq/life-in-taiwan/#how-do-i-change-my-address)). You will receive a temporary insurance certificate that can be used in the meantime, until you receive your NHI card.
 
