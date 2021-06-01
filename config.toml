@@ -11,7 +11,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [[menu.main]]
     name = "Do I qualify?"
     weight = 1
-    url = "https://goldcard.nat.gov.tw/en/apply/step-1/ "
+    url = "https://goldcard.nat.gov.tw/en/apply/step-1/"
 
 [[menu.main]]
     name = "Application Process"
