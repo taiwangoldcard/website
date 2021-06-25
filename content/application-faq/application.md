@@ -56,11 +56,8 @@ You'll also be asked for a local address. It’s entirely normal and accepted to
  [free of charge](/goldcard-holders-faq/life-in-taiwan/#what-happens-if-i-change-my-address). Only
  fill an address out here if you're confident you will be able to receive important documents there.
 
-You must select where you will collect your card, there are two options to choose from:
-1. In Taiwan - generally faster, as your card does not need to be mailed overseas. You will use a
- printed Residence Authorization Certificate to enter Taiwan, which might require some explanation
- to your airline.
-1. At your local embassy - more convenient, as you can enter Taiwan with the process completed, but slower.
+You must select where you will collect your card. You'll use a printed 
+Residence Authorization Certificate to enter Taiwan and pick it up when you get there.
 
 If you have information for any of the remaining fields, fill it in, or leave them blank if you dont.
  Click "save" and "next step" to go to the Profession section.
