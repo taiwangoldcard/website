@@ -16,7 +16,8 @@ Qualification is based on an asssessment of your professional skills, you don't 
 
 ## How long does the application take?
 A perfect application takes 30 days, if your supporting documents are accepted the first time
- around. If you are asked for tweaks to your supporting documents, expect 50-60 days.
+ around and there are no external factors (eg COVID-19 delays).
+ If you are asked for tweaks to your supporting documents, expect 60+ days.
 
 ## Do I apply for the Gold Card personally, or should I ask my employer to do that?
 Generally you should apply personally. Employers can help with the process, but you do not need
@@ -33,13 +34,13 @@ You can check [the "Fees for Employment Gold Card" section of the application po
 
 ## Who can I talk to about this?
 If you'd like to discuss: whether you should apply, benefits of the program, or any early questions:
-- Read the [Foreign Talent Act website](https://foreigntalentact.ndc.gov.tw/en/Default.aspx)
+- Read the [Official Gold Card Website](https://goldcard.nat.gov.tw)
 - Ask [help@taiwangoldcard.tw](mailto:help@taiwangoldcard.tw), the Gold Card Helpdesk run by the National Development Council
 - Ask [Contact Taiwan](https://www.contacttaiwan.tw/main/index.aspx?lang=2#). They are a Government-funded organisation whose mission is to help you find a job. They'll direct you to the right place.
 
-Otherwise, look at the [master contact list](https://foreigntalentact.ndc.gov.tw/en/cp.aspx?n=D927ED39BDAE7478&s=DA2F7BC919B77E24) to talk about:
-- tax incentives: the NIA can sometimes provide some basic information about this, otherwise contact the Ministry of Finance under _Reduction or Exemption of Income Tax of Foreign Special Professionals_ on the master list
-- visas for your spouse/family: Contact NIA, under the _Ministry of Interior for Employment Gold Card Permits for Foreign Special P    rofessionals_ on the master list
+Otherwise, specific questions should be directed to the government agency responsible:
+- tax incentives: the National Tax Bureau's toll-free English line 0800-000-321 can sometimes provide some basic information about this, otherwise ask the [Gold Card Helpdesk](https://goldcard.nat.gov.tw/en/help-desk/) to get a specific Ministry of Finance contact.
+- visas for your spouse/family: Contact [NIA](https://www.immigration.gov.tw/5475/5478/141386/127061/127076/), again following up with the [Gold Card Helpdesk](https://goldcard.nat.gov.tw/en/help-desk/) if you encounter people who don't know what they are doing.
 
 
 ## Do you need to undergo a health check to apply for the Gold Card?

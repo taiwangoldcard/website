@@ -1,8 +1,9 @@
 ## Gold Card News
-
+- <time datetime="2021-01-31">2021-01-31</time> [2127 gold cards approved!](https://foreigntalentact.ndc.gov.tw/en/News_Content.aspx?n=8745CCDE1FD96144&sms=843D002B5C4B741F&s=3AD6729D523A0DEA)
 - <time datetime="2021-01-01">2021-01-01</time> [FAQ: Entering Taiwan during the COVID19 Pandemic](/application-faq/entering-taiwan-pandemic/)
 - <time datetime="2020-12-25">2020-12-25</time> [Amendment for relaxing requirements in the Science & Technology Gold Card category](https://gazette.nat.gov.tw/egFront/e_detail.do?metaid=120644)
 - <time datetime="2020-12-15">2020-12-15</time> [Amendment for relaxing requirements in the Finance Gold Card category](https://foreigntalentact.ndc.gov.tw/en/News_Content.aspx?n=F0746484B877D582&s=21EC304CCD553F0A)
+- <time datetime="2020-12-15">2020-12-15</time> [Finance Qualifications to be Relaxed](https://www.taipeitimes.com/News/front/archives/2020/12/15/2003748732)
 - <time datetime="2020-11-27">2020-11-27</time> [Basic Tax Workshop for Gold Card Holders](https://www.accupass.com/event/2011090730535142464340)
 - <time datetime="2020-11-18">2020-11-18</time> [Gold Card VVIP guests at 2020 Meet Taipei Startup Festival](https://eng.meettaipei.tw/vvip.php)
 - <time datetime="2020-11-02">2020-11-02</time> [Gold Card Office Hosts "What Resources are Available to You" event for Entrepreneurs](https://www.facebook.com/ndc.gov.tw/posts/2731468377121186)
