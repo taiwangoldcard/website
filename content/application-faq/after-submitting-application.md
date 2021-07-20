@@ -48,6 +48,7 @@ This takes some time, and if you are skilled in a niche area expect the applicat
 
 If the status in the portal hasn't updated in a long time first try contacting the [Gold Card Helpdesk](https://goldcard.nat.gov.tw/en/help-desk/).
  They will probably tell you that the application is with the relevant ministry for your skill set and provide contact details.
+ You can also  get a better ETA of how long could take each stage on [Forumosa](https://tw.forumosa.com/t/employment-gold-card-for-some-foreigners/159653/last) where applicants shared their application status.
  If not, try to contact the appropriate ministry yourself.
 
 ### Why was my application rejected with a message about visa type?
