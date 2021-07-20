@@ -31,10 +31,13 @@ During these steps, you can check the status if your application by logging in t
 🕑 4-6 weeks
 
 After a quick sanity check by the National Immigration Agency, your qualifications will be assessed.
-If you login to the portal to check your application status, you'll see it go from "Under Review"
- to "待二審" (secondary inspection) to "Professional Review by Workforce Development Agency".
-
-Once your application reaches this stage, it will stay on this status for weeks.
+If you login to the portal to check your application status, you will see it go through the following stages:
+- "Under Review"
+- "待二審" (secondary inspection)
+- "Professional Review by Workforce Development Agency"
+- "Consulting with Ministry of [...]" [...] being the name of the Ministry in charge of your field ( eg: Ministry of Economic Affairs, Ministry of Science and Technology, etc...)
+- "Review by the Workforce Development Agency"
+- "Review by the National Immigration Agency"
 
 What's happening in the background is: 
 1. First, the Ministry of Labor will attempt to sign off on the work permit. If it can do this itself (eg you apply based on the salary criteria and provide the right documents), your application will be swift (one case took just two days).
@@ -45,6 +48,7 @@ This takes some time, and if you are skilled in a niche area expect the applicat
 
 If the status in the portal hasn't updated in a long time first try contacting the [Gold Card Helpdesk](https://goldcard.nat.gov.tw/en/help-desk/).
  They will probably tell you that the application is with the relevant ministry for your skill set and provide contact details.
+ You can also  get a better ETA of how long could take each stage on [Forumosa](https://tw.forumosa.com/t/employment-gold-card-for-some-foreigners/159653/last) where applicants shared their application status.
  If not, try to contact the appropriate ministry yourself.
 
 ### Why was my application rejected with a message about visa type?
