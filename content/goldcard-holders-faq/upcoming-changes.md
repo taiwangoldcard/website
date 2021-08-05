@@ -41,4 +41,10 @@ This is permanent residence for life, you just need to visit Taiwan once every 5
 ## Does my time on a regular ARC pre-gold-card count towards the 3 years?
 No. Though keep in mind 'regular' APRC after 5 years is probably still an option for you.
 
+## I hear tax benefits for Gold Card holders have been extended?
+Yes, the confusing deferral scheme has been replaced with a straight 5 year eligibility period.
+The benefit and qualification within a given year remains the same.
+
+## Once I convert to APRC, am I still entitled to the same tax benefit as gold card holders?
+No, unless you get an additional Foreign Special Professional work permit.
 
