@@ -48,3 +48,12 @@ The benefit and qualification within a given year remains the same.
 ## Once I convert to APRC, am I still entitled to the same tax benefit as gold card holders?
 No, unless you get an additional Foreign Special Professional work permit.
 
+## Are there any other changes when moving from Gold Card to APRC?
+Pretty much all of the other benefits you have as a Gold Card holder carry over, and you get some more.
+
+- Never have to worry about your visa, ever again (provided you visit Taiwan once every 5 years)
+- Automatic open work permit (work for any or as many employers as you want)
+- Continue to be able to sponsor parents/grandparents for a longer visitor visa than other residents
+- Continued access to National Health Insurance
+- Your family can continue to stay with you :)
+- Ability to apply for the  Mackay Project, which provides benefits (eg discounts) after retirement (65 years old)
