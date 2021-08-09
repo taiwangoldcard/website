@@ -27,8 +27,8 @@ in Taiwan.
 
 One crucial thing: your Gold Card will probably expire before you reach the 3 year 
 residence mark and are able to complete the application for permanent residence. Consider
-whether you need to start a renewal of your card early. If there's a gap in your
-residence, you might become ineligible.
+whether you need to start a renewal of your card early or apply for an extension.
+If there's a gap in your residence, you might become ineligible.
 
 ## Is this just for Gold Card holders?
 Yes, unless you have a Foreign Special Professional Work Permit (probably because
