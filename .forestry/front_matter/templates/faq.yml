@@ -1,0 +1,12 @@
+---
+label: FAQ
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: number
+  name: weight
+  label: weight
+pages:
+- content/123123.md
