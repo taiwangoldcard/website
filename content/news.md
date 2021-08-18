@@ -1,4 +1,5 @@
 ## Gold Card News
+- <time datetime="2021-08-02">2021-08-02</time> [3084 gold cards approved!](https://goldcard.nat.gov.tw/en/news/2021-jul-cumulative-number-of-employment-gold-card-issuance/)
 - <time datetime="2021-01-31">2021-01-31</time> [2127 gold cards approved!](https://foreigntalentact.ndc.gov.tw/en/News_Content.aspx?n=8745CCDE1FD96144&sms=843D002B5C4B741F&s=3AD6729D523A0DEA)
 - <time datetime="2021-01-01">2021-01-01</time> [FAQ: Entering Taiwan during the COVID19 Pandemic](/application-faq/entering-taiwan-pandemic/)
 - <time datetime="2020-12-25">2020-12-25</time> [Amendment for relaxing requirements in the Science & Technology Gold Card category](https://gazette.nat.gov.tw/egFront/e_detail.do?metaid=120644)
