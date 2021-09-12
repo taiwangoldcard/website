@@ -1,6 +1,6 @@
 ## Gold Card News
 - <time datetime="2021-09-11">2021-09-11</time> [Gold Card permanent residency FAQ](https://goldcard.nat.gov.tw/en/tags/aprc/)
-- <time datetime="2021-09-06">2021-09-06</time> [Halt in Passport Inspection Stage of Gold Cards From 7/27 to 9/20](https://goldcard.nat.gov.tw/en/news/covid-19-announcement/)
+- <time datetime="2021-09-06">2021-09-06</time> [Halt in Passport Inspection Stage of Gold Cards Announced From 7/27 to 9/20](https://goldcard.nat.gov.tw/en/news/covid-19-announcement/)
 - <time datetime="2021-08-18">2021-08-18</time> [Gold Card holders give Taiwan high marks](https://topics.amcham.com.tw/2021/08/foreigners-give-taiwan-high-marks/)
 - <time datetime="2021-08-16">2021-08-16</time> [Amendments to Foreign Talent Act, an overview for Gold Card holders](https://www.youtube.com/watch?v=KsxMcVrErRo)
 - <time datetime="2021-08-15">2021-08-15</time> [New fee structure for Gold Card applications and extensions](https://focustaiwan.tw/politics/202108150010)
