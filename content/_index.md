@@ -25,7 +25,7 @@ description = "We are a strong community of professionals with Taiwan Gold Card 
 * Visibility if you are looking for new opportunities
 * Receive a regular newsletter with the latest GoldCard News
 
-{{< button "https://forms.gle/K88uVy2jMW61DpT2A" "Join the Gold Card Community" >}}
+{{< button "https://join.taiwangoldcard.com" "Join the Gold Card Community" >}}
 {{< button "goldcard-holders-faq/" "Resources for GoldCard holders" >}}
 {{< /section >}}
 
