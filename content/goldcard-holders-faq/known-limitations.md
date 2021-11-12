@@ -15,6 +15,6 @@ You must reside in Taiwan for a consecutive six-month period and apply directly 
 **What are the solutions?**
 
 - Find an employer, that will enroll you right after the start of your contract
-- Get a private healthcare from your native country. Other gold card holders might have some recommendations. [Ask the community](https://forms.gle/K88uVy2jMW61DpT2A) and mention your nationality.
+- Get a private healthcare from your native country. Other gold card holders might have some recommendations. [Ask the community](https://join.taiwangoldcard.com) and mention your nationality.
 
  There is currently a [legislative push to improve this](https://www.ndc.gov.tw/en/Content_List.aspx?n=999F9864EFDB5F6F&upn=6CE244D6E7DAF831), lead by the National Development Council.
