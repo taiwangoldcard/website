@@ -18,7 +18,7 @@ describe("Home page", () => {
   });
 
   it("Can navigate to goldcard holders FAQ", () => {
-    cy.contains("Resources for GoldCard holders").click({ force: true });
+    cy.contains("Resources for Gold Card holders").click({ force: true });
     cy.contains("Gold Card Holders FAQ");
   });
 
