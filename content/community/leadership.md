@@ -15,7 +15,7 @@ the vision of our community. To facilitate its growth and improvement, create an
 exciting new plans and exchanges with other communities, and to make hard decisions
 where needed. We, through the election of empowered and consultitative leaders,
 take the essence of what it means to be in the Gold Card community, what's made it special
-from the 50th cardholder anmd nurture it to the 50,000th and beyond.
+from the 50th cardholder and nurture it to the 50,000th and beyond.
 
 # Mission
 The Gold Card Leadership Team is a set of individuals who are
