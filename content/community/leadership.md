@@ -22,4 +22,4 @@ Leadership Team nor a candidate for election.
 
 Polling will use the Condorcet or Single-Transferrable-Vote (STV) method.
 
-For the initial election in August 2021, 3 leaders will be elected.
+For the initial election in February 2022, 5 leaders will be elected.
