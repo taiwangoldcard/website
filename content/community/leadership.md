@@ -2,6 +2,22 @@
 title: "Community Leadership Team"
 ---
 
+Every community has a spirit. A sense of what is important, what is celebrated,
+what is tolerated, and what is perhaps none of those things. In general, our community,
+as a gathering of talented professionals, reaches fast and positive consensus on
+a wide range of issues. We strive to improve ourselves, our field, and the world
+around us. However, even in such a community there is occasionally the need for
+difficult decisions to be made in relation to how the community is run and the 
+conduct of its members.
+
+We entrust the Community Leadership Team to spend their valuable time to further
+the vision of our community. To facilitate its growth and improvement, create and support
+exciting new plans and exchanges with other communities, and to make hard decisions
+where needed. We, through the election of empowered and consultitative leaders,
+take the essence of what it means to be in the Gold Card community, what's made it special
+from the 50th cardholder anmd nurture it to the 50,000th and beyond.
+
+# Mission
 The Gold Card Leadership Team is a set of individuals who are
 elected by the Gold Card Community to act in the best interest of the community.
 
