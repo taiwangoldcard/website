@@ -39,6 +39,6 @@ src="./images/taiwan-unsplash-2x.jpg"
 alt="Sunset over Taipei City"
 width="793"
 height="428"
-desktopOnly=true >}}
+desktopOnly="true" >}}
 
 {{< /section >}}
