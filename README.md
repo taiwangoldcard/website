@@ -18,8 +18,8 @@ Our goal is to:
 
 ```bash
 brew install hugo # check https://gohugo.io/getting-started/installing/ for alternative method
-git clone https://github.com/taiwangoldcard/goldcard.tw.git
-cd goldcard.tw
+git clone https://github.com/taiwangoldcard/website.git
+cd website
 hugo server # launch a server and serve it at http://localhost:1313/
 ```
 
