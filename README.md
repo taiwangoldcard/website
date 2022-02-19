@@ -11,7 +11,8 @@ Our goal is to:
 ## Website architecture
 
 - Use https://gohugo.io (extended version) with the [compose theme](https://github.com/onweru/compose)
-- Hosted on GitHub
+- Built with GitHub Actions
+- Hosted on GitHub Pages
 - We use Cloudflare
 
 ## Working with the repo
