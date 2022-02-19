@@ -34,4 +34,12 @@ description = "We are a strong community of professionals with Taiwan Gold Card 
 
 {{< section "homePicture" >}}
 
+{{< image
+    src="./images/taiwan-unsplash-2x.jpg"
+    alt="Sunset over Taipei City"
+    width="793"
+    height="428"
+    desktopOnly="true"
+>}}
+
 {{< /section >}}
