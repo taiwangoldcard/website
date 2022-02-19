@@ -1,10 +1,4 @@
-{{- $image := .Get "src" }}
-{{- $type_arr := split $image "." }}
-{{- $srcbase := index $type_arr (sub (len $type_arr) 2) }}
-<picture {{ with .Get "desktopOnly" }} class="image--desktop-only" {{ end }}>
-    {{- with .Get "desktopOnly" }}
-    <source srcset="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" media="(max-width: 960px)">
-    {{- end }}
-    <source srcset="{{ $srcbase }}.webp" type="image/webp">
-    <img src="{{ $image }}" alt="{{.Get `alt` }}" width="{{.Get `width` }}" height="{{.Get `height` }}">
-</picture>
+{{- $src := .Get 0 }}
+{{- $alt := .Get 1 }}
+{{- $modifier := .Get 2 -}}
+<img src = '{{ $src }}' {{ with $alt }}alt = '{{ . }}'{{ end }} {{ with $modifier }} class = '{{ . }}'{{ end }}>
