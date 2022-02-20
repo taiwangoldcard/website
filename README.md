@@ -11,9 +11,9 @@ Our goal is to:
 ## Website architecture
 
 - Use https://gohugo.io (extended version) with the [compose theme](https://github.com/onweru/compose)
-- Built with GitHub Actions
+- Deploy and test via [GitHub Actions](https://github.com/taiwangoldcard/website/tree/master/.github/workflows)
 - Hosted on GitHub Pages
-- We use Cloudflare
+- We use Cloudflare for DNS management and most of their CDN features (we don't have Rocket Loader activated)
 
 ## Working with the repo
 
