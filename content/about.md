@@ -38,6 +38,13 @@ CC-BY-SA-NC license. The license text can be found in
 
 {{< column >}}
 {{< section "homePicture" >}}
+{{< image
+    src="./images/taiwan-unsplash-2x.jpg"
+    alt="Sunset over Taipei City"
+    width="538"
+    height="290"
+    desktopOnly="true"
+>}}
 {{< /section >}}
 
 The following people have contributed to this site: Alvin, Antoine Scemama, Audrey Tang, Colum Brolly, Cuan-Bo Pong, Eric Khun, Geoff Lee, Ian Sinnott, Jonathan Liao, Loris Bettazza, Nuttaphat Arunoprayoch, Philip Bergvist, Rohit Dhatrak, Shawn Lim, Tom Fifield.

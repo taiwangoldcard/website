@@ -32,6 +32,13 @@ The content on this website is protected by international copyright and owned by
 
 {{< column >}}
 {{< section "homePicture" >}}
+{{< image
+    src="./images/taiwan-unsplash-2x.jpg"
+    alt="Sunset over Taipei City"
+    width="538"
+    height="290"
+    desktopOnly="true"
+>}}
 {{< /section >}}
 
 
