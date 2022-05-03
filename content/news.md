@@ -1,4 +1,9 @@
 ## Gold Card News
+- <time datetime="2022-05-03">2022-05-03</time> [Mandatory quarantine for arrivals to be shortened to 7 days](https://www.cdc.gov.tw/En/Bulletin/Detail/Nr2mxSbL1sPgLU2r5aUiag?typeid=158)
+- <time datetime="2022-04-19">2022-04-19</time> [Taiwan looking to open borders in July based on infection rate](https://meet-global.bnext.com.tw/articles/view/47662)
+- <time datetime="2022-04-18">2022-04-18</time> [4645 gold cards approved](https://goldcard.nat.gov.tw/en/news/2022-mar-cumulative-number-of-employment-gold-card-issuance/)
+- <time datetime="2022-04-15">2022-04-15</time> [COVID-19 nasal swabs for some arriving passengers to end next week](https://focustaiwan.tw/society/202204150016)
+- <time datetime="2022-04-14">2022-04-14</time> [Personal Income Tax Workshop](https://www.accupass.com/event/2203310819562296023690)
 - <time datetime="2022-03-04">2022-03-04</time> [Overseas missions will resume the Gold Card Passport Inspection Stage and the processing of Gold Card Dependent Visas on March 7, 2022](https://goldcard.nat.gov.tw/en/news/covid-19-announcement/)
 - <time datetime="2022-03-02">2022-03-02</time> [Taiwan launches new 1990 hotline service for foreign nationals](https://focustaiwan.tw/society/202203020026)
 - <time datetime="2022-02-15">2022-02-15</time> [4105 gold cards approved](https://foreigntalentact.ndc.gov.tw/en/Content_List.aspx?n=D9F6808D0AD625E4)
