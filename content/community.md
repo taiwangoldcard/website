@@ -74,7 +74,7 @@ I am a co-author on the [JAMA paper](https://jamanetwork.com/journals/jama/fulla
 
 {{< /block >}}
 
-{< block "grid-2 mt-2 homepage-div" >}}
+{{< block "grid-2 mt-2 homepage-div" >}}
 {{< column >}}
 
 ### Hasnaa Fatehi, PhD, Economy
