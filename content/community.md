@@ -5,10 +5,9 @@ title: "Taiwan Gold Card Community"
 > #### We are a community of more than 300+ Gold Card Holders supporting each others. We meet regularly through monthly events. If you have the Employment Gold Card and want to be part to the community, feel free to fill the [Form](https://join.taiwangoldcard.com)
 
 {{< block "grid-2 mt-2 homepage-div" >}}
-
 {{< column >}}
 
-### Sam Khan (康善文), Kaohsiung, Economy
+### Sam Khan, Kaohsiung, Economy
 
 <img style="float:left; padding: 5px; margin: 10px;" width="200px" height="200px" src="/images/goldies/skhan.jpeg" />
 
@@ -24,7 +23,7 @@ In 2022, I transitioned from Gold Card to full Taiwanese citizenship which I am 
 
 {{< column >}}
 
-### Daniele Fusi (傅丹尼), Taipei, Science and Technology
+### Daniele Fusi, Taipei, Science and Technology
 
 <img style="float:left; padding: 5px; margin: 10px;" width="200px" height="200px" src="/images/goldies/dfusi.jpg" />
 
@@ -34,14 +33,12 @@ In 2022, I transitioned from Gold Card to full Taiwanese citizenship which I am 
 
 **What are you currently doing in Taiwan?** Working remotely, supporting US clients that can't travel to Taiwan.
 
-
 {{< /column >}}
 
 {{< /block >}}
 
 
 {{< block "grid-2 mt-2 homepage-div" >}}
-
 {{< column >}}
 
 ### Hasnaa Fatehi, PhD, Economy
@@ -78,7 +75,6 @@ I am a co-author on the [JAMA paper](https://jamanetwork.com/journals/jama/fulla
 {{< /block >}}
 
 {< block "grid-2 mt-2 homepage-div" >}}
-
 {{< column >}}
 
 ### Hasnaa Fatehi, PhD, Economy
