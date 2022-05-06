@@ -2,12 +2,45 @@
 title: "Taiwan Gold Card Community"
 ---
 
-> #### We are a community of more than 300+ Gold Card Holders supporting each others. We meet regularly through monthly events. If you have the Employment Gold Card and want to be part to the community, feel free to fill the [Form](https://join.taiwangoldcard.com)
+> #### We are a community of Gold Card Holders supporting each other. We meet regularly through monthly events. If you have the Employment Gold Card and want to be part to the community, feel free to fill the [Form](https://join.taiwangoldcard.com)
 
 {{< block "grid-2 mt-2 homepage-div" >}}
 {{< column >}}
 
-### Sam Khan, Kaohsiung, Economy
+### Lung Hao Liu (劉倫豪), Science and Technology
+
+<img style="float:left; padding: 5px; margin: 10px;" width="200px" height="200px" src="/images/goldies/lhliu.jpg" />
+
+**Background**: Co-founder of Nexraid Consulting and 99 Venture, an IT consulting and corporate services firm. We are a pioneer in hybrid cloud technology and is one of the few companies in Singapore that has obtained ISO27001 and ISO27701 accreditation.
+
+**Why Taiwan?**: I was born in Taiwan but migrated to Singapore since 10. I have always been curious about this piece of land that I was familiar with but yet knowing very little about.
+
+**What are you currently doing in Taiwan?**: Besides trying to understand the different culture and experience in Taiwan, we have a few employees based here. I have also mentored a few local start-ups and SMEs to assist them with international expansion and fund raising. 
+
+
+{{< /column >}}
+
+{{< column >}}
+
+### John Chih Liu (劉喆), New Taipei City, Science and Technology
+
+<img style="float:left; padding: 5px; margin: 10px;" width="200px" height="200px" src="/images/goldies/jliu.jpg" />
+
+**Background**: I grew up in the United States and attended the University of Pennsylvania for my BS, MS, and PhD. I'm a CFA Charterholder. I've worked for several investment banks as a trader & portfolio manager in the US, Tokyo and Hong Kong as well as head of investments for an university endowment and state pension. I switched careers in 2014 to become a NLP researcher and founded a data science business in 2019. 
+
+**Why Taiwan?**: My wife is Taiwanese, and after visiting her relatives in 2020, I realized the tremendous opportunity for Taiwan to take/keep global leadership in many technologies. I wanted to come to Taiwan to contribute to its success while enjoying the beautiful culture and comfortable & safe lifestyle.
+
+**What are you currently doing in Taiwan?** I spent 2021 writing and publishing a new book titled "Explainable Artificial Intelligence, an Introduction to Interpretable Machine Learning." I am currently looking into starting a fintech business based here in Taiwan.
+
+{{< /column >}}
+
+{{< /block >}}
+
+
+{{< block "grid-2 mt-2 homepage-div" >}}
+{{< column >}}
+
+### Sam Khan (康善文), Kaohsiung, Economy
 
 <img style="float:left; padding: 5px; margin: 10px;" width="200px" height="200px" src="/images/goldies/skhan.jpeg" />
 
@@ -23,7 +56,7 @@ In 2022, I transitioned from Gold Card to full Taiwanese citizenship which I am 
 
 {{< column >}}
 
-### Daniele Fusi, Taipei, Science and Technology
+### Daniele Fusi (傅丹尼), Taipei, Science and Technology
 
 <img style="float:left; padding: 5px; margin: 10px;" width="200px" height="200px" src="/images/goldies/dfusi.jpg" />
 
