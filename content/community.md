@@ -4,6 +4,40 @@ title: "Taiwan Gold Card Community"
 
 > #### We are a community of Gold Card Holders supporting each other. We meet regularly through monthly events. If you have the Employment Gold Card and want to be part to the community, feel free to fill the [Form](https://join.taiwangoldcard.com)
 
+
+{{< block "grid-2 mt-2 homepage-div" >}}
+{{< column >}}
+
+### Ingrid Su (蘓迎加), Economy
+
+<img style="float:left; padding: 5px; margin: 10px;" width="200px" height="200px" src="/images/goldies/ingridsu.jpg" />
+
+**Background**: I'm originally from Texas but I spent most of career in New York where I was an energy investor (which conveniently let me never get too far from my Texas roots).
+
+**Why Taiwan?**: Part of it is to stay connected with family in Taiwan. Other parts are the country's creativity, quality, kindness, and natural beauty. 
+
+**What are you currently doing in Taiwan?**: I'm currently exploring some of Taiwan's manufacturing processes and craftsmanship. It is my hope that over the next few years, I can create a multi-language consumer product business that can be enjoyed in the U.S. and Taiwan. In my spare time, I visit the 24-hour bookstore at 誠品。
+
+
+{{< /column >}}
+
+{{< column >}}
+
+### James Murdza (曾傑米), Economy
+
+<img style="float:left; padding: 5px; margin: 10px;" width="200px" height="200px" src="/images/goldies/jmurdza.jpg" />
+
+**Background**: I am an aerospace and software engineer. I believe that coding is the literacy of the 21st century and that it’s lack of resources and confidence that limits most people from becoming STEM proficient, not ability. I write online and make videos about software at [jamesmurdza.com](https://jamesmurdza.com).
+
+**Why Taiwan?**: At 21, I moved from the U.S. to the Netherlands and integrated into European life. Working as an engineer with interesting people from many countries was the biggest benefit to my career so far. I decided to take a risk and do it again. I came to Taiwan to accelerate my Mandarin and to join the entrepreneurship community here.
+
+**What are you currently doing in Taiwan?** I am realizing my goal of becoming fluent in Mandarin while working as a freelance software developer.
+
+{{< /column >}}
+
+{{< /block >}}
+
+
 {{< block "grid-2 mt-2 homepage-div" >}}
 {{< column >}}
 
@@ -174,4 +208,4 @@ Within my 3 years of having the Gold Card visa, I want to establish an energy te
 
 {{< /block >}}
 
-> #### We are a community of more than 300+ Gold Card Holders supporting each others. We meet regularly through monthly events. If you have the Employment Gold Card and want to be part to the community, feel free to fill the [Form](https://join.taiwangoldcard.com)
+> #### We are a community of Gold Card Holders supporting each others. We meet regularly through monthly events. If you have the Employment Gold Card and want to be part to the community, feel free to fill the [Form](https://join.taiwangoldcard.com)
