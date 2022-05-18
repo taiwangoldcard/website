@@ -6,6 +6,41 @@ title: "Taiwan Gold Card Community"
 
 
 {{< block "grid-2 mt-2 homepage-div" >}}
+
+{{< column >}}
+
+### Shawn Lim, New Taipei City, Science and Technology
+
+<img style="float:left; padding: 5px; margin: 10px;" width="200px" height="200px" src="/images/goldies/shawnlim.jpeg" />
+
+**Background**: Software engineer with a business degree. Started and failed in a few startup projects, acquired software engineering skills along the way. I spend most of my free time reading about engineering topics and prototyping ideas.
+
+**Why Taiwan?**: Taiwan has an amazing mix of nature and city. I enjoy scuba diving and Taiwan has world class diving sites like Green Island. I like the values of the Taiwanese people and I see myself being here in the long term. 
+
+**What are you currently doing in Taiwan?** Scuba diving, getting inspired by smart people in the community and looking for ideas.
+
+{{< /column >}}
+
+{{< column >}}
+
+### JC Bouzigues, Taoyuan, Science and Technology
+
+<img style="float:left; padding: 5px; margin: 10px;" width="200px" height="200px" src="/images/goldies/jcbouzigues.jpg" />
+
+**Background**: After 27 years in San Jose, California, I just landed in Taoyuan. Originally from France, I am a semiconductor professional (MSEE, MBA) with 30+ years of experience in engineering, field applications engineering, marketing, sales and business development. I run a semiconductor Business Development consulting firm (https://www.fidessales.com/) in Silicon Valley and now Taiwan with expertise in automotive electronics, security, AI + Vision, IoT, patent licensing and litigation support. Feel free to reach out if I can help. 
+
+**Why Taiwan?**: Taiwan is today the main center in the world for semiconductor manufacturing, and has a very rich semiconductor, ODM and CM ecosystem.
+
+**What are you currently doing in Taiwan?**: I will put my expertise and network to serve Silicon Valley companies targeting Taiwanese ODM, as well as Taiwanese companies expand their reach into Silicon Valley.
+
+I enjoy cooking, discovering new ethnic foods, hiking, biking, and soon SCUBA diving.
+
+{{< /column >}}
+
+{{< /block >}}
+
+
+{{< block "grid-2 mt-2 homepage-div" >}}
 {{< column >}}
 
 ### Ingrid Su (蘓迎加), Economy
