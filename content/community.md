@@ -11,7 +11,7 @@ title: "Taiwan Gold Card Community"
 
 ### Shawn Lim, New Taipei City, Science and Technology
 
-<img style="float:left; padding: 5px; margin: 10px;" width="200px" height="200px" src="/images/goldies/shawnlim.jpg" />
+<img style="float:left; padding: 5px; margin: 10px;" width="200px" height="200px" src="/images/goldies/shawnlim.jpeg" />
 
 **Background**: Software engineer with a business degree. Started and failed in a few startup projects, acquired software engineering skills along the way. I spend most of my free time reading about engineering topics and prototyping ideas.
 
