@@ -9,6 +9,41 @@ title: "Taiwan Gold Card Community"
 
 {{< column >}}
 
+### Matteo Serone (鄭馬太歐), Taipei, Finance
+
+<img style="float:left; padding: 5px; margin: 10px;" width="200px" height="200px" src="/images/goldies/mserone.jpg" />
+
+**Background**: Fintech Professional relocated from Hong Kong. Originally from Italy, I am a great lover of Asian cuisines (Japanese and Chinese in particular) and I like to have a cold one to chat a bit.
+
+**Why Taiwan?**: Moved to finally settled down with my partner. 
+
+**What are you currently doing in Taiwan?** Working remotely for my HK company taking care of the credit card department and doing some BD.
+
+{{< /column >}}
+
+{{< column >}}
+
+### Colum Brolly, Science and Technology
+
+<img style="float:left; padding: 5px; margin: 10px;" width="200px" height="200px" src="/images/goldies/colum.png" />
+
+**Background**: Seasoned professional in software engineering from Ireland. I have a Bachelor's Degree in Computer Science from Ulster University. Worked on major systems within the aviation industry.
+
+**Why Taiwan?**: Having worked in the aviation industry with airlines and airports around the world I discovered Taiwan through business. I visited this wonderful island and really enjoyed my time and could see myself living here. The announcement came out in February 2018 that the Gold Card program had launched, I decided to apply soon after the launch. Once approved I then relocated to Taiwan and have been happily living here since.
+
+**What are you currently doing in Taiwan?** I work for a company called [TPIsoftware](https://www.tpisoftware.com/en/) primarily on financial software for the major banks. I am also doing global business development to take on more projects from customers globally. If anyone is taking on any endeavours and would like some assistance, feel free to reach out.
+
+
+{{< /column >}}
+
+{{< /block >}}
+
+
+-------
+{{< block "grid-2 mt-2 homepage-div" >}}
+
+{{< column >}}
+
 ### Shawn Lim, New Taipei City, Science and Technology
 
 <img style="float:left; padding: 5px; margin: 10px;" width="200px" height="200px" src="/images/goldies/shawnlim.jpeg" />
@@ -95,11 +130,11 @@ I enjoy cooking, discovering new ethnic foods, hiking, biking, and soon SCUBA di
 
 <img style="float:left; padding: 5px; margin: 10px;" width="200px" height="200px" src="/images/goldies/jliu.jpg" />
 
-**Background**: I grew up in the United States and attended the University of Pennsylvania for my BS, MS, and PhD. I'm a CFA Charterholder. I've worked for several investment banks as a trader & portfolio manager in the US, Tokyo and Hong Kong as well as head of investments for an university endowment and state pension. I switched careers in 2014 to become a NLP researcher and founded a data science business in 2019. 
+**Background**: I grew up in the United States and earned my BS, MS, and PhD in electrical engineering from the University of Pennsylvania. I'm a CFA Charterholder. I've worked for several investment banks managing trading and portfolio management teams in the US, Tokyo and Hong Kong as well as serving as head of investments for an university endowment and state pension. I switched careers in 2014 to become a NLP researcher and founded a data science business in 2019. 
 
-**Why Taiwan?**: My wife is Taiwanese, and after visiting her relatives in 2020, I realized the tremendous opportunity for Taiwan to take/keep global leadership in many technologies. I wanted to come to Taiwan to contribute to its success while enjoying the beautiful culture and comfortable & safe lifestyle.
+**Why Taiwan?**: My wife is Taiwanese, and after visiting her relatives in 2020, I realized the tremendous opportunity for Taiwan to take global leadership in many technologies. I wanted to come to Taiwan to contribute to its success while enjoying the beautiful culture and comfortable & safe lifestyle.
 
-**What are you currently doing in Taiwan?** I spent 2021 writing and publishing a new book titled "Explainable Artificial Intelligence, an Introduction to Interpretable Machine Learning." I am currently looking into starting a fintech business based here in Taiwan.
+**What are you currently doing in Taiwan?** I spent 2021 writing and publishing a new book titled "Explainable Artificial Intelligence, an Introduction to Interpretable Machine Learning." I am currently launching a tech startup based here in New Taipei City.
 
 {{< /column >}}
 
@@ -229,15 +264,6 @@ Within my 3 years of having the Gold Card visa, I want to establish an energy te
 
 {{< column >}}
 
-### Colum Brolly, Science and Technology
-
-<img style="float:left; padding: 5px; margin: 10px;" width="200px" height="200px" src="/images/goldies/colum.png" />
-
-**Background**: Seasoned professional in software engineering from Ireland. I have a Bachelor's Degree in Computer Science from Ulster University. Worked on major systems within the aviation industry.
-
-**Why Taiwan?**: Having worked in the aviation industry with airlines and airports around the world I discovered Taiwan through business. I visited this wonderful island and really enjoyed my time and could see myself living here. The announcement came out in February 2018 that the Gold Card program had launched, I decided to apply soon after the launch. Once approved I then relocated to Taiwan and have been happily living here since.
-
-**What are you currently doing in Taiwan?** I work for a company called [TPIsoftware](https://www.tpisoftware.com/en/) primarily on financial software for the major banks. I am also doing global business development to take on more projects from customers globally. If anyone is taking on any endeavours and would like some assistance, feel free to reach out.
 
 {{< /column >}}
 

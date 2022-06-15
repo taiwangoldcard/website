@@ -1,4 +1,8 @@
 ## Gold Card News
+- <time datetime="2022-06-15">2022-06-15</time> [Travelers can once again transit through Taiwan](https://www.taipeitimes.com/News/front/archives/2022/06/15/2003779913)
+- <time datetime="2022-06-11">2022-06-11</time> [Taiwan cuts COVID-19 quarantine for arrivals to 3 days](https://focustaiwan.tw/society/202206110012)
+- <time datetime="2022-05-17">2022-05-17</time> [Taiwan aiming to recruit more foreign professional talent](https://www.taiwannews.com.tw/en/news/4540984)
+- <time datetime="2022-05-16">2022-05-16</time> [4900 gold cards approved](https://goldcard.nat.gov.tw/en/news/2022-apr-cumulative-number-of-employment-gold-card-issuance/)
 - <time datetime="2022-05-03">2022-05-03</time> [Mandatory quarantine for arrivals to be shortened to 7 days](https://www.cdc.gov.tw/En/Bulletin/Detail/Nr2mxSbL1sPgLU2r5aUiag?typeid=158)
 - <time datetime="2022-04-19">2022-04-19</time> [Taiwan looking to open borders in July based on infection rate](https://meet-global.bnext.com.tw/articles/view/47662)
 - <time datetime="2022-04-18">2022-04-18</time> [4645 gold cards approved](https://goldcard.nat.gov.tw/en/news/2022-mar-cumulative-number-of-employment-gold-card-issuance/)
