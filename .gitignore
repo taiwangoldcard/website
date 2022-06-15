@@ -2,3 +2,4 @@ resources/
 node_modules/
 cypress/**/*.mp4
 tests-ui.png 
+.DS_Store
