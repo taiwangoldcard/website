@@ -1,0 +1,22 @@
+{{ $name := .Get "name" }}
+{{ $nameAnchor := anchorize $name }}
+{{ $img := .Get "img" }}
+{{ $imgSrc := delimit (slice "/images/goldies/" $img) "" }}
+<article id="{{ $nameAnchor }}" class="gold-card-holder">
+  <img class="gold-card-holder__pic" src="{{ $imgSrc }}" alt="{{ $name }}" width="200" height="200">
+  <div class="gold-card-holder__summary card">
+    <h3 class="gold-card-holder__name link_owner">
+      {{ $name }}
+      <a class="link icon" href="/community/#{{ $nameAnchor }}">
+        <img src="/icons/link.svg" alt="link icon">
+      </a>
+    </h3>
+
+    <h4 class="gold-card-holder__category">{{ .Get "category" }}</h4>
+    {{ with .Get "location" }}
+      <small class="gold-card-holder__location"><strong>{{ . }}</strong></small>
+    {{ end }}
+
+    <div class="gold-card-holder__details">{{- .Inner | markdownify -}}</div>
+  </div>
+</article>
