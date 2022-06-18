@@ -27,12 +27,12 @@ Can my spouse work, if they join me in Taiwan as a dependant? The Gold Card does
 What happens if I get married to a Taiwanese citizen while on a Gold Card?" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://taiwangoldcard.com/amp/goldcard-holders-faq/family/" />
-<meta property="article:modified_time" content="2022-06-18T10:49:16+08:00" /><meta property="og:site_name" content="Taiwan Gold Card | Taiwan Foreign Talent Community" />
+<meta property="article:modified_time" content="2022-06-18T10:52:42+08:00" /><meta property="og:site_name" content="Taiwan Gold Card | Taiwan Foreign Talent Community" />
 <meta itemprop="name" content="Family">
 <meta itemprop="description" content="Can my spouse and children come with me if I get a Gold Card? Yes, for children under 20 years old and married spouses this is no problem.
 Can my spouse work, if they join me in Taiwan as a dependant? The Gold Card does not provide for a work permit for dependants of the card holder. Your spouse should get their own work permit.
 What happens if I get married to a Taiwanese citizen while on a Gold Card?">
-<meta itemprop="dateModified" content="2022-06-18T10:49:16+08:00" />
+<meta itemprop="dateModified" content="2022-06-18T10:52:42+08:00" />
 <meta itemprop="wordCount" content="291">
 
 
@@ -335,6 +335,40 @@ img {
   .wrap.nav {
     display: flex;
     flex-direction: column; } }
+
+.card {
+  --card-padding: 2rem;
+  --card-border-radius: 1rem;
+  --card-bg-color: #f8f8f8;
+  padding: var(--card-padding);
+  border-radius: var(--card-border-radius);
+  background-color: var(--card-bg-color); }
+  @media (prefers-color-scheme: dark) {
+    .card {
+      --card-bg-color: #eeeeee;
+      color: var(--dark);
+      background-color: var(--card-bg-color); } }
+.gold-card-holder {
+  --pic-size: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+  .gold-card-holder__pic {
+    z-index: 1;
+    width: var(--pic-size);
+    height: var(--pic-size);
+    object-fit: cover;
+    border-radius: 50%; }
+  .gold-card-holder__summary {
+    margin-top: calc(var(--pic-size) / -2);
+    padding-top: calc(var(--pic-size) / 2);
+    height: 100%; }
+  .gold-card-holder__name {
+    margin-bottom: 0; }
+  .gold-card-holder__category {
+    margin-block: 0;
+    color: var(--theme);
+    text-transform: uppercase; }
 
 .section_title {
   font-size: 1.1rem; }

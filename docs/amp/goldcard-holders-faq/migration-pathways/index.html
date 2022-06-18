@@ -26,11 +26,11 @@
 Consider also if the program doesn’t change." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://taiwangoldcard.com/amp/goldcard-holders-faq/migration-pathways/" />
-<meta property="article:modified_time" content="2022-06-18T10:49:16+08:00" /><meta property="og:site_name" content="Taiwan Gold Card | Taiwan Foreign Talent Community" />
+<meta property="article:modified_time" content="2022-06-18T10:52:42+08:00" /><meta property="og:site_name" content="Taiwan Gold Card | Taiwan Foreign Talent Community" />
 <meta itemprop="name" content="Migration Pathways">
 <meta itemprop="description" content="Should I switch from an APRC to a Gold Card? According to NIA officials, no. They stress that this card is nonrenewable and you must go through the application process again toward the end of the gold card. One way of looking at that is that the Foreign Special Professional program could change to the point where one no longer qualifies. APRC is therefore “safer” in the long term.
 Consider also if the program doesn’t change.">
-<meta itemprop="dateModified" content="2022-06-18T10:49:16+08:00" />
+<meta itemprop="dateModified" content="2022-06-18T10:52:42+08:00" />
 <meta itemprop="wordCount" content="510">
 
 
@@ -332,6 +332,40 @@ img {
   .wrap.nav {
     display: flex;
     flex-direction: column; } }
+
+.card {
+  --card-padding: 2rem;
+  --card-border-radius: 1rem;
+  --card-bg-color: #f8f8f8;
+  padding: var(--card-padding);
+  border-radius: var(--card-border-radius);
+  background-color: var(--card-bg-color); }
+  @media (prefers-color-scheme: dark) {
+    .card {
+      --card-bg-color: #eeeeee;
+      color: var(--dark);
+      background-color: var(--card-bg-color); } }
+.gold-card-holder {
+  --pic-size: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+  .gold-card-holder__pic {
+    z-index: 1;
+    width: var(--pic-size);
+    height: var(--pic-size);
+    object-fit: cover;
+    border-radius: 50%; }
+  .gold-card-holder__summary {
+    margin-top: calc(var(--pic-size) / -2);
+    padding-top: calc(var(--pic-size) / 2);
+    height: 100%; }
+  .gold-card-holder__name {
+    margin-bottom: 0; }
+  .gold-card-holder__category {
+    margin-block: 0;
+    color: var(--theme);
+    text-transform: uppercase; }
 
 .section_title {
   font-size: 1.1rem; }

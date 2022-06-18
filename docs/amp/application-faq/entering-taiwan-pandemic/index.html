@@ -25,10 +25,10 @@
 <meta property="og:description" content="Taiwan does everything to keep its island safe. During the pandemic, all the regulation regarding the entry-exit of the country changes on a day to day basis. Please check the Ministry of Foreign Affairs and the CDC (Taiwan Center of Disease Control), and BOCA (Bureau of Consular Affairs) websites for the latest information. The specific informations for Gold Card Holders can be found in the Taiwan Gold Card Office FAQ" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://taiwangoldcard.com/amp/application-faq/entering-taiwan-pandemic/" />
-<meta property="article:modified_time" content="2022-06-18T10:49:16+08:00" /><meta property="og:site_name" content="Taiwan Gold Card | Taiwan Foreign Talent Community" />
+<meta property="article:modified_time" content="2022-06-18T10:52:42+08:00" /><meta property="og:site_name" content="Taiwan Gold Card | Taiwan Foreign Talent Community" />
 <meta itemprop="name" content="Entering Taiwan during the pandemic">
 <meta itemprop="description" content="Taiwan does everything to keep its island safe. During the pandemic, all the regulation regarding the entry-exit of the country changes on a day to day basis. Please check the Ministry of Foreign Affairs and the CDC (Taiwan Center of Disease Control), and BOCA (Bureau of Consular Affairs) websites for the latest information. The specific informations for Gold Card Holders can be found in the Taiwan Gold Card Office FAQ">
-<meta itemprop="dateModified" content="2022-06-18T10:49:16+08:00" />
+<meta itemprop="dateModified" content="2022-06-18T10:52:42+08:00" />
 <meta itemprop="wordCount" content="70">
 
 
@@ -329,6 +329,40 @@ img {
   .wrap.nav {
     display: flex;
     flex-direction: column; } }
+
+.card {
+  --card-padding: 2rem;
+  --card-border-radius: 1rem;
+  --card-bg-color: #f8f8f8;
+  padding: var(--card-padding);
+  border-radius: var(--card-border-radius);
+  background-color: var(--card-bg-color); }
+  @media (prefers-color-scheme: dark) {
+    .card {
+      --card-bg-color: #eeeeee;
+      color: var(--dark);
+      background-color: var(--card-bg-color); } }
+.gold-card-holder {
+  --pic-size: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+  .gold-card-holder__pic {
+    z-index: 1;
+    width: var(--pic-size);
+    height: var(--pic-size);
+    object-fit: cover;
+    border-radius: 50%; }
+  .gold-card-holder__summary {
+    margin-top: calc(var(--pic-size) / -2);
+    padding-top: calc(var(--pic-size) / 2);
+    height: 100%; }
+  .gold-card-holder__name {
+    margin-bottom: 0; }
+  .gold-card-holder__category {
+    margin-block: 0;
+    color: var(--theme);
+    text-transform: uppercase; }
 
 .section_title {
   font-size: 1.1rem; }

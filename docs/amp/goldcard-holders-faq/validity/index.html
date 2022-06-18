@@ -26,11 +26,11 @@
 Can I renew my gold card? A &lsquo;renewal&rsquo; is almost the same as a new application. Your &lsquo;renewal&rsquo; application will still go through skill assessment like your first one, and it has been stated that your activities in Taiwan during your first card will form part of the assessment." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://taiwangoldcard.com/amp/goldcard-holders-faq/validity/" />
-<meta property="article:modified_time" content="2022-06-18T10:49:16+08:00" /><meta property="og:site_name" content="Taiwan Gold Card | Taiwan Foreign Talent Community" />
+<meta property="article:modified_time" content="2022-06-18T10:52:42+08:00" /><meta property="og:site_name" content="Taiwan Gold Card | Taiwan Foreign Talent Community" />
 <meta itemprop="name" content="Renewal &amp; Validity">
 <meta itemprop="description" content="How long is a gold card valid? By default, between one and three years. If you are concerned your card (or underlying visa/work permit) may have become invalid or expired, you can check with the National Immigration Agency.
 Can I renew my gold card? A &lsquo;renewal&rsquo; is almost the same as a new application. Your &lsquo;renewal&rsquo; application will still go through skill assessment like your first one, and it has been stated that your activities in Taiwan during your first card will form part of the assessment.">
-<meta itemprop="dateModified" content="2022-06-18T10:49:16+08:00" />
+<meta itemprop="dateModified" content="2022-06-18T10:52:42+08:00" />
 <meta itemprop="wordCount" content="195">
 
 
@@ -332,6 +332,40 @@ img {
   .wrap.nav {
     display: flex;
     flex-direction: column; } }
+
+.card {
+  --card-padding: 2rem;
+  --card-border-radius: 1rem;
+  --card-bg-color: #f8f8f8;
+  padding: var(--card-padding);
+  border-radius: var(--card-border-radius);
+  background-color: var(--card-bg-color); }
+  @media (prefers-color-scheme: dark) {
+    .card {
+      --card-bg-color: #eeeeee;
+      color: var(--dark);
+      background-color: var(--card-bg-color); } }
+.gold-card-holder {
+  --pic-size: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+  .gold-card-holder__pic {
+    z-index: 1;
+    width: var(--pic-size);
+    height: var(--pic-size);
+    object-fit: cover;
+    border-radius: 50%; }
+  .gold-card-holder__summary {
+    margin-top: calc(var(--pic-size) / -2);
+    padding-top: calc(var(--pic-size) / 2);
+    height: 100%; }
+  .gold-card-holder__name {
+    margin-bottom: 0; }
+  .gold-card-holder__category {
+    margin-block: 0;
+    color: var(--theme);
+    text-transform: uppercase; }
 
 .section_title {
   font-size: 1.1rem; }
