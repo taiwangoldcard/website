@@ -1,6 +1,11 @@
 ## Gold Card News
+- <time datetime="2022-07-19">2022-07-19</time> [Entry restrictions loosened for some foreign nationals](https://www.cdc.gov.tw/En/Bulletin/Detail/I9YdMhSzuA9A5F2x1_E7nQ?typeid=158)
+- <time datetime="2022-07-19">2022-07-19</time> [Taiwan loosens mask rules](https://www.cdc.gov.tw/En/Bulletin/Detail/1rDzZPGoQuMtXrWDDeihSA?typeid=158)
+- <time datetime="2022-06-15">2022-07-07</time> [Gold Card holders exempt from negative RT-PCR test 2 days before arrival](https://www.cdc.gov.tw/En/Bulletin/Detail/W0PeXU928EGDh6jpHsEwGQ?typeid=158)
+- <time datetime="2022-06-22">2022-06-22</time> [5140 gold cards approved](https://goldcard.nat.gov.tw/en/news/2022-may-cumulative-number-of-employment-gold-card-issuance/
 - <time datetime="2022-06-15">2022-06-15</time> [Travelers can once again transit through Taiwan](https://www.taipeitimes.com/News/front/archives/2022/06/15/2003779913)
 - <time datetime="2022-06-11">2022-06-11</time> [Taiwan cuts COVID-19 quarantine for arrivals to 3 days](https://focustaiwan.tw/society/202206110012)
+- <time datetime="2022-06-07">2022-06-07</time> [Startup Island Taiwan organizes New Taipei City Innovation Showcase for Gold Card holders](https://www.linkedin.com/feed/update/urn:li:share:6943040427407073280/)
 - <time datetime="2022-05-17">2022-05-17</time> [Taiwan aiming to recruit more foreign professional talent](https://www.taiwannews.com.tw/en/news/4540984)
 - <time datetime="2022-05-16">2022-05-16</time> [4900 gold cards approved](https://goldcard.nat.gov.tw/en/news/2022-apr-cumulative-number-of-employment-gold-card-issuance/)
 - <time datetime="2022-05-03">2022-05-03</time> [Mandatory quarantine for arrivals to be shortened to 7 days](https://www.cdc.gov.tw/En/Bulletin/Detail/Nr2mxSbL1sPgLU2r5aUiag?typeid=158)
