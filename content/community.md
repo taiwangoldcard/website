@@ -6,6 +6,14 @@ title: "Taiwan Gold Card Community"
 
 {{< block "grid-2" >}}
 
+{{< goldcardholder img="peter-wong.jpeg" name="Peter Wong" category="Science and Technology" location="New Taipei City" >}}
+**Background:** I am originally from Hong Kong but I moved to Australia in 2008. In 2012, I finished my Master's degree in Computer Science and started my career in software/web development. I started my digital nomad journey in 2017, travelling in Asia while working remotely.
+
+**Why Taiwan?** I like the pace of life in Taiwan. It’s safe, clean and cosmopolitan. Rent and food are also very affordable. Not to mention, Taiwanese are very warm and friendly. Professionally, I could see that there are growing opportunities for the technology sector. I came to Taiwan hoping to be a part of the change and witness its success.
+
+**What are you currently doing in Taiwan?** Apart from working remotely, I spent the most time playing badminton. I will continue to travel in Taiwan, exploring beautiful places and delicious food!
+{{< /goldcardholder >}}
+
 {{< goldcardholder img="mserone.jpg" name="Matteo Serone (鄭馬太歐)" category="Finance" location="Taipei" >}}
 **Background**: Fintech Professional relocated from Hong Kong. Originally from Italy, I am a great lover of Asian cuisines (Japanese and Chinese in particular) and I like to have a cold one to chat a bit.
 
