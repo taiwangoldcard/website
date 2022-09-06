@@ -1,4 +1,8 @@
 ## Gold Card News
+- <time datetime="2022-09-05">2022-09-05</time> [Taiwan to resume visa free entry for some countries](https://www.reuters.com/world/asia-pacific/taiwan-resume-visa-free-entry-some-countries-latest-reopening-step-2022-09-05/)
+- <time datetime="2022-08-15">2022-08-15</time> [Taiwan to ease 4-day self-monitoring rule on Sept. 1](https://www.taiwannews.com.tw/en/news/4626726)
+- <time datetime="2022-08-11">2022-08-11</time> [5585 gold cards approved](https://goldcard.nat.gov.tw/en/news/2022-jul-cumulative-number-of-employment-gold-card-issuance/)
+- <time datetime="2022-07-21">2022-07-21</time> [5364 gold cards approved](https://goldcard.nat.gov.tw/en/news/2022-jun-cumulative-number-of-employment-gold-card-issuance/)
 - <time datetime="2022-07-19">2022-07-19</time> [Entry restrictions loosened for some foreign nationals](https://www.cdc.gov.tw/En/Bulletin/Detail/I9YdMhSzuA9A5F2x1_E7nQ?typeid=158)
 - <time datetime="2022-07-19">2022-07-19</time> [Taiwan loosens mask rules](https://www.cdc.gov.tw/En/Bulletin/Detail/1rDzZPGoQuMtXrWDDeihSA?typeid=158)
 - <time datetime="2022-06-15">2022-07-07</time> [Gold Card holders exempt from negative RT-PCR test 2 days before arrival](https://www.cdc.gov.tw/En/Bulletin/Detail/W0PeXU928EGDh6jpHsEwGQ?typeid=158)
