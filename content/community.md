@@ -22,7 +22,7 @@ title: "Taiwan Gold Card Community"
 **What are you currently doing in Taiwan?** I work for a music services & rights management company. As the China General Manager, I look after our China team of 10+ people across A&R, Rights Management and Marketing Departments, and I'm currently leading deployment of investment capital from our recent funding into various recording & publishing rights projects. While most of my work is done remotely, I do still work with several Taiwan artists, including Sunset Rollercoaster, Jolin Tsai, Jay Chou, Mayday, Accusefive and many others. 
 {{< /goldcardholder >}}
 
-{{< goldcardholder img="chawkins.jpg" name="Curtis Hawkins 姜宸 BSc, SSCP, MCT" category="Economy" location="Taoyuan" >}}
+{{< goldcardholder img="chawkins.png" name="Curtis Hawkins 姜宸 BSc, SSCP, MCT" category="Economy" location="Taoyuan" >}}
 **Background:** My entire career has been focused on delivering outcomes for enterprises in cybersecurity. My main focuses are Security Architecture, Identity and DevSecOps and I focus on framing problems and finding solutions. I have previously worked at Microsoft twice in their Security, Compliance and Identity department delivering workshops and helping customers remediate ransomware attacks. I also delve into other areas of security such as defeating threat actors in war gaming.
 
 **Why Taiwan?** I find Taiwan a great place to work remotely and a very affordable and fair place to live. 
