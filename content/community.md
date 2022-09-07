@@ -2,9 +2,41 @@
 title: "Taiwan Gold Card Community"
 ---
 
-> #### We are a community of Gold Card Holders supporting each other. We meet regularly through monthly events. If you have the Employment Gold Card and want to be part to the community, feel free to fill the [Form](https://join.taiwangoldcard.com)
+> #### We are a community of Gold Card Holders supporting each other. We meet regularly through monthly events. If you have the Employment Gold Card and want to be part to the community, feel free to fill the [Form](https://join.taiwangoldcard.com). If you want to contribute your profile here, please use the [Form](https://docs.google.com/forms/d/e/1FAIpQLSdvAaNx-R5Np1iDK2_Iz5Kg1eASOUgK-jENuWIR6S855LeDwg/viewform).
 
 {{< block "grid-2" >}}
+
+{{< goldcardholder img="cnelson.jpg" name="Chase Nelson 倪誠志 Ph.D." category="Science and Technology" location="Taipei" >}}
+**Background:** Biologist and singer from the USA. I received by B.A. from Oberlin College and my Ph.D. from the University of South Carolina. My scientific work specializes in bioinformatics, virus evolution, and cancer. Other endeavors include musical performance, writing, weightlifting, and coffee.
+
+**Why Taiwan?** I first moved to Taiwan as a Postdoctoral Research Fellowship at Academia Sinica. The kind community, work ethic, ease of life, and opportunities for creative collaboration are the primary reasons I chose to stay and apply for the Gold Card.
+
+**What are you currently doing in Taiwan?** I work remotely as a [Research Fellow](https://dceg.cancer.gov/fellowship-training/fellowship-experience/meet-fellows/cgb/nelson-chase) for the USA National Cancer Institute, National Institutes of Health. My research focuses mainly on the molecular evolution of human papillomaviruses (HPVs) and the mechanisms by which they cause cervical cancer. Other projects include software tools for genome sequence analysis and SARS-CoV-2 mutation. Musically, I am a tenor performing for musical theatre, private events, and independent creative projects.
+{{< /goldcardholder >}}
+
+{{< goldcardholder img="mrowland.jpg" name="Marcus Rowland 馬尚" category="Culture & Arts" location="Taipei" >}}
+**Background:** I'm a music industry professional with a particular focus on Asia (currently China & India). I lived in Beijing 2011 - 2018 and am now based in Taipei. It's been such a wild opportunity to work with so many talented musicians, managers and labels, and to learn their cultural background and daily issues which are so different from mine (I'm originally from the UK). 
+
+**Why Taiwan?** I have been coming to Taiwan on regular business trips since 2015, as our company has many clients here. I become more and more enamoured with each visit, and I also met my current wife on one of the trips!  
+
+**What are you currently doing in Taiwan?** I work for a music services & rights management company. As the China General Manager, I look after our China team of 10+ people across A&R, Rights Management and Marketing Departments, and I'm currently leading deployment of investment capital from our recent funding into various recording & publishing rights projects. While most of my work is done remotely, I do still work with several Taiwan artists, including Sunset Rollercoaster, Jolin Tsai, Jay Chou, Mayday, Accusefive and many others. 
+{{< /goldcardholder >}}
+
+{{< goldcardholder img="chawkins.png" name="Curtis Hawkins 姜宸 BSc, SSCP, MCT" category="Economy" location="Taoyuan" >}}
+**Background:** My entire career has been focused on delivering outcomes for enterprises in cybersecurity. My main focuses are Security Architecture, Identity and DevSecOps and I focus on framing problems and finding solutions. I have previously worked at Microsoft twice in their Security, Compliance and Identity department delivering workshops and helping customers remediate ransomware attacks. I also delve into other areas of security such as defeating threat actors in war gaming.
+
+**Why Taiwan?** I find Taiwan a great place to work remotely and a very affordable and fair place to live. 
+
+**What are you currently doing in Taiwan?** I currently work as a contractor for a startup company in the evolving AR space, securing all the things. 
+{{< /goldcardholder >}}
+
+{{< goldcardholder img="harryng.jpg" name="Harry Ng 吳卓強" category="Science and Technology" location="Taichung" >}}
+**Background:** Harry is co-founder and COO in making Sorted (sortedapp.com), which is an award-winning and featured scheduling app that brings calendar and task management into one beautiful timeline. In his spare time, he likes to bring his wife and two young kids to travel. His favorite activity is camping. Before coming to Taiwan, Harry and his family were travelling around Asia and enjoying nomadic life.
+
+**Why Taiwan?** I was passing by Taiwan as part of my nomadic travel. Then due to covid, we were stuck here for a while. Lately, we decided to let the kids to study Waldorf schools here. We plan to stay here for the next 5 years or so.
+
+**What are you currently doing in Taiwan?** Travel around the island. Camping. Working from home. Kids are studying in Waldorf schools.
+{{< /goldcardholder >}}
 
 {{< goldcardholder img="peter-wong.jpeg" name="Peter Wong" category="Science and Technology" location="New Taipei City" >}}
 **Background:** I am originally from Hong Kong but I moved to Australia in 2008. In 2012, I finished my Master's degree in Computer Science and started my career in software/web development. I started my digital nomad journey in 2017, travelling in Asia while working remotely.
@@ -14,7 +46,7 @@ title: "Taiwan Gold Card Community"
 **What are you currently doing in Taiwan?** Apart from working remotely, I spent the most time playing badminton. I will continue to travel in Taiwan, exploring beautiful places and delicious food!
 {{< /goldcardholder >}}
 
-{{< goldcardholder img="mserone.jpg" name="Matteo Serone (鄭馬太歐)" category="Finance" location="Taipei" >}}
+{{< goldcardholder img="mserone.jpg" name="Matteo Serone 鄭馬太歐" category="Finance" location="Taipei" >}}
 **Background**: Fintech Professional relocated from Hong Kong. Originally from Italy, I am a great lover of Asian cuisines (Japanese and Chinese in particular) and I like to have a cold one to chat a bit.
 
 **Why Taiwan?**: Moved to finally settled down with my partner.
@@ -48,7 +80,7 @@ title: "Taiwan Gold Card Community"
 I enjoy cooking, discovering new ethnic foods, hiking, biking, and soon SCUBA diving.
 {{< /goldcardholder >}}
 
-{{< goldcardholder img="ingridsu.jpg" name="Ingrid Su (蘓迎加)" category="Economy" >}}
+{{< goldcardholder img="ingridsu.jpg" name="Ingrid Su 蘓迎加" category="Economy" >}}
 **Background**: I'm originally from Texas but I spent most of career in New York where I was an energy investor (which conveniently let me never get too far from my Texas roots).
 
 **Why Taiwan?**: Part of it is to stay connected with family in Taiwan. Other parts are the country's creativity, quality, kindness, and natural beauty. 
@@ -56,7 +88,7 @@ I enjoy cooking, discovering new ethnic foods, hiking, biking, and soon SCUBA di
 **What are you currently doing in Taiwan?**: I'm currently exploring some of Taiwan's manufacturing processes and craftsmanship. It is my hope that over the next few years, I can create a multi-language consumer product business that can be enjoyed in the U.S. and Taiwan. In my spare time, I visit the 24-hour bookstore at 誠品。
 {{< /goldcardholder >}}
 
-{{< goldcardholder img="jmurdza.jpg" name="James Murdza (曾傑米)" category="Economy" >}}
+{{< goldcardholder img="jmurdza.jpg" name="James Murdza 曾傑米" category="Economy" >}}
 **Background**: I am an aerospace and software engineer. I believe that coding is the literacy of the 21st century and that it’s lack of resources and confidence that limits most people from becoming STEM proficient, not ability. I write online and make videos about software at [jamesmurdza.com](https://jamesmurdza.com).
 
 **Why Taiwan?**: At 21, I moved from the U.S. to the Netherlands and integrated into European life. Working as an engineer with interesting people from many countries was the biggest benefit to my career so far. I decided to take a risk and do it again. I came to Taiwan to accelerate my Mandarin and to join the entrepreneurship community here.
@@ -64,7 +96,7 @@ I enjoy cooking, discovering new ethnic foods, hiking, biking, and soon SCUBA di
 **What are you currently doing in Taiwan?** I am realizing my goal of becoming fluent in Mandarin while working as a freelance software developer.
 {{< /goldcardholder >}}
 
-{{< goldcardholder img="lhliu.jpg" name="Lung Hao Liu (劉倫豪)" category="Science and Technology" >}}
+{{< goldcardholder img="lhliu.jpg" name="Lung Hao Liu 劉倫豪" category="Science and Technology" >}}
 **Background**: Co-founder of Nexraid Consulting and 99 Venture, an IT consulting and corporate services firm. We are a pioneer in hybrid cloud technology and is one of the few companies in Singapore that has obtained ISO27001 and ISO27701 accreditation.
 
 **Why Taiwan?**: I was born in Taiwan but migrated to Singapore since 10. I have always been curious about this piece of land that I was familiar with but yet knowing very little about.
@@ -72,15 +104,15 @@ I enjoy cooking, discovering new ethnic foods, hiking, biking, and soon SCUBA di
 **What are you currently doing in Taiwan?**: Besides trying to understand the different culture and experience in Taiwan, we have a few employees based here. I have also mentored a few local start-ups and SMEs to assist them with international expansion and fund raising.
 {{< /goldcardholder >}}
 
-{{< goldcardholder img="jliu.jpg" name="John Chih Liu (劉喆)" category="Science and Technology" location="New Taipei City" >}}
-**Background**: I grew up in the United States and earned my BS, MS, and PhD in electrical engineering from the University of Pennsylvania. I'm a CFA Charterholder. I've worked for several investment banks managing trading and portfolio management teams in the US, Tokyo and Hong Kong as well as serving as head of investments for an university endowment and state pension. I switched careers in 2014 to become a NLP researcher and founded a data science business in 2019. 
+{{< goldcardholder img="jliu.jpg" name="John Chih Liu 劉喆" category="Science and Technology" location="New Taipei City" >}}
+**Background**: I am from the US and earned my BS, MS, and PhD in electrical engineering from the University of Pennsylvania. As a CFA Charterholder, I've held executive roles at several investment banks managing trading and portfolio management teams in the US, Tokyo and Hong Kong and served as head of investments for an university endowment and state pension. I switched careers in 2014 to become a NLP and machine learning researcher.
 
-**Why Taiwan?**: My wife is Taiwanese, and after visiting her relatives in 2020, I realized the tremendous opportunity for Taiwan to take global leadership in many technologies. I wanted to come to Taiwan to contribute to its success while enjoying the beautiful culture and comfortable & safe lifestyle.
+**Why Taiwan?**: After coming in 2020 to help care for my father-in-law, I realized the tremendous opportunity for Taiwan to lead in new technology and decided to stay and help contribute to its succcess while enjoying the beauty, culture and safe lifestyle.
 
-**What are you currently doing in Taiwan?** I spent 2021 writing and publishing a new book titled "Explainable Artificial Intelligence, an Introduction to Interpretable Machine Learning." I am currently launching a tech startup based here in New Taipei City.
+**What are you currently doing in Taiwan?** I spent last year writing and publishing a new book on ["Explainable Artificial Intelligence, an Introduction to Interpretable Machine Learning"](https://link.springer.com/book/10.1007/978-3-030-83356-5). I am currently launching a tech startup here in New Taipei City.
 {{< /goldcardholder >}}
 
-{{< goldcardholder img="skhan.jpeg" name="Sam Khan (康善文)" category="Economy" location="Kaohsiung" >}}
+{{< goldcardholder img="skhan.jpeg" name="Sam Khan 康善文" category="Economy" location="Kaohsiung" >}}
 **Background**: I have 16 years of experience in IoT/Telecom industry with a specialization in Cellular and GNSS/Positioning modules. I have worked in senior sales and marketing roles in companies like ZTE, Quectel, GlobalTop and Sierra Wireless. 
 
 **Why Taiwan?**: I was in Germany when I got the offer to join a leading Taiwanese GPS module maker. I was unsure about Taiwan, so I came for a one week visit at first. I immediately fell in love with the amazing southern city of Tainan. I moved to Taiwan in 2014. Later, I had the privilege to be a part of the first batch of foreigners to receive the Gold Card in 2018. It’s easily one of the best decisions I've ever made. 
@@ -90,7 +122,7 @@ I enjoy cooking, discovering new ethnic foods, hiking, biking, and soon SCUBA di
 In 2022, I transitioned from Gold Card to full Taiwanese citizenship which I am immensely proud of.
 {{< /goldcardholder >}}
 
-{{< goldcardholder img="dfusi.jpg" name="Daniele Fusi (傅丹尼)" category="Science and Technology" location="Taipei" >}}
+{{< goldcardholder img="dfusi.jpg" name="Daniele Fusi 傅丹尼" category="Science and Technology" location="Taipei" >}}
 **Background**: CEO of a hardware design house (www.fusi-on.com). We provide design services to hardware companies and help them to manufacture products in Taiwan.
 
 **Why Taiwan?**: Because it's a good place for hardware engineers and I like how friendly people are.
@@ -150,4 +182,4 @@ Within my 3 years of having the Gold Card visa, I want to establish an energy te
 
 {{< /block >}}
 
-> #### We are a community of Gold Card Holders supporting each others. We meet regularly through monthly events. If you have the Employment Gold Card and want to be part to the community, feel free to fill the [Form](https://join.taiwangoldcard.com)
+> #### We are a community of Gold Card Holders supporting each others. We meet regularly through monthly events. If you have the Employment Gold Card and want to be part to the community, feel free to fill the [Form](https://join.taiwangoldcard.com). If you want to contribute your profile here, please use the [Form](https://docs.google.com/forms/d/e/1FAIpQLSdvAaNx-R5Np1iDK2_Iz5Kg1eASOUgK-jENuWIR6S855LeDwg/viewform).
