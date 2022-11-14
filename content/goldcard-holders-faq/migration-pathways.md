@@ -49,13 +49,12 @@ There’s a [brief news article here](https://www.taiwannews.com.tw/en/news/3363
 
 ## How do I gain permanent residence in Taiwan?
 Permanent Residence, or an "APRC" card, is available to those who legally 
- spend five continuous years in Taiwan, for at least 183 days a year. This time does not
- include periods of time you were studying and a few other exclusions, but any time
- you were here on a gold card does count. There are a
- [few other requirements and documents to prepare](https://www.immigration.gov.tw/5475/5478/141465/141808/152932/),
- and application is done at the National Immigration Agency.
+ spend three continuous years on a Gold Card, and present in Taiwan for at
+ least an average of 183 days per year. If graduated in Taiwan with a doctoral degree
+ a further year can be deducted.
+ For more information check out the 
+ [Gold Card Office FAQs](https://goldcard.nat.gov.tw/en/tags/aprc/)
+ and the #APRC channel in the [Gold Card Community](/community) Slack workspace.
 
-Currently, the longest period a Gold Card can be valid is 3 years, so you will likely
- need to apply for a second Gold Card before you can be eligible for permanent residence.
- However, there is a current legislative push to reduce the residence requirement to
- three years for Gold Card holders.
+ Note: The policy regarding permanent residency is for foreign Gold Card holders, 
+ not including [Hong Kong or Macau residents](https://goldcard.nat.gov.tw/en/faq/can-hong-kong-and-macau-gold-card-holders-apply-for-permanent-residency/).
