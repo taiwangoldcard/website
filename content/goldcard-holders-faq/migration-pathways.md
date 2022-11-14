@@ -55,3 +55,6 @@ Permanent Residence, or an "APRC" card, is available to those who legally
  For more information check out the 
  [Gold Card Office FAQs](https://goldcard.nat.gov.tw/en/tags/aprc/)
  and the #APRC channel in the [Gold Card Community](/community) Slack workspace.
+
+ Note: The policy regarding permanent residency is for foreign Gold Card holders, 
+ not including [Hong Kong or Macau residents](https://goldcard.nat.gov.tw/en/faq/can-hong-kong-and-macau-gold-card-holders-apply-for-permanent-residency/).
