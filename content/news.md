@@ -1,10 +1,14 @@
 ## Gold Card News
+- <time datetime="2023-01-30">2023-01-30</time> [6571 gold cards approved](https://goldcard.nat.gov.tw/en/news/2022-dec-cumulative-number-of-employment-gold-card-issuance/)
+- <time datetime="2023-01-19">2023-01-19</time> [Why Foreign Professionals Are Flocking to Taiwan](https://youtu.be/iQjkESWs6qs)
+- <time datetime="2022-12-21">2022-12-21</time> [Sea You Next Year! Gold Card 2022 Dinner Party](https://www.accupass.com/event/2211210101581964991492)
+- <time datetime="2022-12-14">2022-12-14</time> [6351 gold cards approved](https://goldcard.nat.gov.tw/en/news/2022-nov-cumulative-number-of-employment-gold-card-issuance/)
 - <time datetime="2022-12-02">2022-12-02</time> [Ministry of Education draft amendment for Foreign Special Professionals with Expertise in Sports](https://join.gov.tw/policies/detail/d1a4084d-87a2-42d0-a200-45260d62bdf2)
-
 - <time datetime="2022-11-28">2022-11-28</time> [Taiwan to ease current mask mandate and related epidemic prevention measures starting December 1](https://www.cdc.gov.tw/En/Bulletin/Detail/VRVYABkMZ3OLkKDMQk1RFQ?typeid=158)
 - <time datetime="2022-11-14">2022-11-14</time> [6148 gold cards approved](https://goldcard.nat.gov.tw/en/news/2022-oct-cumulative-number-of-employment-gold-card-issuance/)
 - <time datetime="2022-11-14">2022-11-14</time> [Effective December 1, weekly cap of arrivals to be increased to 200,000](https://www.cdc.gov.tw/En/Bulletin/Detail/0UGwbHV2px9sdih_JJW8DQ?typeid=158)
 - <time datetime="2022-10-14">2022-10-14</time> [6004 gold cards approved](https://goldcard.nat.gov.tw/en/news/2022-sep-cumulative-number-of-employment-gold-card-issuance/)
+- <time datetime="2022-10-06">2022-10-06</time> [Gold Card Autumn Happy Hour](https://docs.google.com/forms/d/e/1FAIpQLSew_sdEB3sc1jtj0ubeuvJNA3cHGUny5th6Ly11ky_Ulv0wqQ/closedform)
 - <time datetime="2022-09-29">2022-09-29</time> [With steady easing of border measures, Taiwan to end quarantine and adopt 7-day self-initiated prevention policy for arrivals on October 13](https://www.cdc.gov.tw/En/Bulletin/Detail/nEBLnOPooDYFy_CBJqfWvg?typeid=158)
 - <time datetime="2022-09-05">2022-09-05</time> [Taiwan to resume visa free entry for some countries](https://www.reuters.com/world/asia-pacific/taiwan-resume-visa-free-entry-some-countries-latest-reopening-step-2022-09-05/)
 - <time datetime="2022-08-15">2022-08-15</time> [Taiwan to ease 4-day self-monitoring rule on Sept. 1](https://www.taiwannews.com.tw/en/news/4626726)
