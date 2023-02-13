@@ -84,6 +84,10 @@ If you are not from an eligible state or country and need to drive long-term, yo
  Office to remain valid. A validated IDP can typically only be used for a maximum of six months, 
  after which you are supposed to apply for a Taiwanese driver's license.
 
+ ## What is the use of a Taiwan International Driving Permit (IDP)? How can I get one?
+ If you have a full valid Taiwanese driving license of any kind, you can go to the Motor Vehicles Office in your local vicinity and get a Taiwan International Driving Permit. It has the same use case as other IDPs, but you should make sure that the foreign countries you wish to drive in accept your Taiwan IDP. There is a cost involved in printing your IDP, check with your local Motor Vehicles Offices.
+ Note: Make sure you give the correct details for your home country to be used on your IDP. It is not common for foreign nationals to request a Taiwan IDP and when the clerk is issuing your IDP, they have to manually enter your home country (there is no dropdown or sanitisation check). In order to avoid costly mistakes, be firm and make sure that the clerk who is issuing your IDP writes down your country exactly as you ask them to (for example, if you are a UK national it is very possible that they may look at the full name of your UK passport and write down an abbreviated version which could result in your IDP stating 'Ireland' when you are in fact a British national from another region). Be careful with the storage and usage of your new Taiwan IDP, as they are not laminated.
+
  ## I want to convert a full valid UK driving license to a Taiwanese driving license. What does this entail and how do I change it back later?
  As of January 2022, it became possible to change your full clean UK driving license to a full Taiwanese driving license.
  The most obvious benefit of doing so is you can immediately drive a car, either manual or automatic (depending on your license type in the UK).
