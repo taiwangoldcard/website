@@ -84,6 +84,19 @@ If you are not from an eligible state or country and need to drive long-term, yo
  Office to remain valid. A validated IDP can typically only be used for a maximum of six months, 
  after which you are supposed to apply for a Taiwanese driver's license.
 
+ ## I want to convert a full valid UK driving license to a Taiwanese driving license. What does this entail and how do I change it back later?
+ As of January 2022, it became possible to change your full clean UK driving license to a full Taiwanese driving license.
+ The most obvious benefit of doing so is you can immediately drive a car, either manual or automatic (depending on your license type in the UK).
+ You can also drive 'General Light Motorcycles' - in other words, any scooter that is equal to or less than 50cc. This includes GoShares and the likes.
+ Be aware though that most scooters driven around are 50 - 250cc which are classed as 'General Heavy Motorcycles' by definition and require you to pass a seperate test from scratch.
+ The process of swapping your UK license from within Taiwan is very quick, cheap and easy. You pay a fee (including any other documents you may need, such as a photo for your new license and a health check from the nearby hospital) for <1000NTD. You will get your license printed then and there on the same day.
+ Once you are ready to return to the UK you can return your Taiwanese license for a UK one, but it is an application in itself and much more involved than swapping it for the Taiwanese license. It is also important to note that you can still legally drive for up to a year each time you return to the UK using your Taiwanese license (but be sure to insure your vehicle under your foreign license for legal purposes).
+ You need to hand your Taiwanese license over to one of the embassies of Taiwan in the UK for notarisation, either; The Taipei Representative Office in the UK (London) or (Edinburgh). There is a fee for doing so, but check with the embassy to see exactly how much.
+ In the Edinburgh office, things usually go much quicker and you can expect to get your Taiwanese license and the notarised documents back in an envelope within around 3 weeks (or long if busier), the London office is much busier and this process can take anywhere up to three months, as quoted by them.
+ It is important to note that instructions on how to notarise your license and exchange it for a UK one are in Mandarin only and were not initially intended for an english-speaking audience, as this whole process is very new. So go into your embassy of choice and explain the situation, they will help you to send off your documents for notarisaion and collect the fee. You may want to get a first class stamp and a large plastic postal bag (they are grey in colour) to save some time, as this will likely be asked for (at your expense).
+ Once you are ready, pick up a D1 Driver's License Application Form from any post office (or order one online) and fill out the swapping a foreign driver's license section. Include your Taiwanese driving license and the notarised documents in the same envelope as your D1 and send it off to DVLA Swansea. You should receive your UK driving license back within 3 weeks (this process is free).
+ Note: Do NOT send your Taiwan license off without notarisation documents from Taiwan. You will receive your DVLA forms back and your Taiwan license with instructions on how to notarise your documents.
+
 ## I am being asked to see an entry stamp in my passport, but I always use the eGate. What do I do?
 These days, most foreign residents of Taiwan use the eGate exclusively to enter and exit the
  country. It's fast and convenient, but it has the side effect that your passport is no longer
