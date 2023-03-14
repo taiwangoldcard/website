@@ -22,12 +22,14 @@ title: "Taiwan Gold Card Community"
 **What are you currently doing in Taiwan?** I work for a music services & rights management company. As the China General Manager, I look after our China team of 10+ people across A&R, Rights Management and Marketing Departments, and I'm currently leading deployment of investment capital from our recent funding into various recording & publishing rights projects. While most of my work is done remotely, I do still work with several Taiwan artists, including Sunset Rollercoaster, Jolin Tsai, Jay Chou, Mayday, Accusefive and many others. 
 {{< /goldcardholder >}}
 
-{{< goldcardholder img="chawkins.png" name="Curtis Hawkins 姜宸 BSc, SSCP, MCT" category="Economy" location="Taoyuan" >}}
-**Background:** My entire career has been focused on delivering outcomes for enterprises in cybersecurity. My main focuses are Security Architecture, Identity and DevSecOps and I focus on framing problems and finding solutions. I have previously worked at Microsoft twice in their Security, Compliance and Identity department delivering workshops and helping customers remediate ransomware attacks. I also delve into other areas of security such as defeating threat actors in war gaming.
+{{< goldcardholder img="chawkins.jpg" name="Curtis Hawkins BSc" category="Economy" location="Taoyuan" >}}
+**Background:** I started my career as both an intern and then later a graduate at Microsoft in the United Kingdom. After studying and returning to Microsoft, I separated ways with the tech giant and took a path to become a technical cybersecurity expert through working at various companies, including large names such as the London Stock Exchange Group (Refinitiv) and various startup companies to which I contributed my knowledge and helped to build secure infrastructure, processes and code.
 
-**Why Taiwan?** I find Taiwan a great place to work remotely and a very affordable and fair place to live. 
+I currently work with Managed Security Service Providers (MSSP) at a consultant level and my expertise spans various skillsets such as Cloud Security, Infrastructure Hardening, DevSecOps, Developer Security Advocation, Identity and Access Management, SIEM & SOAR Implementation, Integration, Development and Operations, EDR & XDR Implementation, Integration, Development and Operations alongside various other industry projects and contributions.
 
-**What are you currently doing in Taiwan?** I currently work as a contractor for a startup company in the evolving AR space, securing all the things. 
+**Why Taiwan?** Taiwan provides a safe environment for those who are able to work location independent, with great entertainment and transportation options. It also serves as a hub to other countries in APAC.
+
+**What are you currently doing in Taiwan?** Security Engineering & Consulting.
 {{< /goldcardholder >}}
 
 {{< goldcardholder img="harryng.jpg" name="Harry Ng 吳卓強" category="Science and Technology" location="Taichung" >}}
