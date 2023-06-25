@@ -93,4 +93,4 @@ Notes:
 * Some types of income attract a higher rate (e.g. bonuses and investment income). 
 * There are income tax deductions available for NHI premium payments.
 
-To calculate your exact NHI premium, refer to the official information (and description of the many 'special' cases) which can be found on [the NHI website](https://www.nhi.gov.tw/english/Content_List.aspx?n=B9C9C690524F2543&topn=46FA76EB55BC2CB8).
+To calculate your exact NHI premium, refer to the official information (and description of the many 'special' cases) which can be found on [the NHI website](https://eng.nhi.gov.tw/en/sitemap-2.html).
