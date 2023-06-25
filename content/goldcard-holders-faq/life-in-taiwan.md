@@ -17,7 +17,7 @@ Renting is common in Taiwan, and there are a large range of types of dwellings a
 
 If you are looking for newer, tall modern apartment buildings, these are known as "電梯大樓" and you
  can limit your search on 591 to this. Other search sites include [myroomabroad](https://myroomabroad.com)
- and [spacious](https://www.spacious.tw/zh-tw/c/%E5%8F%B0%E5%8C%97).
+ and [spacious](https://www.spacious.tw/zh-tw/c/%E5%8F%B0%E5%8C%97).There are also facebook groups for finding rental properties and some units are also advertised on facebook marketplace. 
 
 ## Can I purchase real-estate?
 In general, yes, if your country allows Taiwanese nationals to purchase real estate in your
