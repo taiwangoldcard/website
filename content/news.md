@@ -1,5 +1,8 @@
 ## Gold Card News
 - <time datetime="2023-06-26">2023-06-26</time> [7283 gold cards approved](https://goldcard.nat.gov.tw/en/news/2023-apr-cumulative-number-of-employment-gold-card-issuance/)
+- <time datetime="2023-06-26">2023-06-26</time> [7113 gold cards approved](https://goldcard.nat.gov.tw/en/news/2023-mar-cumulative-number-of-employment-gold-card-issuance/)
+- <time datetime="2023-06-26">2023-06-26</time> [6880 gold cards approved](https://goldcard.nat.gov.tw/en/news/2023-feb-cumulative-number-of-employment-gold-card-issuance/)
+- <time datetime="2023-06-26">2023-06-26</time> [6703 gold cards approved](https://goldcard.nat.gov.tw/en/news/2023-jan-cumulative-number-of-employment-gold-card-issuance/)
 - <time datetime="2023-01-30">2023-01-30</time> [6571 gold cards approved](https://goldcard.nat.gov.tw/en/news/2022-dec-cumulative-number-of-employment-gold-card-issuance/)
 - <time datetime="2023-01-19">2023-01-19</time> [Why Foreign Professionals Are Flocking to Taiwan](https://youtu.be/iQjkESWs6qs)
 - <time datetime="2022-12-21">2022-12-21</time> [Sea You Next Year! Gold Card 2022 Dinner Party](https://www.accupass.com/event/2211210101581964991492)
