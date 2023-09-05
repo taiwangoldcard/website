@@ -1,6 +1,6 @@
 ## Gold Card News
 - <time datetime="2023-08-17">2023-08-17</time> [7882 gold cards approved](https://goldcard.nat.gov.tw/en/news/2023-jul-cumulative-number-of-employment-gold-card-issuance/)
-- <time datetime="2023-07-28">2023-08-08</time> [Gold Card Game Day](https://docs.google.com/forms/d/e/1FAIpQLSem_AEIWFAuZXV-hLnzQ9kAYsmzO8oiMIxHBnDlCuKPhPKszQ/closedform)
+- <time datetime="2023-08-08">2023-08-08</time> [Gold Card Game Day](https://docs.google.com/forms/d/e/1FAIpQLSem_AEIWFAuZXV-hLnzQ9kAYsmzO8oiMIxHBnDlCuKPhPKszQ/closedform)
 - <time datetime="2023-07-28">2023-07-28</time> [Women's Event Goddess Yoga for female Gold Card holders and female spouses](https://docs.google.com/forms/d/e/1FAIpQLSewfZYeavXL_Sm8lJLCeYjBEDTM6QqZe2zr6f5bGM9EauwdjQ/viewform)
 - <time datetime="2023-07-26">2023-07-26</time> [7680 gold cards approved](https://goldcard.nat.gov.tw/en/news/2023-jun-cumulative-number-of-employment-gold-card-issuance/)
 - <time datetime="2023-06-21">2023-06-21</time> [7500 gold cards approved](https://goldcard.nat.gov.tw/en/news/2023-may-cumulative-number-of-employment-gold-card-issuance/)
