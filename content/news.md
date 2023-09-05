@@ -1,5 +1,8 @@
 ## Gold Card News
+- <time datetime="2023-08-17">2023-08-17</time> [7882 gold cards approved](https://goldcard.nat.gov.tw/en/news/2023-jul-cumulative-number-of-employment-gold-card-issuance/)
+- <time datetime="2023-07-28">2023-08-08</time> [Gold Card Game Day](https://docs.google.com/forms/d/e/1FAIpQLSem_AEIWFAuZXV-hLnzQ9kAYsmzO8oiMIxHBnDlCuKPhPKszQ/closedform)
 - <time datetime="2023-07-28">2023-07-28</time> [Women's Event Goddess Yoga for female Gold Card holders and female spouses](https://docs.google.com/forms/d/e/1FAIpQLSewfZYeavXL_Sm8lJLCeYjBEDTM6QqZe2zr6f5bGM9EauwdjQ/viewform)
+- <time datetime="2023-07-26">2023-07-26</time> [7680 gold cards approved](https://goldcard.nat.gov.tw/en/news/2023-jun-cumulative-number-of-employment-gold-card-issuance/)
 - <time datetime="2023-06-21">2023-06-21</time> [7500 gold cards approved](https://goldcard.nat.gov.tw/en/news/2023-may-cumulative-number-of-employment-gold-card-issuance/)
 - <time datetime="2023-06-19">2023-06-19</time> [Gold Card Happy Hour at Zhangmen Bistro](https://docs.google.com/forms/d/e/1FAIpQLScGv_U7hOulqTqNAuwUvoB4vV6nbxOaYRpBCFU7TXRemwj3ig/closedform)
 - <time datetime="2023-06-06">2023-06-06</time> [The Ministry of Economic Affairs Announces Revisions to Economic Fields](https://goldcard.nat.gov.tw/en/news/the-ministry-of-economic-affairs-announces-revisions-to-foreign-special-professionals-with-specialized-knowledge-skills-in-economic-fields-on-april-28-2023-to-encompass-recruitment-of-innovative-talent-in-exhibition-services/)

@@ -9,7 +9,7 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 ## What health insurance is available in Taiwan?
 All who are eligible for National Health Insurance (NHI) **must enroll** into the program, which provides comprehensive and inexpensive coverage. Eligibility varies slightly depending on your employment status. If you aren't eligible for NHI then there are also a range of local and international private health insurance options available.
 
-You can check the [NHI website](https://www.nhi.gov.tw/english/Content_List.aspx?n=C88B41A4EAB5E692&topn=778856C209BCE527) for more details.
+You can check the [NHI website](https://eng.nhi.gov.tw/en/mp-2.html) for more details.
 
 ## How do I enroll into the program
 If you have an employer in Taiwan then they will enroll you into the program.
@@ -44,7 +44,7 @@ For those who don't have a Taiwanese employer:
 The waiting period ends after 6 calendar months (on the date). For example, if your waiting period starts on May 15 then you can enroll for NHI on Nov 15.
 
 ## Am I allowed to leave the country during the six-month period wait?
-You are only allowed to [leave once for less than 30 days](https://www.nhi.gov.tw/english/Content_List.aspx?n=C88B41A4EAB5E692&topn=778856C209BCE527). Note that when you are away from Taiwan, the six-month waiting period will be paused. It will resume once you return to Taiwan.
+You are only allowed to [leave once for less than 30 days](https://eng.nhi.gov.tw/en/cp-49-fb4a6-24-2.html). Note that when you are away from Taiwan, the six-month waiting period will be paused. It will resume once you return to Taiwan.
 
 For example, if you are in Taiwan for 3 months and then leave for 1 month, you will have to wait for 3 more months once you get back to Taiwan (7 months in total).
 
@@ -54,7 +54,7 @@ We know it's not ideal, but here some ways our community has solved this problem
 - Get private health insurance. Other gold card holders might have some recommendations. [You can ask the community](https://join.taiwangoldcard.com) and mention your nationality.
 
 ## Is NHI mandatory?
-You **must** enroll when you are eligible. The National Health Insurance program is [compulsory](http://www.nhi.gov.tw/Resource/webdata/26143_1_1050203The%20legal%20foreign%20residents%20must%20enroll%20in%20the%20NHI%20Program.pdf).
+You **must** enroll when you are eligible. The National Health Insurance program is [compulsory](https://eng.nhi.gov.tw/en/cp-49-fb4a6-24-2.html).
 
 > The National Health Insurance program is a compulsory social insurance
 > program. By law, [...] foreign national living in Taiwan with an Alien Resident
@@ -63,7 +63,7 @@ You **must** enroll when you are eligible. The National Health Insurance program
 
 If you plan to leave Taiwan for more than six months you can either maintain or suspend your NHI. Refer to the NHI website for more information.
 
-[What to Do If Going Abroad for More than Six Months](https://www.nhi.gov.tw/english/Content_List.aspx?n=1E7F01DB3BBD5079&topn=778856C209BCE527)
+[What to Do If Going Abroad for More than Six Months](https://eng.nhi.gov.tw/en/mp-2.html)
 
 ## Where can I see a list of NHI clinics close to me?
 The NHI mobile app has a map-based search of all NHI facilities.
@@ -93,4 +93,4 @@ Notes:
 * Some types of income attract a higher rate (e.g. bonuses and investment income). 
 * There are income tax deductions available for NHI premium payments.
 
-To calculate your exact NHI premium, refer to the official information (and description of the many 'special' cases) which can be found on [the NHI website](https://www.nhi.gov.tw/english/Content_List.aspx?n=B9C9C690524F2543&topn=46FA76EB55BC2CB8).
+To calculate your exact NHI premium, refer to the official information (and description of the many 'special' cases) which can be found on [the NHI website](https://eng.nhi.gov.tw/en/np-6-2.html).
