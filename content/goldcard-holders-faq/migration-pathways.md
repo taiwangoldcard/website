@@ -32,7 +32,7 @@ The NIA has previously provided on-record assurances that there’s no issue her
  consecutive residence of five years to be eligible - no time gap between your employment ARC and your Gold Card.
 
 ## What is this job-seeking visa I heard about? Is it related to the Gold Card?
-It’s a [separate visa to the gold card](https://www.boca.gov.tw/cp-158-4158-09d5a-2.html),
+It’s a [separate visa to the gold card](https://talent.nat.gov.tw/visa/employment-seeking),
 that was introduced around the same time. You can get it if:
 
 * You have a job where over the last 6 months, your average salary was over NT$47,971
