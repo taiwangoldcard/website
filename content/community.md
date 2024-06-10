@@ -22,16 +22,6 @@ title: "Taiwan Gold Card Community"
 **What are you currently doing in Taiwan?** I work for a music services & rights management company. As the China General Manager, I look after our China team of 10+ people across A&R, Rights Management and Marketing Departments, and I'm currently leading deployment of investment capital from our recent funding into various recording & publishing rights projects. While most of my work is done remotely, I do still work with several Taiwan artists, including Sunset Rollercoaster, Jolin Tsai, Jay Chou, Mayday, Accusefive and many others. 
 {{< /goldcardholder >}}
 
-{{< goldcardholder img="chawkins.jpg" name="Curtis Hawkins BSc" category="Economy" location="Taoyuan" >}}
-**Background:** I started my career as both an intern and then later a graduate at Microsoft in the United Kingdom. After studying and returning to Microsoft, I separated ways with the tech giant and took a path to become a technical cybersecurity expert through working at various companies, including large names such as the London Stock Exchange Group (Refinitiv) and various startup companies to which I contributed my knowledge and helped to build secure infrastructure, processes and code.
-
-I currently work with Managed Security Service Providers (MSSP) at a consultant level and my expertise spans various skillsets such as Cloud Security, Infrastructure Hardening, DevSecOps, Developer Security Advocation, Identity and Access Management, SIEM & SOAR Implementation, Integration, Development and Operations, EDR & XDR Implementation, Integration, Development and Operations alongside various other industry projects and contributions.
-
-**Why Taiwan?** Taiwan provides a safe environment for those who are able to work location independent, with great entertainment and transportation options. It also serves as a hub to other countries in APAC.
-
-**What are you currently doing in Taiwan?** Security Engineering & Consulting.
-{{< /goldcardholder >}}
-
 {{< goldcardholder img="harryng.jpg" name="Harry Ng 吳卓強" category="Science and Technology" location="Taichung" >}}
 **Background:** Harry is co-founder and COO in making Sorted (sortedapp.com), which is an award-winning and featured scheduling app that brings calendar and task management into one beautiful timeline. In his spare time, he likes to bring his wife and two young kids to travel. His favorite activity is camping. Before coming to Taiwan, Harry and his family were travelling around Asia and enjoying nomadic life.
 
