@@ -2,7 +2,7 @@
 title: "Taiwan Gold Card Community"
 ---
 
-> #### We are a community of Gold Card Holders supporting each other. We meet regularly through monthly events. If you have the Employment Gold Card and want to be part to the community, feel free to fill the [Form](https://join.taiwangoldcard.com). If you want to contribute your profile here, please use the [Form](https://docs.google.com/forms/d/e/1FAIpQLSdvAaNx-R5Np1iDK2_Iz5Kg1eASOUgK-jENuWIR6S855LeDwg/viewform).
+> #### We are a community of Gold Card Holders supporting each other. We meet regularly through [monthly events](https://lu.ma/calendar/cal-YD66Z9Ov9mm8M2z). If you have the Employment Gold Card and want to be part to the community, feel free to fill the [Form](https://join.taiwangoldcard.com). If you want to contribute your profile here, please use the [Form](https://docs.google.com/forms/d/e/1FAIpQLSdvAaNx-R5Np1iDK2_Iz5Kg1eASOUgK-jENuWIR6S855LeDwg/viewform).
 
 {{< block "grid-2" >}}
 

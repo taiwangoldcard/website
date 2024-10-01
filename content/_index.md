@@ -23,7 +23,8 @@ description = "We are a strong community of professionals with Taiwan Gold Card 
 * Access to our chat group where we help each other
 * Jobs opportunities that require our expertise
 * Visibility if you are looking for new opportunities
-* Receive a regular newsletter with the latest Gold Card News
+* Monthly organized events by the community
+
 
 {{< button "https://join.taiwangoldcard.com" "Join the Gold Card Community" >}}
 {{< button "goldcard-holders-faq/" "Resources for Gold Card holders" >}}
