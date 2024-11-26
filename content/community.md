@@ -2,7 +2,7 @@
 title: "Taiwan Gold Card Community"
 ---
 
-> #### We are a community of Gold Card Holders supporting each other. We meet regularly through monthly events. If you have the Employment Gold Card and want to be part to the community, feel free to fill the [Form](https://join.taiwangoldcard.com). If you want to contribute your profile here, please use the [Form](https://docs.google.com/forms/d/e/1FAIpQLSdvAaNx-R5Np1iDK2_Iz5Kg1eASOUgK-jENuWIR6S855LeDwg/viewform).
+> #### We are a community of Gold Card Holders supporting each other. We meet regularly through [monthly events](https://lu.ma/calendar/cal-YD66Z9Ov9mm8M2z). If you have the Employment Gold Card and want to be part to the community, feel free to fill the [Form](https://join.taiwangoldcard.com). If you want to contribute your profile here, please use the [Form](https://docs.google.com/forms/d/e/1FAIpQLSdvAaNx-R5Np1iDK2_Iz5Kg1eASOUgK-jENuWIR6S855LeDwg/viewform).
 
 {{< block "grid-2" >}}
 
@@ -20,16 +20,6 @@ title: "Taiwan Gold Card Community"
 **Why Taiwan?** I have been coming to Taiwan on regular business trips since 2015, as our company has many clients here. I become more and more enamoured with each visit, and I also met my current wife on one of the trips!  
 
 **What are you currently doing in Taiwan?** I work for a music services & rights management company. As the China General Manager, I look after our China team of 10+ people across A&R, Rights Management and Marketing Departments, and I'm currently leading deployment of investment capital from our recent funding into various recording & publishing rights projects. While most of my work is done remotely, I do still work with several Taiwan artists, including Sunset Rollercoaster, Jolin Tsai, Jay Chou, Mayday, Accusefive and many others. 
-{{< /goldcardholder >}}
-
-{{< goldcardholder img="chawkins.jpg" name="Curtis Hawkins BSc" category="Economy" location="Taoyuan" >}}
-**Background:** I started my career as both an intern and then later a graduate at Microsoft in the United Kingdom. After studying and returning to Microsoft, I separated ways with the tech giant and took a path to become a technical cybersecurity expert through working at various companies, including large names such as the London Stock Exchange Group (Refinitiv) and various startup companies to which I contributed my knowledge and helped to build secure infrastructure, processes and code.
-
-I currently work with Managed Security Service Providers (MSSP) at a consultant level and my expertise spans various skillsets such as Cloud Security, Infrastructure Hardening, DevSecOps, Developer Security Advocation, Identity and Access Management, SIEM & SOAR Implementation, Integration, Development and Operations, EDR & XDR Implementation, Integration, Development and Operations alongside various other industry projects and contributions.
-
-**Why Taiwan?** Taiwan provides a safe environment for those who are able to work location independent, with great entertainment and transportation options. It also serves as a hub to other countries in APAC.
-
-**What are you currently doing in Taiwan?** Security Engineering & Consulting.
 {{< /goldcardholder >}}
 
 {{< goldcardholder img="harryng.jpg" name="Harry Ng 吳卓強" category="Science and Technology" location="Taichung" >}}
