@@ -28,6 +28,10 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     name = "Community"
     weight = 4
     url = "community"
+[[menu.main]]
+    name = "Events"
+    weight = 5
+    url = "https://lu.ma/calendar/cal-YD66Z9Ov9mm8M2z"
 
 
 [markup]
