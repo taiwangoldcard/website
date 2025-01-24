@@ -1,4 +1,5 @@
 ## Gold Card News
+- <time datetime="2024-11-14">2025-02-13</time> [Event: Monthly Gold Card Community After Work](https://lu.ma/1vff2pb1)
 - <time datetime="2024-11-14">2024-11-14</time> [Event: Monthly Gold Card Community After Work](https://lu.ma/3fmdom84)
 - <time datetime="2024-10-16">2024-10-16</time> [11289 gold cards approved](https://goldcard.nat.gov.tw/en/news/2024-sep-cumulative-number-of-employment-gold-card-issuance/)
 - <time datetime="2024-09-12">2024-09-12</time> [11017 gold cards approved](https://goldcard.nat.gov.tw/en/news/2024-aug-cumulative-number-of-employment-gold-card-issuance/)
