@@ -713,15 +713,15 @@ pre {
 
 .home {
   display: grid;
-  grid-template-columns: 30% 20% 20% 30%;
+  grid-template-columns: 30% 20% 10% 40%;
   grid-template-rows: auto;
-  grid-template-areas: "picture picture picture news" "left-question left-question right-question right-question"; }
+  grid-template-areas: "picture news news afterwork" "left-question left-question right-question right-question"; }
   @media (max-width: 960px) {
     .home {
       display: grid;
       grid-template-columns: auto;
       grid-template-rows: auto;
-      grid-template-areas: "news" "picture" "left-question" "right-question"; } }
+      grid-template-areas: "news" "afterwork" "picture" "left-question" "right-question"; } }
 .newApplicant {
   grid-area: left-question;
   margin-top: 30px; }
@@ -771,6 +771,22 @@ pre {
     padding-right: 10px;
     font-style: italic;
     white-space: nowrap; }
+
+.afterwork {
+  grid-area: afterwork;
+  padding: 10px;
+  margin: 10px;
+  position: relative;
+  overflow: hidden;
+  height: 495px; }
+  .afterwork iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 1px solid #bfcbda88;
+    border-radius: 4px; }
 
 .blink {
   animation: blinkAnimation 500ms linear 2; }
@@ -1001,9 +1017,24 @@ pre {
 <section class="section homePicture">
   <p><picture  class="image--desktop-only" >
 <source srcset="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" media="(max-width: 960px)">
-<source srcset="/images/taiwan-unsplash-2x.webp" type="image/webp">
-<img src="./images/taiwan-unsplash-2x.jpg" alt="Sunset over Taipei City" width="793" height="428">
+<source srcset="/images/taipei101-unsplash.webp" type="image/webp">
+<img src="./images/taipei101-unsplash.jpg" alt="Sunset over Taipei City" width="793" height="428">
 </picture></p>
+
+</section>
+
+<section class="section afterwork">
+  <h2 id="upcoming-after-work-events">Upcoming After Work Events</h2>
+<iframe
+  src="https://lu.ma/embed/calendar/cal-YD66Z9Ov9mm8M2z/events"
+  width="600"
+  height="495"
+  frameborder="0"
+  style="border: 0px solid #bfcbda88; border-radius: 4px;"
+  allowfullscreen=""
+  aria-hidden="false"
+  tabindex="0"
+></iframe>
 
 </section>
 

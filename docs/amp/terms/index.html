@@ -26,11 +26,11 @@
 The information herein is for general informational purpose only. We make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability or completeness of any information." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://taiwangoldcard.com/amp/terms/" />
-<meta property="article:modified_time" content="2025-01-24T19:23:06+08:00" /><meta property="og:site_name" content="Taiwan Gold Card | Taiwan Foreign Talent Community" />
+<meta property="article:modified_time" content="2025-02-13T19:00:57+08:00" /><meta property="og:site_name" content="Taiwan Gold Card | Taiwan Foreign Talent Community" />
 <meta itemprop="name" content="Disclaimer and Terms of Use">
 <meta itemprop="description" content="Taiwan Gold Card is a community website maintained by the Gold Card community. We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with any governments, its departments or agencies. Official information can be found on the official websites.
 The information herein is for general informational purpose only. We make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability or completeness of any information.">
-<meta itemprop="dateModified" content="2025-01-24T19:23:06+08:00" />
+<meta itemprop="dateModified" content="2025-02-13T19:00:57+08:00" />
 <meta itemprop="wordCount" content="193">
 
 
@@ -719,15 +719,15 @@ pre {
 
 .home {
   display: grid;
-  grid-template-columns: 30% 20% 20% 30%;
+  grid-template-columns: 30% 20% 10% 40%;
   grid-template-rows: auto;
-  grid-template-areas: "picture picture picture news" "left-question left-question right-question right-question"; }
+  grid-template-areas: "picture news news afterwork" "left-question left-question right-question right-question"; }
   @media (max-width: 960px) {
     .home {
       display: grid;
       grid-template-columns: auto;
       grid-template-rows: auto;
-      grid-template-areas: "news" "picture" "left-question" "right-question"; } }
+      grid-template-areas: "news" "afterwork" "picture" "left-question" "right-question"; } }
 .newApplicant {
   grid-area: left-question;
   margin-top: 30px; }
@@ -777,6 +777,22 @@ pre {
     padding-right: 10px;
     font-style: italic;
     white-space: nowrap; }
+
+.afterwork {
+  grid-area: afterwork;
+  padding: 10px;
+  margin: 10px;
+  position: relative;
+  overflow: hidden;
+  height: 495px; }
+  .afterwork iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 1px solid #bfcbda88;
+    border-radius: 4px; }
 
 .blink {
   animation: blinkAnimation 500ms linear 2; }
