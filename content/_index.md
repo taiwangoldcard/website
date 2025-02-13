@@ -36,11 +36,29 @@ description = "We are a strong community of professionals with Taiwan Gold Card 
 {{< section "homePicture" >}}
 
 {{< image
-    src="./images/taiwan-unsplash-2x.jpg"
+    src="./images/taipei101-unsplash.jpg"
     alt="Sunset over Taipei City"
     width="793"
     height="428"
     desktopOnly="true"
 >}}
+
+{{< /section >}}
+
+
+{{< section "afterwork" >}}
+
+## Upcoming After Work Events
+
+<iframe
+  src="https://lu.ma/embed/calendar/cal-YD66Z9Ov9mm8M2z/events"
+  width="600"
+  height="495"
+  frameborder="0"
+  style="border: 0px solid #bfcbda88; border-radius: 4px;"
+  allowfullscreen=""
+  aria-hidden="false"
+  tabindex="0"
+></iframe>
 
 {{< /section >}}
