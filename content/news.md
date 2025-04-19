@@ -1,4 +1,5 @@
 ## Gold Card News
+- <time datetime="2025-04-14">2025-04-14</time> [Until May 2nd, 2025: Submit Feedback for Proposed Changes to the Act for the Recruitment and Employment of Foreign Professionals](https://goldcard.nat.gov.tw/en/news/starting-today-the-public-is-welcome-to-participate-and-voice-suggestions-for-draft-revisions-of-the-act-for-the-recruitment-and-employment-of-foreign-professionals-at-join-gov-tw/)
 - <time datetime="2024-11-14">2025-02-13</time> [Event: Monthly Gold Card Community After Work](https://lu.ma/1vff2pb1)
 - <time datetime="2024-11-14">2024-11-14</time> [Event: Monthly Gold Card Community After Work](https://lu.ma/3fmdom84)
 - <time datetime="2024-10-16">2024-10-16</time> [11289 gold cards approved](https://goldcard.nat.gov.tw/en/news/2024-sep-cumulative-number-of-employment-gold-card-issuance/)
