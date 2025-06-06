@@ -52,9 +52,21 @@ Permanent Residence, or an "APRC" card, is available to those who legally
  spend three continuous years on a Gold Card, and present in Taiwan for at
  least an average of 183 days per year. If graduated in Taiwan with a doctoral degree
  a further year can be deducted.
- For more information check out the 
+
+### What income counts toward APRC requirements?
+The [official website](https://www.immigration.gov.tw/5475/5478/141465/141808/152932/) isn't particularly clear about what types of income qualify for APRC applications. According to community reports on [Forumosa](https://tw.forumosa.com/t/aprc-after-gold-card-what-are-the-rules/217586/46), the tax codes that can count toward the income requirement include:
+* 50 (Taiwan salary/wages)
+* 5F (overseas salary/wages) 
+* 9A (professional practice income)
+
+You'll see these categories in the tax return from the previous year that you'll need to attach to your APRC application.
+ 
+ 
+ 
+For more information check out the 
  [Gold Card Office FAQs](https://goldcard.nat.gov.tw/en/tags/aprc/)
  and the #APRC channel in the [Gold Card Community](/community) Slack workspace.
 
  Note: The policy regarding permanent residency is for foreign Gold Card holders, 
  not including [Hong Kong or Macau residents](https://goldcard.nat.gov.tw/en/faq/can-hong-kong-and-macau-gold-card-holders-apply-for-permanent-residency/).
+
