@@ -6,6 +6,14 @@ title: "Taiwan Gold Card Community"
 
 {{< block "grid-2" >}}
 
+{{< goldcardholder img="eric.jpg" name="Eric Khun" category="Science and Technology" location="Taipei" >}}
+**Background**:  I'm an engineer from France with a CS degree, lived in Beijing for a few years, and then happened to land in Taiwan. I like exploring the amazing food and coffee shops in Taiwan. You'll certainly find me playing volleyball or working on a personal project during my weekends.
+
+**Why Taiwan?** There's something special about Taiwan I couldn't explain when I first arrived—a blend of relaxation, freedom, safety, and convenience all at once.  I 've tried to put  the words on this on this  [post](https://erickhun.com/posts/why-taiwan/).
+
+**What are you currently doing in Taiwan?** I'm now building [Playcraft](https://playcraft.fun/), a no-code platform that lets you create interactive games in seconds. It's aimed at businesses and event organizers looking for creative ways to engage their audience. I also continue organizing events for Taiwan's Gold Card community and developers.
+{{< /goldcardholder >}}
+
 {{< goldcardholder img="cnelson.jpg" name="Chase Nelson 倪誠志 Ph.D." category="Science and Technology" location="Taipei" >}}
 **Background:** Biologist and singer from the USA. I received by B.A. from Oberlin College and my Ph.D. from the University of South Carolina. My scientific work specializes in bioinformatics, virus evolution, and cancer. Other endeavors include musical performance, writing, weightlifting, and coffee.
 
