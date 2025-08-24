@@ -11,7 +11,7 @@ title: "Taiwan Gold Card Community"
 
 **Why Taiwan?** There's something special about Taiwan I couldn't explain when I first arrived—a blend of relaxation, freedom, safety, and convenience all at once.  I 've tried to put  the words on this on this  [post](https://erickhun.com/posts/why-taiwan/).
 
-**What are you currently doing in Taiwan?** I'm now building [Playcraft](https://playcraft.fun/), a no-code platform that lets you create interactive games in seconds. It's aimed at businesses and event organizers looking for creative ways to engage their audience. I also continue organizing events for Taiwan's Gold Card community and developers.
+**What are you currently doing in Taiwan?** I'm now building [playcraft](https://playcraft.fun/), a no-code platform that lets you create interactive games in seconds. It's aimed at businesses and event organizers looking for creative ways to engage and connect with their audience. I also continue organizing events for Taiwan's Gold Card community and developers.
 {{< /goldcardholder >}}
 
 {{< goldcardholder img="cnelson.jpg" name="Chase Nelson 倪誠志 Ph.D." category="Science and Technology" location="Taipei" >}}
