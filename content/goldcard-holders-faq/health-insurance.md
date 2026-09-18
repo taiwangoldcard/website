@@ -43,10 +43,12 @@ For those who don't have a Taiwanese employer:
 
 The waiting period ends after 6 calendar months (on the date). For example, if your waiting period starts on May 15 then you can enroll for NHI on Nov 15.
 
-## Am I allowed to leave the country during the six-month period wait?
-You are only allowed to [leave once for less than 30 days](https://eng.nhi.gov.tw/en/cp-49-fb4a6-24-2.html). Note that when you are away from Taiwan, the six-month waiting period will be paused. It will resume once you return to Taiwan.
+## What happens if I leave the country during the six-month waiting period?
+You may [leave once for less than 30 days](https://eng.nhi.gov.tw/en/cp-49-fb4a6-24-2.html). When you are away from Taiwan, the six-month waiting period will be paused. It will resume once you return to Taiwan.
 
 For example, if you are in Taiwan for 3 months and then leave for 1 month, you will have to wait for 3 more months once you get back to Taiwan (7 months in total).
+
+However, if you leave more than once *or* leave for more than 30 days, you cannot enroll and the 6-month waiting period starts again.
 
 ## I need a health insurance during the six-month waiting period - What are the solutions?
 We know it's not ideal, but here some ways our community has solved this problem: 
@@ -61,9 +63,7 @@ You **must** enroll when you are eligible. The National Health Insurance program
 > Certificate (ARC - Gold Card included), regardless of age, gender, or employment status, must
 > enroll in the program when they met the enrollment qualifications.
 
-If you plan to leave Taiwan for more than six months you can either maintain or suspend your NHI. Refer to the NHI website for more information.
-
-[What to Do If Going Abroad for More than Six Months](https://eng.nhi.gov.tw/en/mp-2.html)
+Once enrolled, you must continue to pay your NHI bill, even if you're abroad.
 
 ## Where can I see a list of NHI clinics close to me?
 The NHI mobile app has a map-based search of all NHI facilities.
